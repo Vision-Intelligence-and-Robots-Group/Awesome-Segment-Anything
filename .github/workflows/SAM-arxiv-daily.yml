@@ -52,7 +52,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update SAM-related Arxiv Papers"
-          files: arxiv-daily-docs/SAM-arxiv-daily.json arxiv-daily-docs/SAM-arxiv-daily.md arxiv-daily-docs/SAM-arxiv-daily-wechat.json arxiv-daily-docs/wechat.md
+          files: arxiv-daily-docs/SAM-arxiv-daily.json arxiv-daily-docs/README.md arxiv-daily-docs/SAM-arxiv-daily-wechat.json arxiv-daily-docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
