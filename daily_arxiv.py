@@ -204,7 +204,7 @@ if __name__ == "__main__":
 
     # 1. update README.md file
     json_file = "./arxiv-daily-docs/SAM-arxiv-daily.json"
-    md_file   = "./arxiv-daily-docs/SAM-arxiv-daily.md"
+    md_file   = "./arxiv-daily-docs/README.md"
     # update json data
     update_json_file(json_file,data_collector)
     # json data to markdown
