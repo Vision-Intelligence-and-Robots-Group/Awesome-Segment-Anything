@@ -5,6 +5,8 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 **Keywords:** Segment Anything Model, Segment Anything, SAM, awesome
 
 > **CATALOGUE**
+>
+>[Origin of the Study](#quick-start) :heartpulse: [Lecture & Notes](#workshop) :heartpulse: [Papers](#papers-by-categories)
 
 ## 1 Origin of the Study <span id='quick-start'></span>
 
