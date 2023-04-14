@@ -16,20 +16,20 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 + **[SEEM]** Segment Everything Everywhere All at Once (2023)[[paper]](https://arxiv.org/pdf/2304.06718.pdf)[[Project]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)![GitHub stars](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg?logo=github&label=Stars)
 
-**Toolbox & Framework**
+## 2 Toolbox & Framework<span id='workshop'>
 
 + **[Grounded-Segment-Anything]** Grounded-Segment-Anything[[paper]][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
-+ **[Awesome Segment-Anything Extensions]** Grounded-Segment-Anything[[paper]][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
++ **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions[[paper]][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
 
 + **[SALT]** Segment Anything Labelling Tool[[paper]][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
 
-## 2 Lecture & Notes<span id='workshop'>
+## 3 Lecture & Notes<span id='workshop'>
 
 **How to | roboflow** how-to-segment-anything-with-sam [[blog]](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)
 
 
-## 3 Papers <span id='papers-by-categories'></span>
+## 4 Papers <span id='papers-by-categories'></span>
 
 ### Analysis & Emprical Study
 
