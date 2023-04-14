@@ -203,24 +203,16 @@ if __name__ == "__main__":
         print("\n")
 
     # 1. update README.md file
-    json_file = "SAM-arxiv-daily.json"
-    md_file   = "README.md"
+    json_file = "./arxiv-daily-docs/SAM-arxiv-daily.json"
+    md_file   = "./arxiv-daily-docs/SAM-arxiv-daily.md"
     # update json data
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
 
-    # 2. update docs/index.md file
-    json_file = "./docs/SAM-arxiv-daily-web.json"
-    md_file   = "./docs/index.md"
-    # update json data
-    update_json_file(json_file,data_collector)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web = True)
-
-    # 3. Update docs/wechat.md file
-    json_file = "./docs/sam-arxiv-daily-wechat.json"
-    md_file   = "./docs/wechat.md"
+    # 2. Update docs/wechat.md file
+    json_file = "./arxiv-daily-docs/sam-arxiv-daily-wechat.json"
+    md_file   = "./arxiv-daily-docs/wechat.md"
     # update json data
     update_json_file(json_file, data_collector_web)
     # json data to markdown
