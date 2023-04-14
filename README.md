@@ -30,9 +30,6 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 
 ## 4 Papers <span id='papers-by-categories'></span>
-
-### Arxiv-daily-update
-[Click here](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/README.md) to check the daily-updated paper list!
   
 ### Analysis & Emprical Study
 
@@ -46,5 +43,6 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 **[Camouflaged Object Segmentation]** SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"[[paper]](https://arxiv.org/abs/2304.06022)[code]
 
-
+### Arxiv-daily-update
+[Click here](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/README.md) to check the daily-updated paper list!
 
