@@ -33,15 +33,15 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
   
 ### Analysis & Emprical Study
 
+**[Zero-shot Segmentation]** Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging[[paper]](https://arxiv.org/abs/2304.04155)[[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
+
+**[Camouflaged Object Segmentation]** SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"[[paper]](https://arxiv.org/abs/2304.06022)[code]
+
 **[Camouflaged Object Detection]** Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection[[paper]](https://arxiv.org/abs/2304.04709)[[code]](https://github.com/luckybird1994/SAMCOD)![GitHub stars](https://img.shields.io/github/stars/luckybird1994/SAMCOD.svg?logo=github&label=Stars)
 
 **[Multi-Object Tracking]** CO-MOT[paper][[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
 
-**[Zero-shot Segmentation]** Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging[[paper]](https://arxiv.org/abs/2304.04155)[[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
-
 **[Brain Extraction]** Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool[[paper]](https://arxiv.org/abs/2304.04738)[code]
-
-**[Camouflaged Object Segmentation]** SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"[[paper]](https://arxiv.org/abs/2304.06022)[code]
 
 ### Arxiv-daily-update
 [Click here](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/README.md) to check the daily-updated paper list!
