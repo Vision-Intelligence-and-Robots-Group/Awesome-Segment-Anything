@@ -2,7 +2,7 @@
 
 Segment Anything Model Repository: A collection of documents, papers, source code, and talks for Meta AI's Segment Anything Model (SAM) and related studies.
 
-**Keywords:** Segment Anything Model, Segment Anything, SAM, 
+**Keywords:** Segment Anything Model, Segment Anything, SAM, awesome
 
 > **CATALOGUE**
 
@@ -18,6 +18,10 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb
 
 **Toolbox & Framework**
+
++ **[Grounded-Segment-Anything]** Grounded-Segment-Anything[[paper]][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
+
++ **[Awesome Segment-Anything Extensions]** Grounded-Segment-Anything[[paper]][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
 
 + **[SALT]** Segment Anything Labelling Tool[[paper]][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
 
