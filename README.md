@@ -32,7 +32,7 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 ## 3 Papers <span id='papers-by-categories'></span>
 
 ### Arxiv-daily-update
-**[list]**(https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/SAM-arxiv-daily.md)
+[[list]](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/SAM-arxiv-daily.md)
   
 ### Analysis & Emprical Study
 
