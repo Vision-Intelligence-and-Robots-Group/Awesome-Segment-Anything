@@ -31,6 +31,9 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 ## 3 Papers <span id='papers-by-categories'></span>
 
+### Arxiv-daily-update
+**[list]**(https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/SAM-arxiv-daily.md)
+  
 ### Analysis & Emprical Study
 
 **[Camouflaged Object Detection]** Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection[[paper]](https://arxiv.org/abs/2304.04709)[[code]](https://github.com/luckybird1994/SAMCOD)![GitHub stars](https://img.shields.io/github/stars/luckybird1994/SAMCOD.svg?logo=github&label=Stars)
