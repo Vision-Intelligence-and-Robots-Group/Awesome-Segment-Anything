@@ -211,7 +211,7 @@ if __name__ == "__main__":
     json_to_md(json_file,md_file)
 
     # 2. Update docs/wechat.md file
-    json_file = "./arxiv-daily-docs/Sam-arxiv-daily-wechat.json"
+    json_file = "./arxiv-daily-docs/SAM-arxiv-daily-wechat.json"
     md_file   = "./arxiv-daily-docs/wechat.md"
     # update json data
     update_json_file(json_file, data_collector_web)
