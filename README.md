@@ -27,7 +27,7 @@ https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anythin
 
 ## 2 Lecture & Notes<span id='workshop'>
 
-**How to | roboflow** https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb
+**How to | roboflow** how-to-segment-anything-with-sam [[blog]](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)
 
 
 ## 3 Papers <span id='papers-by-categories'></span>
