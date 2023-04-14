@@ -13,6 +13,5 @@
 |**2023-04-11**|**Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection**|Lv Tang et.al.|[2304.04709v2](http://arxiv.org/abs/2304.04709v2)|**[link](https://github.com/luckybird1994/samcod)**|
 |**2023-04-09**|**Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging**|Ruining Deng et.al.|[2304.04155v1](http://arxiv.org/abs/2304.04155v1)|null|
 |**2023-04-05**|**Segment Anything**|Alexander Kirillov et.al.|[2304.02643v1](http://arxiv.org/abs/2304.02643v1)|**[link](https://github.com/facebookresearch/segment-anything)**|
-|**2022-05-24**|**A Wireless-Vision Dataset for Privacy Preserving Human Activity Recognition**|Yanling Hao et.al.|[2205.11962v1](http://arxiv.org/abs/2205.11962v1)|null|
 |**2020-04-01**|**Towards Segmenting Anything That Moves**|Achal Dave et.al.|[1902.03715v4](http://arxiv.org/abs/1902.03715v4)|null|
 
