@@ -15,4 +15,3 @@
 |**2023-04-05**|**Segment Anything**|Alexander Kirillov et.al.|[2304.02643v1](http://arxiv.org/abs/2304.02643v1)|**[link](https://github.com/facebookresearch/segment-anything)**|
 |**2020-04-01**|**Towards Segmenting Anything That Moves**|Achal Dave et.al.|[1902.03715v4](http://arxiv.org/abs/1902.03715v4)|null|
 
-test
