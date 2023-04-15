@@ -52,7 +52,7 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 ### Explaning and Supporting Basic Models
 
-**[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)|**[link](https://github.com/xmed-lab/clip_surgery)[[code]](https://github.com/xmed-lab/CLIP_Surgery)
+**[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)[[code]](https://github.com/xmed-lab/clip_surgery)[[code]](https://github.com/xmed-lab/CLIP_Surgery)
 
 ### Arxiv-daily-update
 [Click here](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/README.md) to check the daily-updated paper list!
