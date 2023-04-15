@@ -24,6 +24,7 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 + **[SALT]** Segment Anything Labelling Tool[paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
 
++ **[]** Segment-Anything-CLIP [paper][[code]](https://github.com/PengtaoJiang/Segment-Anything-CLIP)![GitHub stars](https://img.shields.io/github/stars/PengtaoJiang/Segment-Anything-CLIP.svg?logo=github&label=Stars)
 ## 3 Lecture & Notes<span id='workshop'>
 
 **How to | roboflow** how-to-segment-anything-with-sam [[blog]](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)
