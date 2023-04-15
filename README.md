@@ -18,11 +18,11 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 ## 2 Toolbox & Framework<span id='tool'>
 
-+ **[Grounded-Segment-Anything]** Grounded-Segment-Anything[[paper]][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
++ **[Grounded-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
-+ **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions[[paper]][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
++ **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions[paper][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
 
-+ **[SALT]** Segment Anything Labelling Tool[[paper]][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
++ **[SALT]** Segment Anything Labelling Tool[paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
 
 ## 3 Lecture & Notes<span id='workshop'>
 
@@ -52,7 +52,7 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
 
 ### Explaning and Supporting Basic Models
 
-**[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)[[code]](https://github.com/xmed-lab/clip_surgery)[[code]](https://github.com/xmed-lab/CLIP_Surgery)
+**[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)[[code]](https://github.com/xmed-lab/clip_surgery)
 
 ### Arxiv-daily-update
 [Click here](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/README.md) to check the daily-updated paper list!
