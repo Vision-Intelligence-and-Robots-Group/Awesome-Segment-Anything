@@ -33,26 +33,26 @@ Segment Anything Model Repository: A collection of documents, papers, source cod
   
 ### Image Segmentation & Medical Image Segmentation
 
-**[Zero-shot Segmentation]** Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging[[paper]](https://arxiv.org/abs/2304.04155)[[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
++ **[Zero-shot Segmentation]** Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging[[paper]](https://arxiv.org/abs/2304.04155)[[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
 
 **[generic segmentation]** Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[paper]](http://arxiv.org/abs/2304.05750v2)[code]
-**[Medical Image segmentation]** SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [[paper]](http://arxiv.org/abs/2304.05622v1)[[code]](https://github.com/bingogome/samm)
++ **[Medical Image segmentation]** SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [[paper]](http://arxiv.org/abs/2304.05622v1)[[code]](https://github.com/bingogome/samm)
 
-**[Medical Image segmentation]** SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [[paper]]http://arxiv.org/abs/2304.05396v1 [code]
++ **[Medical Image segmentation]** SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [[paper]]http://arxiv.org/abs/2304.05396v1 [code]
 
-**[Camouflaged Object Segmentation]** SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"[[paper]](https://arxiv.org/abs/2304.06022)[code]
++ **[Camouflaged Object Segmentation]** SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"[[paper]](https://arxiv.org/abs/2304.06022)[code]
 
-**[Brain Extraction]** Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool[[paper]](https://arxiv.org/abs/2304.04738)[code]
++ **[Brain Extraction]** Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool[[paper]](https://arxiv.org/abs/2304.04738)[code]
 
 ### Object Detection & Tracking
 
-**[Camouflaged Object Detection]** Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection[[paper]](https://arxiv.org/abs/2304.04709)[[code]](https://github.com/luckybird1994/SAMCOD)![GitHub stars](https://img.shields.io/github/stars/luckybird1994/SAMCOD.svg?logo=github&label=Stars)
++ **[Camouflaged Object Detection]** Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection[[paper]](https://arxiv.org/abs/2304.04709)[[code]](https://github.com/luckybird1994/SAMCOD)![GitHub stars](https://img.shields.io/github/stars/luckybird1994/SAMCOD.svg?logo=github&label=Stars)
 
-**[Multi-Object Tracking]** CO-MOT[paper][[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
++ **[Multi-Object Tracking]** CO-MOT[paper][[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
 
 ### Explaning and Supporting Basic Models
 
-**[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)[[code]](https://github.com/xmed-lab/clip_surgery)
++ **[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)[[code]](https://github.com/xmed-lab/clip_surgery)
 
 ### Arxiv-daily-update
 [Click here](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything-Model/blob/main/arxiv-daily-docs/README.md) to check the daily-updated paper list!
