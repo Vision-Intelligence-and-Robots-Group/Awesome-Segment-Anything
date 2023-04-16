@@ -1,6 +1,7 @@
 # Awesome-Segment-Anything-Model
 
 Tribute to Meta AI's Segment Anything Model (SAM)
+
 A collection of projects, papers, and source code for SAM and related studies.
 
 **Keywords:** Segment Anything Model, Segment Anything, SAM, awesome
