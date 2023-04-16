@@ -1,4 +1,4 @@
-# Awesome-Segment-Anything-Model
+# Awesome-Segment-Anything
 
 Tribute to Meta AI's Segment Anything Model (SAM)
 
@@ -38,7 +38,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 + **[Zero-shot Segmentation]** Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging[[paper]](https://arxiv.org/abs/2304.04155)[[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
 
-**[generic segmentation]** Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[paper]](http://arxiv.org/abs/2304.05750v2)[code]
++ **[generic segmentation]** Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[paper]](http://arxiv.org/abs/2304.05750v2)[code]
 + **[Medical Image segmentation]** SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [[paper]](http://arxiv.org/abs/2304.05622v1)[[code]](https://github.com/bingogome/samm)
 
 + **[Medical Image segmentation]** SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [[paper]]http://arxiv.org/abs/2304.05396v1 [code]
