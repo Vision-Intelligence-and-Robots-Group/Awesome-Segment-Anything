@@ -1,6 +1,6 @@
 # Awesome-Segment-Anything-Model
 
-Segment Anything Model Repository: A collection of documents, papers, source code, and talks for Meta AI's Segment Anything Model (SAM) and related studies.
+Tribute to Segment Anything Model: A collection of documents, papers, source code, and talks for Meta AI's Segment Anything Model (SAM) and related studies.
 
 **Keywords:** Segment Anything Model, Segment Anything, SAM, awesome
 
