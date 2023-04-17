@@ -8,7 +8,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 > **CATALOGUE**
 >
->[Origin of the Study](#quick-start) :heartpulse: [Toolbox & Framework](#tool) :heartpulse: [Lecture & Notes](#workshop) :heartpulse: [Papers](#papers-by-categories)
+>[Origin of the Study](#quick-start) :heartpulse: [Project & Toolbox](#tool) :heartpulse: [Lecture & Notes](#workshop) :heartpulse: [Papers](#papers-by-categories)
 
 ## 1 Origin of the Study <span id='quick-start'></span>
 
@@ -18,7 +18,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 + **[SEEM]** Segment Everything Everywhere All at Once (2023)[[paper]](https://arxiv.org/pdf/2304.06718.pdf)[[Project]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)![GitHub stars](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg?logo=github&label=Stars)
 
-## 2 Toolbox & Framework<span id='tool'>
+## 2 Project & Toolbox<span id='tool'>
 
 + **[Grounded-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
