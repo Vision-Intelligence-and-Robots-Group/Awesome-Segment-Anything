@@ -19,12 +19,14 @@ A collection of projects, papers, and source code for SAM and related studies.
 + **[SEEM]** Segment Everything Everywhere All at Once (2023)[[paper]](https://arxiv.org/pdf/2304.06718.pdf)[[Project]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)![GitHub stars](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.svg?logo=github&label=Stars)
 
 ## 2 Project & Toolbox<span id='tool'>
-
+  
 + **[Semantic-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)
 
 + **[Grounded-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
 + **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions[paper][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
+
++ **[sd-webui-segment-anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/continue-revolution/sd-webui-segment-anything)![GitHub stars](https://img.shields.io/github/stars/continue-revolution/sd-webui-segment-anything.svg?logo=github&label=Stars)
 
 + **[Awesome Anything]** A curated list of general AI methods for Anything [paper][[code]](https://github.com/VainF/Awesome-Anything)![GitHub stars](https://img.shields.io/github/stars/VainF/Awesome-Anything.svg?logo=github&label=Stars)
 
