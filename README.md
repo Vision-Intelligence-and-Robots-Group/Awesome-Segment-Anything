@@ -20,6 +20,8 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 ## 2 Project & Toolbox<span id='tool'>
 
++ **[Semantic-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)
+
 + **[Grounded-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
 + **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions[paper][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
