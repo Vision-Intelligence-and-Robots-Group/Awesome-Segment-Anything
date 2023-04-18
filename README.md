@@ -20,21 +20,22 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 ## 2 Project & Toolbox<span id='tool'>
   
-+ **[Semantic-Segment-Anything]** A pipeline on top of SAM to predict semantic category for each mask [paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)
-
-+ **[EditAnything]** EditAnything [paper][[code]](https://github.com/sail-sg/EditAnything)![GitHub stars](https://img.shields.io/github/stars/sail-sg/EditAnything.svg?logo=github&label=Stars)
-
-+ **[Grounded-Segment-Anything]** Grounded-Segment-Anything [paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
 + **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions [paper][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
 
-+ **[sd-webui-segment-anything]** extension for helping stable diffusion webui with inpainting [paper][[code]](https://github.com/continue-revolution/sd-webui-segment-anything)![GitHub stars](https://img.shields.io/github/stars/continue-revolution/sd-webui-segment-anything.svg?logo=github&label=Stars)
-
 + **[Awesome Anything]** A curated list of general AI methods for Anything [paper][[code]](https://github.com/VainF/Awesome-Anything)![GitHub stars](https://img.shields.io/github/stars/VainF/Awesome-Anything.svg?logo=github&label=Stars)
 
-+ **[SALT]** Segment Anything Labelling Tool [paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
-
-+ **[SAM-CLIP]** Segment Anything CLIP [paper][[code]](https://github.com/PengtaoJiang/Segment-Anything-CLIP)![GitHub stars](https://img.shields.io/github/stars/PengtaoJiang/Segment-Anything-CLIP.svg?logo=github&label=Stars)
+|Preview|Project|
+|------|------|
+|![preview](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/acoustics/gsam_whisper_inpainting_demo.png)|**[Grounded-Segment-Anything]** Grounded-Segment-Anything(DINO + SAM) [[paper]](https://arxiv.org/abs/2303.05499)[[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)|
+|![preview](https://github.com/Cheems-Seminar/grounded-segment-any-parts/raw/main/assets/dog2zebra.jpg)|**[Grounded Segment Anything: From Objects to Parts]** Support text prompt input(GLIP/VLPart + SAM)[paper][[code]](https://github.com/Cheems-Seminar/grounded-segment-any-parts)![GitHub Repo stars](https://img.shields.io/github/stars/Cheems-Seminar/grounded-segment-any-parts?logo=github&style=flat-square)|
+|![preview](https://github.com/fudan-zvg/Semantic-Segment-Anything/raw/main/figures/SSA_motivation.png)|**[Semantic-Segment-Anything]** A pipeline on top of SAM to predict semantic category for each mask [paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)|
+|![preview](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection/raw/master/assets/demo_results.png)|**[GroundedSAM-zero-shot-anomaly-detection]** Segment any anomaly[papaer][[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)![GitHub Repo stars](https://img.shields.io/github/stars/caoyunkang/GroundedSAM-zero-shot-anomaly-detection?logo=github&style=flat-square)|
+|![preview](https://github.com/sail-sg/EditAnything/raw/main/images/sample_cat_eye.jpg)|**[EditAnything]** EditAnything [paper][[code]](https://github.com/sail-sg/EditAnything)![GitHub stars](https://img.shields.io/github/stars/sail-sg/EditAnything.svg?logo=github&label=Stars)|
+|![preview](https://user-images.githubusercontent.com/14961526/230437084-79ef6e02-a254-421e-bd4c-32e87415c623.png)|**[sd-webui-segment-anything]** extension for helping stable diffusion webui with inpainting [paper][[code]](https://github.com/continue-revolution/sd-webui-segment-anything)![GitHub stars](https://img.shields.io/github/stars/continue-revolution/sd-webui-segment-anything.svg?logo=github&label=Stars)|
+|![preview](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif)|**[SALT]** Segment Anything Labelling Tool [paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)|
+|![preview](https://github.com/PengtaoJiang/SAM-CLIP/raw/main/imgs/pipeline.png)|**[SAM-CLIP]** Segment Anything CLIP [paper][[code]](https://github.com/PengtaoJiang/Segment-Anything-CLIP)![GitHub stars](https://img.shields.io/github/stars/PengtaoJiang/Segment-Anything-CLIP.svg?logo=github&label=Stars)|
+|![preview](https://github.com/RockeyCoss/Prompt-Segment-Anything/raw/master/assets/example1.jpg)|**[Prompt-Segment-Anything]** An implementation of SAM[parper][[code]](https://github.com/RockeyCoss/Prompt-Segment-Anything)![GitHub Repo stars](https://img.shields.io/github/stars/RockeyCoss/Prompt-Segment-Anything?logo=github&style=flat-square)|
 
 ## 3 Lecture & Notes<span id='workshop'>
 
