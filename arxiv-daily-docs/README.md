@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR**|Junzhang Chen et.al.|[2304.07969v1](http://arxiv.org/abs/2304.07969v1)|**[link](https://github.com/chenjzbuaa/satir)**|
+|**2023-04-16**|**The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning**|Florian Putz et.al.|[2304.07875v1](http://arxiv.org/abs/2304.07875v1)|null|
+|**2023-04-16**|**Deep learning universal crater detection using Segment Anything Model (SAM)**|Iraklis Giannakis et.al.|[2304.07764v1](http://arxiv.org/abs/2304.07764v1)|null|
+|**2023-04-15**|**Can SAM Segment Polyps?**|Tao Zhou et.al.|[2304.07583v1](http://arxiv.org/abs/2304.07583v1)|null|
 |**2023-04-13**|**Inpaint Anything: Segment Anything Meets Image Inpainting**|Tao Yu et.al.|[2304.06790v1](http://arxiv.org/abs/2304.06790v1)|**[link](https://github.com/geekyutao/inpaint-anything)**|
 |**2023-04-15**|**SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**|Ge-Peng Ji et.al.|[2304.06022v2](http://arxiv.org/abs/2304.06022v2)|null|
 |**2023-04-13**|**Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications**|Wei Ji et.al.|[2304.05750v2](http://arxiv.org/abs/2304.05750v2)|null|
