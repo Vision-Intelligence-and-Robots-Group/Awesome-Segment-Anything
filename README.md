@@ -22,7 +22,7 @@ A collection of projects, papers, and source code for SAM and related studies.
   
 + **[Semantic-Segment-Anything]** A pipeline on top of SAM to predict semantic category for each mask [paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)
 
-+ **[EditAnything]** EditAnything [paper][[code]](https://github.com/sail-sg/EditAnything)![GitHub stars](https://img.shields.io/github/sail-sg/EditAnything.svg?logo=github&label=Stars)
++ **[EditAnything]** EditAnything [paper][[code]](https://github.com/sail-sg/EditAnything)![GitHub stars](https://img.shields.io/github/stars/sail-sg/EditAnything.svg?logo=github&label=Stars)
 
 + **[Grounded-Segment-Anything]** Grounded-Segment-Anything [paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
