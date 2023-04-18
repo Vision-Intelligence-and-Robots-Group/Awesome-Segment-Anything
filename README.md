@@ -20,19 +20,19 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 ## 2 Project & Toolbox<span id='tool'>
   
-+ **[Semantic-Segment-Anything]** Semantic-Segment-Anything[paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)
++ **[Semantic-Segment-Anything]** A pipeline on top of SAM to predict semantic category for each mask [paper][[code]](https://github.com/fudan-zvg/Semantic-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/fudan-zvg/Semantic-Segment-Anything.svg?logo=github&label=Stars)
 
-+ **[EditAnything]** EditAnything[paper][[code]](https://github.com/sail-sg/EditAnything)![GitHub stars](https://img.shields.io/github.com/sail-sg/EditAnything.svg?logo=github&label=Stars)
++ **[EditAnything]** EditAnything [paper][[code]](https://github.com/sail-sg/EditAnything)![GitHub stars](https://img.shields.io/github/sail-sg/EditAnything.svg?logo=github&label=Stars)
 
-+ **[Grounded-Segment-Anything]** Grounded-Segment-Anything[paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
++ **[Grounded-Segment-Anything]** Grounded-Segment-Anything [paper][[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)
 
-+ **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions[paper][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
++ **[Awesome Segment-Anything Extensions]** Awesome Segment-Anything Extensions [paper][[code]](https://github.com/JerryX1110/awesome-segment-anything-extensions)![GitHub stars](https://img.shields.io/github/stars/JerryX1110/awesome-segment-anything-extensions.svg?logo=github&label=Stars)
 
-+ **[sd-webui-segment-anything]** sd-webui-segment-anything[paper][[code]](https://github.com/continue-revolution/sd-webui-segment-anything)![GitHub stars](https://img.shields.io/github/stars/continue-revolution/sd-webui-segment-anything.svg?logo=github&label=Stars)
++ **[sd-webui-segment-anything]** extension for helping stable diffusion webui with inpainting [paper][[code]](https://github.com/continue-revolution/sd-webui-segment-anything)![GitHub stars](https://img.shields.io/github/stars/continue-revolution/sd-webui-segment-anything.svg?logo=github&label=Stars)
 
 + **[Awesome Anything]** A curated list of general AI methods for Anything [paper][[code]](https://github.com/VainF/Awesome-Anything)![GitHub stars](https://img.shields.io/github/stars/VainF/Awesome-Anything.svg?logo=github&label=Stars)
 
-+ **[SALT]** Segment Anything Labelling Tool[paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
++ **[SALT]** Segment Anything Labelling Tool [paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)
 
 + **[SAM-CLIP]** Segment Anything CLIP [paper][[code]](https://github.com/PengtaoJiang/Segment-Anything-CLIP)![GitHub stars](https://img.shields.io/github/stars/PengtaoJiang/Segment-Anything-CLIP.svg?logo=github&label=Stars)
 
