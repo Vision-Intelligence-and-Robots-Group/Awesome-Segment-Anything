@@ -36,7 +36,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 |![preview](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif)|**[SALT]** Segment Anything Labelling Tool [paper][[code]](https://github.com/anuragxel/salt)![GitHub stars](https://img.shields.io/github/stars/anuragxel/salt.svg?logo=github&label=Stars)|
 |![preview](https://github.com/PengtaoJiang/SAM-CLIP/raw/main/imgs/pipeline.png)|**[SAM-CLIP]** Segment Anything CLIP [paper][[code]](https://github.com/PengtaoJiang/Segment-Anything-CLIP)![GitHub stars](https://img.shields.io/github/stars/PengtaoJiang/Segment-Anything-CLIP.svg?logo=github&label=Stars)|
 |![preview](https://github.com/RockeyCoss/Prompt-Segment-Anything/raw/master/assets/example1.jpg)|**[Prompt-Segment-Anything]** An implementation of SAM[parper][[code]](https://github.com/RockeyCoss/Prompt-Segment-Anything)![GitHub Repo stars](https://img.shields.io/github/stars/RockeyCoss/Prompt-Segment-Anything?logo=github&style=flat-square)|
-
+|![preview](https://github.com/Vision-Intelligence-and-Robots-Group/count-anything/raw/main/example.png)|**[Count-Anything]** Few-shot SAM Counting[parper][[code]](https://github.com/Vision-Intelligence-and-Robots-Group/count-anything)![GitHub Repo stars](https://img.shields.io/github/stars/Vision-Intelligence-and-Robots-Group/count-anything?logo=github&style=flat-square)|
 ## 3 Lecture & Notes<span id='workshop'>
 
 **How to | roboflow** how-to-segment-anything-with-sam [[blog]](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)
