@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More**|Tianrun Chen et.al.|[2304.09148v1](http://arxiv.org/abs/2304.09148v1)|null|
+|**2023-04-17**|**When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation**|Chuanfei Hu et.al.|[2304.08506v1](http://arxiv.org/abs/2304.08506v1)|null|
 |**2023-04-17**|**Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR**|Junzhang Chen et.al.|[2304.07969v1](http://arxiv.org/abs/2304.07969v1)|**[link](https://github.com/chenjzbuaa/satir)**|
 |**2023-04-16**|**The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning**|Florian Putz et.al.|[2304.07875v1](http://arxiv.org/abs/2304.07875v1)|null|
 |**2023-04-16**|**Deep learning universal crater detection using Segment Anything Model (SAM)**|Iraklis Giannakis et.al.|[2304.07764v1](http://arxiv.org/abs/2304.07764v1)|null|
