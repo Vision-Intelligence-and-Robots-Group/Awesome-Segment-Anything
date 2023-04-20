@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728v1](http://arxiv.org/abs/2304.09728v1)|**[link](https://github.com/huage001/transfer-any-style)**|
+|**2023-04-18**|**Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks**|Sheng He et.al.|[2304.09324v1](http://arxiv.org/abs/2304.09324v1)|null|
 |**2023-04-19**|**SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More**|Tianrun Chen et.al.|[2304.09148v2](http://arxiv.org/abs/2304.09148v2)|null|
 |**2023-04-17**|**When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation**|Chuanfei Hu et.al.|[2304.08506v1](http://arxiv.org/abs/2304.08506v1)|null|
 |**2023-04-17**|**Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR**|Junzhang Chen et.al.|[2304.07969v1](http://arxiv.org/abs/2304.07969v1)|**[link](https://github.com/chenjzbuaa/satir)**|
