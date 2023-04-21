@@ -41,7 +41,8 @@ A collection of projects, papers, and source code for SAM and related studies.
 |![preview](https://github.com/QianXuna/Myimg/blob/main/image/ay0uq-jd22c.gif?raw=true)|**[napari-segment-anything]** Image viewer plugin of SAM[paper][[code]](https://github.com/JoOkuma/napari-segment-anything)![GitHub Repo stars](https://img.shields.io/github/stars/JoOkuma/napari-segment-anything?logo=github&style=flat-square)|
 |![preview](https://github.com/yeungchenwa/OCR-SAM/raw/main/imgs/erase_vis.png) | **OCR-SAM** SAM is applied to OCR [paper][[code]](https://github.com/yeungchenwa/OCR-SAM#sam-for-text)![GitHub Repo stars](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM?logo=github&style=flat-square)|
 |![preview](https://github.com/lujiazho/SegDrawer/raw/main/example/demo.gif)|**SegDrawer** Simple static web-based mask drawer[paper][[code]](https://github.com/lujiazho/SegDrawer)![GitHub Repo stars](https://img.shields.io/github/stars/lujiazho/SegDrawer?logo=github&style=flat-square)|
-|![preview](https://github.com/QianXuna/Myimg/blob/main/image/w3gjq-2pu51.gif?raw=true)|**Magic Copy** [paper][[code]](https://github.com/kevmo314/magic-copy)![GitHub Repo stars](https://img.shields.io/github/stars/kevmo314/magic-copy?logo=github&style=flat-square)|
+|![preview](https://github.com/QianXuna/Myimg/blob/main/image/w3gjq-2pu51.gif?raw=true)|**Magic Copy** Extract and copy foreground objects using SAM[paper][[code]](https://github.com/kevmo314/magic-copy)![GitHub Repo stars](https://img.shields.io/github/stars/kevmo314/magic-copy?logo=github&style=flat-square)|
+|![preview](https://github.com/QianXuna/Myimg/blob/main/image/tq67n-hjrc4.gif?raw=true)|**Track-Anything** Video object tracking and segmentation based on SAM[paper][[code]](https://github.com/gaomingqi/Track-Anything)![GitHub Repo stars](https://img.shields.io/github/stars/gaomingqi/Track-Anything?logo=github&style=flat-square)|
 
 ## 3 Lecture & Notes<span id='workshop'>
 
