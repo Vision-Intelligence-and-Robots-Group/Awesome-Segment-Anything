@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Can SAM Count Anything? An Empirical Study on SAM Counting**|Zhiheng Ma et.al.|[2304.10817v1](http://arxiv.org/abs/2304.10817v1)|**[link](https://github.com/vision-intelligence-and-robots-group/count-anything)**|
+|**2023-04-20**|**Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models**|Jielu Zhang et.al.|[2304.10597v1](http://arxiv.org/abs/2304.10597v1)|**[link](https://github.com/douglas2code/text2seg)**|
 |**2023-04-20**|**Segment Anything Model for Medical Image Analysis: an Experimental Study**|Maciej A. Mazurowski et.al.|[2304.10517v1](http://arxiv.org/abs/2304.10517v1)|null|
 |**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen et.al.|[2304.10261v1](http://arxiv.org/abs/2304.10261v1)|**[link](https://github.com/anything-of-anything/anything-3d)**|
 |**2023-04-20**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728v2](http://arxiv.org/abs/2304.09728v2)|**[link](https://github.com/huage001/transfer-any-style)**|
