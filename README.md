@@ -25,6 +25,8 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 + **[Awesome Anything]** A curated list of general AI methods for Anything [paper][[code]](https://github.com/VainF/Awesome-Anything)![GitHub stars](https://img.shields.io/github/stars/VainF/Awesome-Anything.svg?logo=github&label=Stars)
 
++ **[Awesome Segment Anything]** Awesome Segment Anything [paper][[code]]( https://github.com/Hedlen/awesome-segment-anything) ![GitHub Repo stars](https://img.shields.io/github/stars/Hedlen/awesome-segment-anything?logo=github&style=flat-square)
+
 |Preview|Project|
 |------|------|
 |![preview](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/acoustics/gsam_whisper_inpainting_demo.png)|**[Grounded-Segment-Anything]** Grounded-Segment-Anything(DINO + SAM) [[paper]](https://arxiv.org/abs/2303.05499)[[code]](https://github.com/IDEA-Research/Grounded-Segment-Anything)![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything.svg?logo=github&label=Stars)|
@@ -47,6 +49,12 @@ A collection of projects, papers, and source code for SAM and related studies.
 |![preview](https://github.com/ylqi/Count-Anything/raw/main/figures/example_1.png)|**[Count Anything]** Count any object[paper][[code]](https://github.com/ylqi/Count-Anything)![GitHub Repo stars](https://img.shields.io/github/stars/ylqi/Count-Anything?logo=github&style=flat-square)|
 |![preview](https://github.com/geekyutao/Inpaint-Anything/raw/main/example/MainFramework.png)|**[Inpaint Anything]** Inpaint Anything [[paper]](https://arxiv.org/abs/2304.06790)[[code]](https://github.com/geekyutao/Inpaint-Anything)![GitHub Repo stars](https://img.shields.io/github/stars/geekyutao/Inpaint-Anything?logo=github&style=flat-square)|
 |![preview](https://github.com/Huage001/Transfer-Any-Style/raw/main/picture/demo3.gif)|**[Transfer-Any-Style]** Transfer-Any-Style[paper][[code]](https://github.com/Huage001/Transfer-Any-Style)![GitHub Repo stars](https://img.shields.io/github/stars/Huage001/Transfer-Any-Style?logo=github&style=flat-square)|
+|![preview](https://github.com/Anything-of-anything/Anything-3D/raw/main/novel-view/assets/1.jpeg)|**[Anything-3D]** Anything-3D [paper][[code]](https://github.com/Anything-of-anything/Anything-3D) ![GitHub Repo stars](https://img.shields.io/github/stars/Anything-of-anything/Anything-3D?logo=github&style=flat-square)|
+|![preview](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/raw/main/assets/teaser_new.png?raw=true)|**[SEEM]** Segment Everything Everywhere All at Once [[paper]](https://arxiv.org/pdf/2304.06718.pdf)[[code]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) ![GitHub Repo stars](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?logo=github&style=flat-square)|
+|![preview](https://github.com/ttengwang/Caption-Anything/raw/main/assets/qingming.gif)|**[Caption-Anything]** Generate descriptive captions for any object [paper][[code]](https://github.com/ttengwang/Caption-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/ttengwang/Caption-Anything?logo=github&style=flat-square)|
+|![preview]( https://github.com/QianXuna/Myimg/blob/main/image/Ysq3u7E.png?raw=true)|**[Caption-Anything]** Generate descriptive captions for any object [paper][[code]](https://github.com/opengeos/segment-geospatial) ![GitHub Repo stars](https://img.shields.io/github/stars/opengeos/segment-geospatial?logo=github&style=flat-square)|
+|![preview]( https://github.com/showlab/Image2Paragraph/raw/main/examples/introduction.png)|**[Image.txt]** Transform Image Into Unique Paragraph [paper][[code]](https://github.com/showlab/Image2Paragraph) ![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Image2Paragraph?logo=github&style=flat-square)|
+|![preview](https://github.com/dvlab-research/3D-Box-Segment-Anything/raw/main/images/sam-voxelnext.png)|**[3D-Box via Segment Anything]** Extend the scope to 3D world [paper][[code]](https://github.com/dvlab-research/3D-Box-Segment-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/3D-Box-Segment-Anything?logo=github&style=flat-square)|
 
 ## 3 Lecture & Notes<span id='workshop'>
 
