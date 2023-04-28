@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Edit Everything: A Text-Guided Generative System for Images Editing**|Defeng Xie et.al.|[2304.14006v1](http://arxiv.org/abs/2304.14006v1)|**[link](https://github.com/defengxie/edit_everything)**|
+|**2023-04-27**|**SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model**|Mingzhe Hu et.al.|[2304.13973v1](http://arxiv.org/abs/2304.13973v1)|null|
+|**2023-04-26**|**GazeSAM: What You See is What You Segment**|Bin Wang et.al.|[2304.13844v1](http://arxiv.org/abs/2304.13844v1)|**[link](https://github.com/ukaukaaaa/gazesam)**|
+|**2023-04-26**|**Customized Segment Anything Model for Medical Image Segmentation**|Kaidong Zhang et.al.|[2304.13785v1](http://arxiv.org/abs/2304.13785v1)|**[link](https://github.com/hitachinsk/samed)**|
 |**2023-04-26**|**Learnable Ophthalmology SAM**|Zhongxi Qiu et.al.|[2304.13425v1](http://arxiv.org/abs/2304.13425v1)|**[link](https://github.com/qsingle/learnablepromptsam)**|
 |**2023-04-25**|**Segment anything, from space?**|Simiao Ren et.al.|[2304.13000v1](http://arxiv.org/abs/2304.13000v1)|null|
 |**2023-04-25**|**Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation**|Peilun Shi et.al.|[2304.12637v1](http://arxiv.org/abs/2304.12637v1)|null|
