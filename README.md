@@ -55,6 +55,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 |![preview]( https://github.com/QianXuna/Myimg/blob/main/image/Ysq3u7E.png?raw=true)|**[Caption-Anything]** Generate descriptive captions for any object [paper][[code]](https://github.com/opengeos/segment-geospatial) ![GitHub Repo stars](https://img.shields.io/github/stars/opengeos/segment-geospatial?logo=github&style=flat-square)|
 |![preview]( https://github.com/showlab/Image2Paragraph/raw/main/examples/introduction.png)|**[Image.txt]** Transform Image Into Unique Paragraph [paper][[code]](https://github.com/showlab/Image2Paragraph) ![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Image2Paragraph?logo=github&style=flat-square)|
 |![preview](https://github.com/dvlab-research/3D-Box-Segment-Anything/raw/main/images/sam-voxelnext.png)|**[3D-Box via Segment Anything]** Extend the scope to 3D world [paper][[code]](https://github.com/dvlab-research/3D-Box-Segment-Anything) ![GitHub Repo stars](https://img.shields.io/github/stars/dvlab-research/3D-Box-Segment-Anything?logo=github&style=flat-square)|
+|![preview]( https://github.com/Jun-CEN/SegmentAnyRGBD/blob/main/resources/comparison.png)|**[SegmentAnyRGBD]** Segment rendered depth images based on SAM [paper] [[code]](https://github.com/Jun-CEN/SegmentAnyRGBD) ![GitHub Repo stars](https://github.com/Jun-CEN/SegmentAnyRGBD?logo=github&style=flat-square)|
 
 ## 3 Lecture & Notes<span id='workshop'>
 
@@ -70,7 +71,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 + **[generic segmentation]** Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[paper]](http://arxiv.org/abs/2304.05750v2)[code]
 + **[Medical Image segmentation]** SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [[paper]](http://arxiv.org/abs/2304.05622v1)[[code]](https://github.com/bingogome/samm)
 
-+ **[Medical Image segmentation]** SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [[paper]]http://arxiv.org/abs/2304.05396v1 [code]
++ **[Medical Image segmentation]** SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [[paper]](http://arxiv.org/abs/2304.05396v1) [code]
 
 + **[Camouflaged Object Segmentation]** SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"[[paper]](https://arxiv.org/abs/2304.06022)[code]
 
