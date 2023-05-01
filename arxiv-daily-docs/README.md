@@ -1,4 +1,4 @@
-## Updated on 2023.04.30
+## Updated on 2023.05.01
 
 ## SAM
 
@@ -15,7 +15,7 @@
 |**2023-04-25**|**Application of Segment Anything Model for Civil Infrastructure Defect Assessment**|Mohsen Ahmadi et.al.|[2304.12600v1](http://arxiv.org/abs/2304.12600v1)|**[link](https://github.com/Gunorta/SegmentAnything_CrackDetection)**|
 |**2023-04-26**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|null|
 |**2023-04-24**|**Segment Anything in Medical Images**|Jun Ma et.al.|[2304.12306v1](http://arxiv.org/abs/2304.12306v1)|**[link](https://github.com/bowang-lab/medsam)**|
-|**2023-04-24**|**Track Anything: Segment Anything Meets Videos**|Jinyu Yang et.al.|[2304.11968v1](http://arxiv.org/abs/2304.11968v1)|**[link](https://github.com/gaomingqi/track-anything)**|
+|**2023-04-28**|**Track Anything: Segment Anything Meets Videos**|Jinyu Yang et.al.|[2304.11968v2](http://arxiv.org/abs/2304.11968v2)|**[link](https://github.com/gaomingqi/track-anything)**|
 |**2023-04-23**|**Segment Anything in Non-Euclidean Domains: Challenges and Opportunities**|Yongcheng Jing et.al.|[2304.11595v1](http://arxiv.org/abs/2304.11595v1)|null|
 |**2023-04-22**|**Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model**|Yizhe Zhang et.al.|[2304.11332v1](http://arxiv.org/abs/2304.11332v1)|null|
 |**2023-04-21**|**Can SAM Count Anything? An Empirical Study on SAM Counting**|Zhiheng Ma et.al.|[2304.10817v1](http://arxiv.org/abs/2304.10817v1)|**[link](https://github.com/vision-intelligence-and-robots-group/count-anything)**|
@@ -23,7 +23,7 @@
 |**2023-04-25**|**Segment Anything Model for Medical Image Analysis: an Experimental Study**|Maciej A. Mazurowski et.al.|[2304.10517v2](http://arxiv.org/abs/2304.10517v2)|**[link](https://github.com/mazurowski-lab/segment-anything-medical)**|
 |**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen et.al.|[2304.10261v1](http://arxiv.org/abs/2304.10261v1)|**[link](https://github.com/anything-of-anything/anything-3d)**|
 |**2023-04-20**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728v2](http://arxiv.org/abs/2304.09728v2)|**[link](https://github.com/huage001/transfer-any-style)**|
-|**2023-04-18**|**Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks**|Sheng He et.al.|[2304.09324v1](http://arxiv.org/abs/2304.09324v1)|null|
+|**2023-04-27**|**Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks**|Sheng He et.al.|[2304.09324v2](http://arxiv.org/abs/2304.09324v2)|null|
 |**2023-04-19**|**SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More**|Tianrun Chen et.al.|[2304.09148v2](http://arxiv.org/abs/2304.09148v2)|null|
 |**2023-04-21**|**When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation**|Chuanfei Hu et.al.|[2304.08506v2](http://arxiv.org/abs/2304.08506v2)|null|
 |**2023-04-17**|**Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR**|Junzhang Chen et.al.|[2304.07969v1](http://arxiv.org/abs/2304.07969v1)|**[link](https://github.com/chenjzbuaa/satir)**|
