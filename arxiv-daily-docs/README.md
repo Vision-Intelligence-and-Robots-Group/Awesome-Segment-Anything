@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Attack-SAM: Towards Evaluating Adversarial Robustness of Segment Anything Model**|Chenshuang Zhang et.al.|[2305.00866v1](http://arxiv.org/abs/2305.00866v1)|null|
+|**2023-04-29**|**Polyp-SAM: Transfer SAM for Polyp Segmentation**|Yuheng Li et.al.|[2305.00293v1](http://arxiv.org/abs/2305.00293v1)|null|
+|**2023-04-29**|**Segment Anything Model (SAM) Meets Glass: Mirror and Transparent Objects Cannot Be Easily Detected**|Dongsheng Han et.al.|[2305.00278v1](http://arxiv.org/abs/2305.00278v1)|null|
+|**2023-04-28**|**DSEC-MOS: Segment Any Moving Object with Moving Ego Vehicle**|Zhuyun Zhou et.al.|[2305.00126v1](http://arxiv.org/abs/2305.00126v1)|null|
+|**2023-04-28**|**Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline**|Christian Mattjie et.al.|[2305.00109v1](http://arxiv.org/abs/2305.00109v1)|null|
+|**2023-04-28**|**SAM on Medical Images: A Comprehensive Study on Three Prompt Modes**|Dongjie Cheng et.al.|[2305.00035v1](http://arxiv.org/abs/2305.00035v1)|null|
 |**2023-04-28**|**SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective**|An Wang et.al.|[2304.14674v1](http://arxiv.org/abs/2304.14674v1)|null|
 |**2023-05-01**|**Segment Anything Model for Medical Images?**|Yuhao Huang et.al.|[2304.14660v2](http://arxiv.org/abs/2304.14660v2)|null|
 |**2023-04-27**|**Edit Everything: A Text-Guided Generative System for Images Editing**|Defeng Xie et.al.|[2304.14006v1](http://arxiv.org/abs/2304.14006v1)|**[link](https://github.com/defengxie/edit_everything)**|
