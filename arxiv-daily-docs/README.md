@@ -1,4 +1,4 @@
-## Updated on 2023.05.03
+## Updated on 2023.05.04
 
 ## SAM
 
@@ -21,7 +21,7 @@
 |**2023-04-26**|**Learnable Ophthalmology SAM**|Zhongxi Qiu et.al.|[2304.13425v1](http://arxiv.org/abs/2304.13425v1)|**[link](https://github.com/qsingle/learnablepromptsam)**|
 |**2023-04-25**|**Segment anything, from space?**|Simiao Ren et.al.|[2304.13000v1](http://arxiv.org/abs/2304.13000v1)|null|
 |**2023-04-25**|**Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation**|Peilun Shi et.al.|[2304.12637v1](http://arxiv.org/abs/2304.12637v1)|null|
-|**2023-04-26**|**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation**|Junde Wu et.al.|[2304.12620v2](http://arxiv.org/abs/2304.12620v2)|null|
+|**2023-05-03**|**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation**|Junde Wu et.al.|[2304.12620v3](http://arxiv.org/abs/2304.12620v3)|null|
 |**2023-04-25**|**Application of Segment Anything Model for Civil Infrastructure Defect Assessment**|Mohsen Ahmadi et.al.|[2304.12600v1](http://arxiv.org/abs/2304.12600v1)|**[link](https://github.com/Gunorta/SegmentAnything_CrackDetection)**|
 |**2023-04-26**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|null|
 |**2023-04-24**|**Segment Anything in Medical Images**|Jun Ma et.al.|[2304.12306v1](http://arxiv.org/abs/2304.12306v1)|**[link](https://github.com/bowang-lab/medsam)**|
