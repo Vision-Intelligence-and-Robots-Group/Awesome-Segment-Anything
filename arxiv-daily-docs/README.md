@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model**|Di Wang et.al.|[2305.02034v1](http://arxiv.org/abs/2305.02034v1)|**[link](https://github.com/vitae-transformer/samrs)**|
+|**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
 |**2023-05-02**|**An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems**|Weixuan Sun et.al.|[2305.01586v1](http://arxiv.org/abs/2305.01586v1)|null|
 |**2023-05-02**|**Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation**|Peng-Tao Jiang et.al.|[2305.01275v1](http://arxiv.org/abs/2305.01275v1)|null|
 |**2023-05-01**|**Attack-SAM: Towards Evaluating Adversarial Robustness of Segment Anything Model**|Chenshuang Zhang et.al.|[2305.00866v1](http://arxiv.org/abs/2305.00866v1)|null|
