@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-05-04**|**Caption Anything: Interactive Image Description with Diverse Multimodal Controls**|Teng Wang et.al.|[2305.02677v1](http://arxiv.org/abs/2305.02677v1)|**[link](https://github.com/ttengwang/caption-anything)**|
 |**2023-05-03**|**Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model**|Di Wang et.al.|[2305.02034v1](http://arxiv.org/abs/2305.02034v1)|**[link](https://github.com/vitae-transformer/samrs)**|
 |**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
 |**2023-05-02**|**An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems**|Weixuan Sun et.al.|[2305.01586v1](http://arxiv.org/abs/2305.01586v1)|null|
