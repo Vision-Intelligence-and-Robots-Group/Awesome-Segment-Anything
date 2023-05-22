@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**When SAM Meets Shadow Detection**|Leiping Jie et.al.|[2305.11513v1](http://arxiv.org/abs/2305.11513v1)|null|
 |**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
 |**2023-05-18**|**Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping**|Chunming He et.al.|[2305.11003v1](http://arxiv.org/abs/2305.11003v1)|null|
 |**2023-05-18**|**Segment Any Anomaly without Training via Hybrid Prompt Regularization**|Yunkang Cao et.al.|[2305.10724v1](http://arxiv.org/abs/2305.10724v1)|**[link](https://github.com/caoyunkang/segment-any-anomaly)**|
