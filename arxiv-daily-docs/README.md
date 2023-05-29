@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**Detect Any Shadow: Segment Anything for Video Shadow Detection**|Yonghui Wang et.al.|[2305.16698v1](http://arxiv.org/abs/2305.16698v1)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
 |**2023-05-25**|**On the Robustness of Segment Anything**|Yihao Huang et.al.|[2305.16220v1](http://arxiv.org/abs/2305.16220v1)|null|
 |**2023-05-24**|**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**|Yunxiang Li et.al.|[2305.15367v1](http://arxiv.org/abs/2305.15367v1)|**[link](https://github.com/kent0n-li/samscore)**|
