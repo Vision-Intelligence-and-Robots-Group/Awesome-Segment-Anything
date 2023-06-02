@@ -1,10 +1,10 @@
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-31**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599v1](http://arxiv.org/abs/2305.19599v1)|**[link](https://github.com/enderfga/finerewards)**|
+|**2023-06-01**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599v2](http://arxiv.org/abs/2305.19599v2)|**[link](https://github.com/enderfga/finerewards)**|
 |**2023-05-29**|**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions**|Qian Wang et.al.|[2305.18047v1](http://arxiv.org/abs/2305.18047v1)|**[link](https://github.com/qianwangx/instructedit)**|
 |**2023-05-28**|**AIMS: All-Inclusive Multi-Level Segmentation**|Lu Qi et.al.|[2305.17768v1](http://arxiv.org/abs/2305.17768v1)|**[link](https://github.com/dvlab-research/Entity)**|
 |**2023-05-26**|**Detect Any Shadow: Segment Anything for Video Shadow Detection**|Yonghui Wang et.al.|[2305.16698v1](http://arxiv.org/abs/2305.16698v1)|**[link](https://github.com/harrytea/detect-anyshadow)**|
