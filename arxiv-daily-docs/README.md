@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Segment Anything in High Quality**|Lei Ke et.al.|[2306.01567v1](http://arxiv.org/abs/2306.01567v1)|**[link](https://github.com/syscv/sam-hq)**|
 |**2023-06-01**|**DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation**|Yifan Gao et.al.|[2306.00499v1](http://arxiv.org/abs/2306.00499v1)|**[link](https://github.com/yifangao112/desam)**|
 |**2023-06-01**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599v2](http://arxiv.org/abs/2305.19599v2)|**[link](https://github.com/enderfga/finerewards)**|
 |**2023-05-29**|**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions**|Qian Wang et.al.|[2305.18047v1](http://arxiv.org/abs/2305.18047v1)|**[link](https://github.com/qianwangx/instructedit)**|
