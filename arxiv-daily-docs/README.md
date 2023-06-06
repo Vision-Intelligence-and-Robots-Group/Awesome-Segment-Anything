@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything**|Zhaotong Luo et.al.|[2306.02656v1](http://arxiv.org/abs/2306.02656v1)|null|
+|**2023-06-04**|**3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**|Shijie Chang et.al.|[2306.02291v1](http://arxiv.org/abs/2306.02291v1)|**[link](https://github.com/dut-csj/pvuw2023-vss-3rd)**|
+|**2023-06-04**|**USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model**|Yulin He et.al.|[2306.02275v1](http://arxiv.org/abs/2306.02275v1)|null|
+|**2023-06-04**|**SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model**|Dingyuan Zhang et.al.|[2306.02245v1](http://arxiv.org/abs/2306.02245v1)|**[link](https://github.com/dyzhang09/sam3d)**|
+|**2023-06-03**|**Segment Anything Meets Semantic Communication**|Shehbaz Tariq et.al.|[2306.02094v1](http://arxiv.org/abs/2306.02094v1)|null|
 |**2023-06-02**|**Segment Anything in High Quality**|Lei Ke et.al.|[2306.01567v1](http://arxiv.org/abs/2306.01567v1)|**[link](https://github.com/syscv/sam-hq)**|
 |**2023-06-01**|**DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation**|Yifan Gao et.al.|[2306.00499v1](http://arxiv.org/abs/2306.00499v1)|**[link](https://github.com/yifangao112/desam)**|
 |**2023-06-01**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599v2](http://arxiv.org/abs/2305.19599v2)|**[link](https://github.com/enderfga/finerewards)**|
