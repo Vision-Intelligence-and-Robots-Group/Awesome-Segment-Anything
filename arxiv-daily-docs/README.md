@@ -1,11 +1,11 @@
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-05**|**Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything**|Zhaotong Luo et.al.|[2306.02656v1](http://arxiv.org/abs/2306.02656v1)|null|
-|**2023-06-04**|**3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**|Shijie Chang et.al.|[2306.02291v1](http://arxiv.org/abs/2306.02291v1)|**[link](https://github.com/dut-csj/pvuw2023-vss-3rd)**|
+|**2023-06-06**|**3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW**|Shijie Chang et.al.|[2306.02291v2](http://arxiv.org/abs/2306.02291v2)|**[link](https://github.com/dut-csj/pvuw2023-vss-3rd)**|
 |**2023-06-04**|**USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model**|Yulin He et.al.|[2306.02275v1](http://arxiv.org/abs/2306.02275v1)|null|
 |**2023-06-04**|**SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model**|Dingyuan Zhang et.al.|[2306.02245v1](http://arxiv.org/abs/2306.02245v1)|**[link](https://github.com/dyzhang09/sam3d)**|
 |**2023-06-03**|**Segment Anything Meets Semantic Communication**|Shehbaz Tariq et.al.|[2306.02094v1](http://arxiv.org/abs/2306.02094v1)|null|
