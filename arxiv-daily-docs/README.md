@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|**[link](https://github.com/caoyunkang/segment-any-anomaly)**|
+|**2023-06-15**|**Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation**|Chuyun Shen et.al.|[2306.08958v1](http://arxiv.org/abs/2306.08958v1)|null|
+|**2023-06-14**|**TomoSAM: a 3D Slicer extension using SAM for tomography segmentation**|Federico Semeraro et.al.|[2306.08609v1](http://arxiv.org/abs/2306.08609v1)|**[link](https://github.com/fsemerar/slicertomosam)**|
 |**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713v1](http://arxiv.org/abs/2306.07713v1)|null|
 |**2023-06-10**|**AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder**|Tal Shaharabany et.al.|[2306.06370v1](http://arxiv.org/abs/2306.06370v1)|null|
 |**2023-05-12**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211v1](http://arxiv.org/abs/2306.06211v1)|null|
