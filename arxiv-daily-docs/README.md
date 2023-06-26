@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**|Shizhan Gong et.al.|[2306.13465v1](http://arxiv.org/abs/2306.13465v1)|null|
+|**2023-06-23**|**Robustness of Segment Anything Model (SAM) for Autonomous Driving in Adverse Weather Conditions**|Xinru Shan et.al.|[2306.13290v1](http://arxiv.org/abs/2306.13290v1)|null|
 |**2023-06-22**|**Ladder Fine-tuning approach for SAM integrating complementary network**|Shurong Chai et.al.|[2306.12737v1](http://arxiv.org/abs/2306.12737v1)|**[link](https://github.com/11yxk/sam-lst)**|
 |**2023-06-21**|**Comparative Analysis of Segment Anything Model and U-Net for Breast Tumor Detection in Ultrasound and Mammography Images**|Mohsen Ahmadi et.al.|[2306.12510v1](http://arxiv.org/abs/2306.12510v1)|null|
 |**2023-06-21**|**Fast Segment Anything**|Xu Zhao et.al.|[2306.12156v1](http://arxiv.org/abs/2306.12156v1)|**[link](https://github.com/casia-iva-lab/fastsam)**|
