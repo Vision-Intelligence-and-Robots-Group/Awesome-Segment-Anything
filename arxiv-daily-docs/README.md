@@ -1,4 +1,4 @@
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 
 ## SAM
 
@@ -7,7 +7,7 @@
 |**2023-06-26**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752v1](http://arxiv.org/abs/2306.14752v1)|**[link](https://github.com/openmedlab/medlsam)**|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289v1](http://arxiv.org/abs/2306.14289v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**When SAM Meets Sonar Images**|Lin Wang et.al.|[2306.14109v1](http://arxiv.org/abs/2306.14109v1)|**[link](https://github.com/wangsssky/sonarsam)**|
-|**2023-06-23**|**How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images**|Xinrong Hu et.al.|[2306.13731v1](http://arxiv.org/abs/2306.13731v1)|null|
+|**2023-06-23**|**How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images**|Xinrong Hu et.al.|[2306.13731v1](http://arxiv.org/abs/2306.13731v1)|**[link](https://github.com/xhu248/autosam)**|
 |**2023-06-23**|**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**|Shizhan Gong et.al.|[2306.13465v1](http://arxiv.org/abs/2306.13465v1)|null|
 |**2023-06-23**|**Robustness of Segment Anything Model (SAM) for Autonomous Driving in Adverse Weather Conditions**|Xinru Shan et.al.|[2306.13290v1](http://arxiv.org/abs/2306.13290v1)|null|
 |**2023-06-22**|**Ladder Fine-tuning approach for SAM integrating complementary network**|Shurong Chai et.al.|[2306.12737v1](http://arxiv.org/abs/2306.12737v1)|**[link](https://github.com/11yxk/sam-lst)**|
