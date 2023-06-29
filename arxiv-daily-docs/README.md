@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|Keyan Chen et.al.|[2306.16269v1](http://arxiv.org/abs/2306.16269v1)|null|
+|**2023-06-28**|**Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection**|Zhewei Chen et.al.|[2306.16186v1](http://arxiv.org/abs/2306.16186v1)|null|
+|**2023-06-28**|**Let Segment Anything Help Image Dehaze**|Zheyan Jin et.al.|[2306.15870v1](http://arxiv.org/abs/2306.15870v1)|null|
+|**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692v1](http://arxiv.org/abs/2306.15692v1)|null|
 |**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350v1](http://arxiv.org/abs/2306.15350v1)|**[link](https://github.com/tio-ikim/cellvit)**|
 |**2023-06-26**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752v1](http://arxiv.org/abs/2306.14752v1)|**[link](https://github.com/openmedlab/medlsam)**|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289v1](http://arxiv.org/abs/2306.14289v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
