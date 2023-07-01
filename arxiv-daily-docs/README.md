@@ -1,4 +1,4 @@
-## Updated on 2023.06.30
+## Updated on 2023.07.01
 
 ## SAM
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-06-29**|**Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization**|Yingxin Lai et.al.|[2306.17075v1](http://arxiv.org/abs/2306.17075v1)|**[link](https://github.com/laiyingxin2/dadf)**|
 |**2023-06-29**|**The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot**|Lucas Prado Osco et.al.|[2306.16623v1](http://arxiv.org/abs/2306.16623v1)|null|
-|**2023-06-28**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|Keyan Chen et.al.|[2306.16269v1](http://arxiv.org/abs/2306.16269v1)|null|
+|**2023-06-28**|**RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model**|Keyan Chen et.al.|[2306.16269v1](http://arxiv.org/abs/2306.16269v1)|**[link](https://github.com/KyanChen/RSPrompter)**|
 |**2023-06-28**|**Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection**|Zhewei Chen et.al.|[2306.16186v1](http://arxiv.org/abs/2306.16186v1)|null|
 |**2023-06-28**|**Let Segment Anything Help Image Dehaze**|Zheyan Jin et.al.|[2306.15870v1](http://arxiv.org/abs/2306.15870v1)|null|
 |**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692v1](http://arxiv.org/abs/2306.15692v1)|null|
