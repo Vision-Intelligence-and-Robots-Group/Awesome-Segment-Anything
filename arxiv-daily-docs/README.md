@@ -1,4 +1,4 @@
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 
 ## SAM
 
@@ -11,7 +11,7 @@
 |**2023-06-28**|**Let Segment Anything Help Image Dehaze**|Zheyan Jin et.al.|[2306.15870v1](http://arxiv.org/abs/2306.15870v1)|null|
 |**2023-06-24**|**Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging**|Evan Kellener et.al.|[2306.15692v1](http://arxiv.org/abs/2306.15692v1)|null|
 |**2023-06-27**|**CellViT: Vision Transformers for Precise Cell Segmentation and Classification**|Fabian Hörst et.al.|[2306.15350v1](http://arxiv.org/abs/2306.15350v1)|**[link](https://github.com/tio-ikim/cellvit)**|
-|**2023-06-26**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752v1](http://arxiv.org/abs/2306.14752v1)|**[link](https://github.com/openmedlab/medlsam)**|
+|**2023-06-30**|**MedLSAM: Localize and Segment Anything Model for 3D Medical Images**|Wenhui Lei et.al.|[2306.14752v2](http://arxiv.org/abs/2306.14752v2)|**[link](https://github.com/openmedlab/medlsam)**|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289v1](http://arxiv.org/abs/2306.14289v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**When SAM Meets Sonar Images**|Lin Wang et.al.|[2306.14109v1](http://arxiv.org/abs/2306.14109v1)|**[link](https://github.com/wangsssky/sonarsam)**|
 |**2023-06-23**|**How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images**|Xinrong Hu et.al.|[2306.13731v1](http://arxiv.org/abs/2306.13731v1)|**[link](https://github.com/xhu248/autosam)**|
