@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image**|Guoyao Deng et.al.|[2307.04973v1](http://arxiv.org/abs/2307.04973v1)|null|
 |**2023-07-10**|**SAM-IQA: Can Segment Anything Boost Image Quality Assessment?**|Xinpeng Li et.al.|[2307.04455v1](http://arxiv.org/abs/2307.04455v1)|**[link](https://github.com/hedlen/sam-iqa)**|
 |**2023-07-07**|**Large AI Model-Based Semantic Communications**|Feibo Jiang et.al.|[2307.03492v1](http://arxiv.org/abs/2307.03492v1)|null|
 |**2023-07-10**|**ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking**|Yuanyou Xu et.al.|[2307.02508v2](http://arxiv.org/abs/2307.02508v2)|null|
