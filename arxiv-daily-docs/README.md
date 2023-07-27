@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974v1](http://arxiv.org/abs/2307.13974v1)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
 |**2023-07-24**|**Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul**|Keno Moenck et.al.|[2307.12674v1](http://arxiv.org/abs/2307.12674v1)|null|
 |**2023-07-20**|**CNOS: A Strong Baseline for CAD-based Novel Object Segmentation**|Van Nguyen Nguyen et.al.|[2307.11067v1](http://arxiv.org/abs/2307.11067v1)|**[link](https://github.com/nv-nguyen/cnos)**|
 |**2023-07-12**|**SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology**|Jingwei Zhang et.al.|[2307.09570v1](http://arxiv.org/abs/2307.09570v1)|null|
