@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v1](http://arxiv.org/abs/2307.16586v1)|null|
 |**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974v1](http://arxiv.org/abs/2307.13974v1)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
 |**2023-07-24**|**Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul**|Keno Moenck et.al.|[2307.12674v1](http://arxiv.org/abs/2307.12674v1)|null|
 |**2023-07-20**|**CNOS: A Strong Baseline for CAD-based Novel Object Segmentation**|Van Nguyen Nguyen et.al.|[2307.11067v1](http://arxiv.org/abs/2307.11067v1)|**[link](https://github.com/nv-nguyen/cnos)**|
