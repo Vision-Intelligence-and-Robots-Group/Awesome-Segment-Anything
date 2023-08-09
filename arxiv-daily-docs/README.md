@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**AquaSAM: Underwater Image Foreground Segmentation**|Muduo Xu et.al.|[2308.04218v1](http://arxiv.org/abs/2308.04218v1)|null|
 |**2023-08-07**|**AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation**|Jay N. Paranjape et.al.|[2308.03726v1](http://arxiv.org/abs/2308.03726v1)|**[link](https://github.com/jayparanjape/biastuning)**|
 |**2023-08-02**|**Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation**|Ziyi Huang et.al.|[2308.00883v1](http://arxiv.org/abs/2308.00883v1)|null|
 |**2023-07-31**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v1](http://arxiv.org/abs/2307.16586v1)|null|
