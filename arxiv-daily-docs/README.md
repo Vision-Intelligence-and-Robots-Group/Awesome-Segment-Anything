@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**|An Wang et.al.|[2308.07156v1](http://arxiv.org/abs/2308.07156v1)|null|
+|**2023-08-14**|**A One Stop 3D Target Reconstruction and multilevel Segmentation Method**|Jiexiong Xu et.al.|[2308.06974v1](http://arxiv.org/abs/2308.06974v1)|**[link](https://github.com/ganlab/ostra)**|
+|**2023-08-14**|**CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets**|Dongik Shin et.al.|[2308.06957v1](http://arxiv.org/abs/2308.06957v1)|null|
+|**2023-08-13**|**CLE Diffusion: Controllable Light Enhancement Diffusion Model**|Yuyang Yin et.al.|[2308.06725v1](http://arxiv.org/abs/2308.06725v1)|null|
+|**2023-08-12**|**Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?**|Risab Biswas et.al.|[2308.06623v1](http://arxiv.org/abs/2308.06623v1)|null|
+|**2023-08-12**|**TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot**|Shan Cao et.al.|[2308.06444v1](http://arxiv.org/abs/2308.06444v1)|**[link](https://github.com/cshan-github/tonguesam)**|
 |**2023-08-11**|**FoodSAM: Any Food Segmentation**|Xing Lan et.al.|[2308.05938v1](http://arxiv.org/abs/2308.05938v1)|**[link](https://github.com/jamesjg/foodsam)**|
 |**2023-08-10**|**Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning**|Xueyuan Li et.al.|[2308.05785v1](http://arxiv.org/abs/2308.05785v1)|null|
 |**2023-08-10**|**Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection**|Ruikai Cui et.al.|[2308.05426v1](http://arxiv.org/abs/2308.05426v1)|null|
