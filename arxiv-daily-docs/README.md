@@ -1,4 +1,4 @@
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 
 ## SAM
 
@@ -16,7 +16,7 @@
 |**2023-08-08**|**AquaSAM: Underwater Image Foreground Segmentation**|Muduo Xu et.al.|[2308.04218v1](http://arxiv.org/abs/2308.04218v1)|null|
 |**2023-08-07**|**AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation**|Jay N. Paranjape et.al.|[2308.03726v1](http://arxiv.org/abs/2308.03726v1)|**[link](https://github.com/jayparanjape/biastuning)**|
 |**2023-08-02**|**Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation**|Ziyi Huang et.al.|[2308.00883v1](http://arxiv.org/abs/2308.00883v1)|null|
-|**2023-07-31**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v1](http://arxiv.org/abs/2307.16586v1)|null|
+|**2023-08-15**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v2](http://arxiv.org/abs/2307.16586v2)|null|
 |**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974v1](http://arxiv.org/abs/2307.13974v1)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
 |**2023-07-24**|**Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul**|Keno Moenck et.al.|[2307.12674v1](http://arxiv.org/abs/2307.12674v1)|null|
 |**2023-08-03**|**CNOS: A Strong Baseline for CAD-based Novel Object Segmentation**|Van Nguyen Nguyen et.al.|[2307.11067v2](http://arxiv.org/abs/2307.11067v2)|**[link](https://github.com/nv-nguyen/cnos)**|
