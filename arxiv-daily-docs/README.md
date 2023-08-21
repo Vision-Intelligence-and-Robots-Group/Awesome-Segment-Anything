@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT**|Botond Fazekas et.al.|[2308.09331v1](http://arxiv.org/abs/2308.09331v1)|null|
+|**2023-08-17**|**SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation**|Wenxi Yue et.al.|[2308.08746v1](http://arxiv.org/abs/2308.08746v1)|**[link](https://github.com/wenxi-yue/surgicalsam)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation**|Qi Wu et.al.|[2308.07624v1](http://arxiv.org/abs/2308.07624v1)|**[link](https://github.com/peteryyzhang/few-shot-self-prompt-sam)**|
 |**2023-08-14**|**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**|An Wang et.al.|[2308.07156v1](http://arxiv.org/abs/2308.07156v1)|null|
