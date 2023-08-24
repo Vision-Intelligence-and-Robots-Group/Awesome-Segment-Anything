@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231v1](http://arxiv.org/abs/2308.12231v1)|**[link](https://github.com/xq141839/sppnet)**|
+|**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774v1](http://arxiv.org/abs/2308.11774v1)|null|
 |**2023-08-20**|**False Negative/Positive Control for SAM on Noisy Medical Images**|Xing Yao et.al.|[2308.10382v1](http://arxiv.org/abs/2308.10382v1)|null|
 |**2023-08-18**|**SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT**|Botond Fazekas et.al.|[2308.09331v1](http://arxiv.org/abs/2308.09331v1)|null|
 |**2023-08-17**|**SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation**|Wenxi Yue et.al.|[2308.08746v1](http://arxiv.org/abs/2308.08746v1)|**[link](https://github.com/wenxi-yue/surgicalsam)**|
