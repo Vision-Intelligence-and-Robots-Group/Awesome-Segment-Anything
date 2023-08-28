@@ -1,4 +1,4 @@
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 
 ## SAM
 
@@ -27,7 +27,7 @@
 |**2023-08-16**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v3](http://arxiv.org/abs/2307.16586v3)|null|
 |**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974v1](http://arxiv.org/abs/2307.13974v1)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
 |**2023-07-24**|**Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul**|Keno Moenck et.al.|[2307.12674v1](http://arxiv.org/abs/2307.12674v1)|null|
-|**2023-08-24**|**CNOS: A Strong Baseline for CAD-based Novel Object Segmentation**|Van Nguyen Nguyen et.al.|[2307.11067v3](http://arxiv.org/abs/2307.11067v3)|**[link](https://github.com/nv-nguyen/cnos)**|
+|**2023-08-25**|**CNOS: A Strong Baseline for CAD-based Novel Object Segmentation**|Van Nguyen Nguyen et.al.|[2307.11067v4](http://arxiv.org/abs/2307.11067v4)|**[link](https://github.com/nv-nguyen/cnos)**|
 |**2023-07-12**|**SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology**|Jingwei Zhang et.al.|[2307.09570v1](http://arxiv.org/abs/2307.09570v1)|null|
 |**2023-07-15**|**Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments**|Ruiping Liu et.al.|[2307.07757v1](http://arxiv.org/abs/2307.07757v1)|**[link](https://github.com/ruipingl/opensu)**|
 |**2023-07-11**|**$\mathrm{SAM^{Med}}$: A medical image annotation framework based on large vision model**|Chenglong Wang et.al.|[2307.05617v1](http://arxiv.org/abs/2307.05617v1)|null|
