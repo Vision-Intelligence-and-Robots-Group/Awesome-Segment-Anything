@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction**|Zelin Peng et.al.|[2308.14604v1](http://arxiv.org/abs/2308.14604v1)|null|
+|**2023-08-27**|**Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars**|Weijia Feng et.al.|[2308.14133v1](http://arxiv.org/abs/2308.14133v1)|null|
+|**2023-08-27**|**Enhancing Bloodstain Analysis Through AI-Based Segmentation: Leveraging Segment Anything Model for Crime Scene Investigation**|Zihan Dong et.al.|[2308.13979v1](http://arxiv.org/abs/2308.13979v1)|**[link](https://github.com/zdong104/bloodstain_analysis_ai_tool)**|
+|**2023-08-26**|**Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation**|Hiroaki Yamagiwa et.al.|[2308.13779v1](http://arxiv.org/abs/2308.13779v1)|**[link](https://github.com/ymgw55/scesame)**|
+|**2023-08-26**|**SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation**|Yizhe Zhang et.al.|[2308.13759v1](http://arxiv.org/abs/2308.13759v1)|**[link](https://github.com/yizhezhang2000/samdsk)**|
 |**2023-08-25**|**Interactive segmentation in aerial images: a new benchmark and an open access web-based tool**|Zhe Wang et.al.|[2308.13174v1](http://arxiv.org/abs/2308.13174v1)|null|
 |**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469v1](http://arxiv.org/abs/2308.12469v1)|null|
 |**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231v1](http://arxiv.org/abs/2308.12231v1)|**[link](https://github.com/xq141839/sppnet)**|
