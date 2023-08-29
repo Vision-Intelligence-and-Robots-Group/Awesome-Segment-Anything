@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 
 ## SAM
 
@@ -16,7 +16,7 @@
 |**2023-08-14**|**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**|An Wang et.al.|[2308.07156v1](http://arxiv.org/abs/2308.07156v1)|null|
 |**2023-08-14**|**A One Stop 3D Target Reconstruction and multilevel Segmentation Method**|Jiexiong Xu et.al.|[2308.06974v1](http://arxiv.org/abs/2308.06974v1)|**[link](https://github.com/ganlab/ostra)**|
 |**2023-08-14**|**CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets**|Dongik Shin et.al.|[2308.06957v1](http://arxiv.org/abs/2308.06957v1)|null|
-|**2023-08-13**|**CLE Diffusion: Controllable Light Enhancement Diffusion Model**|Yuyang Yin et.al.|[2308.06725v1](http://arxiv.org/abs/2308.06725v1)|null|
+|**2023-08-28**|**CLE Diffusion: Controllable Light Enhancement Diffusion Model**|Yuyang Yin et.al.|[2308.06725v2](http://arxiv.org/abs/2308.06725v2)|null|
 |**2023-08-12**|**Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?**|Risab Biswas et.al.|[2308.06623v1](http://arxiv.org/abs/2308.06623v1)|**[link](https://github.com/RisabBiswas/Polyp-SAM-PlusPlus)**|
 |**2023-08-12**|**TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot**|Shan Cao et.al.|[2308.06444v1](http://arxiv.org/abs/2308.06444v1)|**[link](https://github.com/cshan-github/tonguesam)**|
 |**2023-08-11**|**FoodSAM: Any Food Segmentation**|Xing Lan et.al.|[2308.05938v1](http://arxiv.org/abs/2308.05938v1)|**[link](https://github.com/jamesjg/foodsam)**|
@@ -24,7 +24,7 @@
 |**2023-08-10**|**Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection**|Ruikai Cui et.al.|[2308.05426v1](http://arxiv.org/abs/2308.05426v1)|null|
 |**2023-08-08**|**AquaSAM: Underwater Image Foreground Segmentation**|Muduo Xu et.al.|[2308.04218v1](http://arxiv.org/abs/2308.04218v1)|null|
 |**2023-08-07**|**AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation**|Jay N. Paranjape et.al.|[2308.03726v1](http://arxiv.org/abs/2308.03726v1)|**[link](https://github.com/jayparanjape/biastuning)**|
-|**2023-08-02**|**Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation**|Ziyi Huang et.al.|[2308.00883v1](http://arxiv.org/abs/2308.00883v1)|null|
+|**2023-08-28**|**Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation**|Ziyi Huang et.al.|[2308.00883v2](http://arxiv.org/abs/2308.00883v2)|null|
 |**2023-08-16**|**SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model**|Shili Zhou et.al.|[2307.16586v3](http://arxiv.org/abs/2307.16586v3)|null|
 |**2023-07-26**|**Tracking Anything in High Quality**|Jiawen Zhu et.al.|[2307.13974v1](http://arxiv.org/abs/2307.13974v1)|**[link](https://github.com/jiawen-zhu/hqtrack)**|
 |**2023-07-24**|**Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul**|Keno Moenck et.al.|[2307.12674v1](http://arxiv.org/abs/2307.12674v1)|null|
