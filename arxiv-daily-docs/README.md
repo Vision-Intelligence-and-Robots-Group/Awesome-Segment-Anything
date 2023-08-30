@@ -1,4 +1,4 @@
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 
 ## SAM
 
@@ -46,7 +46,7 @@
 |**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187v1](http://arxiv.org/abs/2307.01187v1)|null|
 |**2023-07-03**|**SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation**|Liangliang Yao et.al.|[2307.01024v1](http://arxiv.org/abs/2307.01024v1)|**[link](https://github.com/vision4robotics/sam-da)**|
 |**2023-07-03**|**RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation**|Yonglin Li et.al.|[2307.00997v1](http://arxiv.org/abs/2307.00997v1)|**[link](https://github.com/lancasterli/refsam)**|
-|**2023-07-01**|**All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning**|Can Cui et.al.|[2307.00290v1](http://arxiv.org/abs/2307.00290v1)|null|
+|**2023-08-29**|**All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning**|Can Cui et.al.|[2307.00290v2](http://arxiv.org/abs/2307.00290v2)|null|
 |**2023-06-30**|**Training-free Object Counting with Prompts**|Zenglin Shi et.al.|[2307.00038v1](http://arxiv.org/abs/2307.00038v1)|**[link](https://github.com/shizenglin/training-free-object-counter)**|
 |**2023-06-30**|**Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging**|Ruben Glatt et.al.|[2306.17400v1](http://arxiv.org/abs/2306.17400v1)|null|
 |**2023-06-29**|**Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization**|Yingxin Lai et.al.|[2306.17075v1](http://arxiv.org/abs/2306.17075v1)|**[link](https://github.com/laiyingxin2/dadf)**|
