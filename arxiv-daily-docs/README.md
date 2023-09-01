@@ -1,11 +1,12 @@
-## Updated on 2023.08.30
+## Updated on 2023.09.01
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/uni-medical/sam-med2d)**|
 |**2023-08-28**|**Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation**|Chengyin Li et.al.|[2308.14936v1](http://arxiv.org/abs/2308.14936v1)|null|
-|**2023-08-28**|**SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction**|Zelin Peng et.al.|[2308.14604v1](http://arxiv.org/abs/2308.14604v1)|null|
+|**2023-08-31**|**SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction**|Zelin Peng et.al.|[2308.14604v2](http://arxiv.org/abs/2308.14604v2)|null|
 |**2023-08-27**|**Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars**|Weijia Feng et.al.|[2308.14133v1](http://arxiv.org/abs/2308.14133v1)|null|
 |**2023-08-27**|**Enhancing Bloodstain Analysis Through AI-Based Segmentation: Leveraging Segment Anything Model for Crime Scene Investigation**|Zihan Dong et.al.|[2308.13979v1](http://arxiv.org/abs/2308.13979v1)|**[link](https://github.com/zdong104/bloodstain_analysis_ai_tool)**|
 |**2023-08-26**|**Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation**|Hiroaki Yamagiwa et.al.|[2308.13779v1](http://arxiv.org/abs/2308.13779v1)|**[link](https://github.com/ymgw55/scesame)**|
@@ -15,7 +16,7 @@
 |**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231v1](http://arxiv.org/abs/2308.12231v1)|**[link](https://github.com/xq141839/sppnet)**|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774v1](http://arxiv.org/abs/2308.11774v1)|null|
 |**2023-08-20**|**False Negative/Positive Control for SAM on Noisy Medical Images**|Xing Yao et.al.|[2308.10382v1](http://arxiv.org/abs/2308.10382v1)|null|
-|**2023-08-18**|**SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT**|Botond Fazekas et.al.|[2308.09331v1](http://arxiv.org/abs/2308.09331v1)|null|
+|**2023-08-31**|**SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT**|Botond Fazekas et.al.|[2308.09331v2](http://arxiv.org/abs/2308.09331v2)|null|
 |**2023-08-17**|**SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation**|Wenxi Yue et.al.|[2308.08746v1](http://arxiv.org/abs/2308.08746v1)|**[link](https://github.com/wenxi-yue/surgicalsam)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation**|Qi Wu et.al.|[2308.07624v1](http://arxiv.org/abs/2308.07624v1)|**[link](https://github.com/peteryyzhang/few-shot-self-prompt-sam)**|
@@ -48,7 +49,7 @@
 |**2023-07-03**|**SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation**|Liangliang Yao et.al.|[2307.01024v1](http://arxiv.org/abs/2307.01024v1)|**[link](https://github.com/vision4robotics/sam-da)**|
 |**2023-07-03**|**RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation**|Yonglin Li et.al.|[2307.00997v1](http://arxiv.org/abs/2307.00997v1)|**[link](https://github.com/lancasterli/refsam)**|
 |**2023-08-29**|**All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning**|Can Cui et.al.|[2307.00290v2](http://arxiv.org/abs/2307.00290v2)|null|
-|**2023-06-30**|**Training-free Object Counting with Prompts**|Zenglin Shi et.al.|[2307.00038v1](http://arxiv.org/abs/2307.00038v1)|**[link](https://github.com/shizenglin/training-free-object-counter)**|
+|**2023-08-30**|**Training-free Object Counting with Prompts**|Zenglin Shi et.al.|[2307.00038v2](http://arxiv.org/abs/2307.00038v2)|**[link](https://github.com/shizenglin/training-free-object-counter)**|
 |**2023-06-30**|**Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging**|Ruben Glatt et.al.|[2306.17400v1](http://arxiv.org/abs/2306.17400v1)|null|
 |**2023-06-29**|**Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization**|Yingxin Lai et.al.|[2306.17075v1](http://arxiv.org/abs/2306.17075v1)|**[link](https://github.com/laiyingxin2/dadf)**|
 |**2023-06-29**|**The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot**|Lucas Prado Osco et.al.|[2306.16623v1](http://arxiv.org/abs/2306.16623v1)|null|
