@@ -1,11 +1,11 @@
-## Updated on 2023.09.16
+## Updated on 2023.09.17
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-13**|**SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation**|Xian Lin et.al.|[2309.06824v1](http://arxiv.org/abs/2309.06824v1)|**[link](https://github.com/xianlin7/samus)**|
-|**2023-09-07**|**SAM3D: Segment Anything Model in Volumetric Medical Images**|Nhat-Tan Bui et.al.|[2309.03493v1](http://arxiv.org/abs/2309.03493v1)|null|
+|**2023-09-07**|**SAM3D: Segment Anything Model in Volumetric Medical Images**|Nhat-Tan Bui et.al.|[2309.03493v1](http://arxiv.org/abs/2309.03493v1)|**[link](https://github.com/DinhHieuHoang/SAM3D)**|
 |**2023-09-05**|**Artificial General Intelligence for Radiation Oncology**|Chenbin Liu et.al.|[2309.02590v1](http://arxiv.org/abs/2309.02590v1)|null|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270v1](http://arxiv.org/abs/2309.02270v1)|null|
 |**2023-09-04**|**Prompt me a Dataset: An investigation of text-image prompting for historical image dataset creation using foundation models**|Hassan El-Hajj et.al.|[2309.01674v1](http://arxiv.org/abs/2309.01674v1)|**[link](https://github.com/hassanhajj910/prompt-me-a-dataset)**|
