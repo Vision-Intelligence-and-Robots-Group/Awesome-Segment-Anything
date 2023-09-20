@@ -1,4 +1,4 @@
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 
 ## SAM
 
@@ -48,7 +48,7 @@
 |**2023-08-25**|**CNOS: A Strong Baseline for CAD-based Novel Object Segmentation**|Van Nguyen Nguyen et.al.|[2307.11067v4](http://arxiv.org/abs/2307.11067v4)|**[link](https://github.com/nv-nguyen/cnos)**|
 |**2023-07-12**|**SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology**|Jingwei Zhang et.al.|[2307.09570v1](http://arxiv.org/abs/2307.09570v1)|null|
 |**2023-07-15**|**Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments**|Ruiping Liu et.al.|[2307.07757v1](http://arxiv.org/abs/2307.07757v1)|**[link](https://github.com/ruipingl/opensu)**|
-|**2023-07-11**|**$\mathrm{SAM^{Med}}$: A medical image annotation framework based on large vision model**|Chenglong Wang et.al.|[2307.05617v1](http://arxiv.org/abs/2307.05617v1)|null|
+|**2023-09-18**|**$\mathrm{SAM^{Med}}$: A medical image annotation framework based on large vision model**|Chenglong Wang et.al.|[2307.05617v2](http://arxiv.org/abs/2307.05617v2)|null|
 |**2023-07-11**|**SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image**|Guoyao Deng et.al.|[2307.04973v1](http://arxiv.org/abs/2307.04973v1)|null|
 |**2023-07-10**|**SAM-IQA: Can Segment Anything Boost Image Quality Assessment?**|Xinpeng Li et.al.|[2307.04455v1](http://arxiv.org/abs/2307.04455v1)|**[link](https://github.com/hedlen/sam-iqa)**|
 |**2023-07-07**|**Large AI Model-Based Semantic Communications**|Feibo Jiang et.al.|[2307.03492v1](http://arxiv.org/abs/2307.03492v1)|null|
