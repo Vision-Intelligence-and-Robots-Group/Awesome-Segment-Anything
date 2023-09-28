@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562v1](http://arxiv.org/abs/2309.15562v1)|null|
 |**2023-09-24**|**A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition**|Khoa Dang Nguyen et.al.|[2309.13578v1](http://arxiv.org/abs/2309.13578v1)|null|
 |**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|null|
 |**2023-09-22**|**NOC: High-Quality Neural Object Cloning with 3D Lifting of Segment Anything**|Xiaobao Wei et.al.|[2309.12790v1](http://arxiv.org/abs/2309.12790v1)|null|
