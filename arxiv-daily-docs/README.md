@@ -1,9 +1,16 @@
-## Updated on 2023.10.01
+## Updated on 2023.10.07
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Medical Image Segmentation**|Xiangru Li et.al.|[2310.02381v1](http://arxiv.org/abs/2310.02381v1)|null|
+|**2023-10-03**|**Zero-Shot Refinement of Buildings' Segmentation Models using SAM**|Ali Mayladan et.al.|[2310.01845v1](http://arxiv.org/abs/2310.01845v1)|null|
+|**2023-10-01**|**Propagating Semantic Labels in Video Data**|David Balaban et.al.|[2310.00783v1](http://arxiv.org/abs/2310.00783v1)|null|
+|**2023-09-30**|**Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology**|Amin Ranem et.al.|[2310.00504v1](http://arxiv.org/abs/2310.00504v1)|null|
+|**2023-10-02**|**UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**|Linghao Yang et.al.|[2309.17036v2](http://arxiv.org/abs/2309.17036v2)|null|
+|**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
+|**2023-10-02**|**nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance**|Yunxiang Li et.al.|[2309.16967v2](http://arxiv.org/abs/2309.16967v2)|**[link](https://github.com/kent0n-li/medical-image-segmentation)**|
 |**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562v1](http://arxiv.org/abs/2309.15562v1)|null|
 |**2023-09-24**|**A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition**|Khoa Dang Nguyen et.al.|[2309.13578v1](http://arxiv.org/abs/2309.13578v1)|null|
 |**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|null|
