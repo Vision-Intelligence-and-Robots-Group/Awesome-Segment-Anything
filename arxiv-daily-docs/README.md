@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**TiC: Exploring Vision Transformer in Convolution**|Song Zhang et.al.|[2310.04134v1](http://arxiv.org/abs/2310.04134v1)|**[link](https://github.com/zs670980918/msa-conv)**|
 |**2023-10-03**|**Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Medical Image Segmentation**|Xiangru Li et.al.|[2310.02381v1](http://arxiv.org/abs/2310.02381v1)|null|
 |**2023-10-03**|**Zero-Shot Refinement of Buildings' Segmentation Models using SAM**|Ali Mayladan et.al.|[2310.01845v1](http://arxiv.org/abs/2310.01845v1)|null|
 |**2023-10-01**|**Propagating Semantic Labels in Video Data**|David Balaban et.al.|[2310.00783v1](http://arxiv.org/abs/2310.00783v1)|null|
