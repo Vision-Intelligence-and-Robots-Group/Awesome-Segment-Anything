@@ -1,4 +1,4 @@
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 
 ## SAM
 
@@ -31,7 +31,7 @@
 |**2023-09-05**|**Artificial General Intelligence for Radiation Oncology**|Chenbin Liu et.al.|[2309.02590v1](http://arxiv.org/abs/2309.02590v1)|null|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270v1](http://arxiv.org/abs/2309.02270v1)|null|
 |**2023-09-04**|**Prompt me a Dataset: An investigation of text-image prompting for historical image dataset creation using foundation models**|Hassan El-Hajj et.al.|[2309.01674v1](http://arxiv.org/abs/2309.01674v1)|**[link](https://github.com/hassanhajj910/prompt-me-a-dataset)**|
-|**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|**[link](https://github.com/ggsding/sam-cd)**|
+|**2023-10-13**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v2](http://arxiv.org/abs/2309.01429v2)|**[link](https://github.com/ggsding/sam-cd)**|
 |**2023-09-01**|**Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning**|Yiming Zhang et.al.|[2308.16466v2](http://arxiv.org/abs/2308.16466v2)|null|
 |**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
 |**2023-08-28**|**Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation**|Chengyin Li et.al.|[2308.14936v1](http://arxiv.org/abs/2308.14936v1)|null|
