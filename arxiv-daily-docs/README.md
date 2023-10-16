@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021v1](http://arxiv.org/abs/2310.09021v1)|null|
+|**2023-10-12**|**Virtual Augmented Reality for Atari Reinforcement Learning**|Christian A. Schiller et.al.|[2310.08683v1](http://arxiv.org/abs/2310.08683v1)|**[link](https://github.com/c-a-schiller/var4arl)**|
 |**2023-10-12**|**Fine-Grained Annotation for Face Anti-Spoofing**|Xu Chen et.al.|[2310.08142v1](http://arxiv.org/abs/2310.08142v1)|null|
 |**2023-10-11**|**SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation**|Xinrun Chen et.al.|[2310.07183v1](http://arxiv.org/abs/2310.07183v1)|**[link](https://github.com/shellredia/sam-octa)**|
 |**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406v1](http://arxiv.org/abs/2310.06406v1)|null|
