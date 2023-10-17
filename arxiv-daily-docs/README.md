@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
+|**2023-10-16**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149v1](http://arxiv.org/abs/2310.10149v1)|null|
+|**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
+|**2023-10-15**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918v1](http://arxiv.org/abs/2310.09918v1)|null|
+|**2023-10-15**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v1](http://arxiv.org/abs/2310.09759v1)|null|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021v1](http://arxiv.org/abs/2310.09021v1)|null|
 |**2023-10-12**|**Virtual Augmented Reality for Atari Reinforcement Learning**|Christian A. Schiller et.al.|[2310.08683v1](http://arxiv.org/abs/2310.08683v1)|**[link](https://github.com/c-a-schiller/var4arl)**|
 |**2023-10-12**|**Fine-Grained Annotation for Face Anti-Spoofing**|Xu Chen et.al.|[2310.08142v1](http://arxiv.org/abs/2310.08142v1)|null|
@@ -33,7 +38,7 @@
 |**2023-09-05**|**Artificial General Intelligence for Radiation Oncology**|Chenbin Liu et.al.|[2309.02590v1](http://arxiv.org/abs/2309.02590v1)|null|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270v1](http://arxiv.org/abs/2309.02270v1)|null|
 |**2023-09-04**|**Prompt me a Dataset: An investigation of text-image prompting for historical image dataset creation using foundation models**|Hassan El-Hajj et.al.|[2309.01674v1](http://arxiv.org/abs/2309.01674v1)|**[link](https://github.com/hassanhajj910/prompt-me-a-dataset)**|
-|**2023-10-13**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v2](http://arxiv.org/abs/2309.01429v2)|**[link](https://github.com/ggsding/sam-cd)**|
+|**2023-10-16**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v3](http://arxiv.org/abs/2309.01429v3)|**[link](https://github.com/ggsding/sam-cd)**|
 |**2023-09-01**|**Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning**|Yiming Zhang et.al.|[2308.16466v2](http://arxiv.org/abs/2308.16466v2)|null|
 |**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
 |**2023-08-28**|**Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation**|Chengyin Li et.al.|[2308.14936v1](http://arxiv.org/abs/2308.14936v1)|null|
