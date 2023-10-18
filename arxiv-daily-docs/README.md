@@ -1,4 +1,4 @@
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 
 ## SAM
 
@@ -7,8 +7,8 @@
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
 |**2023-10-16**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149v1](http://arxiv.org/abs/2310.10149v1)|null|
 |**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
-|**2023-10-15**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918v1](http://arxiv.org/abs/2310.09918v1)|null|
-|**2023-10-15**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v1](http://arxiv.org/abs/2310.09759v1)|null|
+|**2023-10-17**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918v2](http://arxiv.org/abs/2310.09918v2)|null|
+|**2023-10-17**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v2](http://arxiv.org/abs/2310.09759v2)|null|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021v1](http://arxiv.org/abs/2310.09021v1)|null|
 |**2023-10-12**|**Virtual Augmented Reality for Atari Reinforcement Learning**|Christian A. Schiller et.al.|[2310.08683v1](http://arxiv.org/abs/2310.08683v1)|**[link](https://github.com/c-a-schiller/var4arl)**|
 |**2023-10-12**|**Fine-Grained Annotation for Face Anti-Spoofing**|Xu Chen et.al.|[2310.08142v1](http://arxiv.org/abs/2310.08142v1)|null|
