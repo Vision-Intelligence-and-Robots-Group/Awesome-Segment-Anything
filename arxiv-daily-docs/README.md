@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Segment Anything Meets Universal Adversarial Perturbation**|Dongshen Han et.al.|[2310.12431v1](http://arxiv.org/abs/2310.12431v1)|null|
 |**2023-10-17**|**Towards Training-free Open-world Segmentation via Image Prompting Foundation Models**|Lv Tang et.al.|[2310.10912v1](http://arxiv.org/abs/2310.10912v1)|null|
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
 |**2023-10-16**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149v1](http://arxiv.org/abs/2310.10149v1)|null|
