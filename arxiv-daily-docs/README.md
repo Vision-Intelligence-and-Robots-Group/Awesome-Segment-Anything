@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models**|Zhaozheng Chen et.al.|[2310.13026v1](http://arxiv.org/abs/2310.13026v1)|null|
+|**2023-10-04**|**Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models**|Sumit Pandey et.al.|[2310.12995v1](http://arxiv.org/abs/2310.12995v1)|null|
 |**2023-10-19**|**Segment Anything Meets Universal Adversarial Perturbation**|Dongshen Han et.al.|[2310.12431v1](http://arxiv.org/abs/2310.12431v1)|null|
 |**2023-10-17**|**Towards Training-free Open-world Segmentation via Image Prompting Foundation Models**|Lv Tang et.al.|[2310.10912v1](http://arxiv.org/abs/2310.10912v1)|null|
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
