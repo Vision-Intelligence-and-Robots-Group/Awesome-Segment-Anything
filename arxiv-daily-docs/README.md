@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-23**|**SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding**|Haoxiang Wang et.al.|[2310.15308v1](http://arxiv.org/abs/2310.15308v1)|null|
 |**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v1](http://arxiv.org/abs/2310.15161v1)|**[link](https://github.com/uni-medical/sam-med3d)**|
 |**2023-10-19**|**Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models**|Zhaozheng Chen et.al.|[2310.13026v1](http://arxiv.org/abs/2310.13026v1)|null|
