@@ -4,11 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-28**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709v1](http://arxiv.org/abs/2310.18709v1)|null|
+|**2023-10-28**|**One-shot Localization and Segmentation of Medical Images with Foundation Models**|Deepa Anand et.al.|[2310.18642v1](http://arxiv.org/abs/2310.18642v1)|null|
 |**2023-10-26**|**Task-driven Prompt Evolution for Foundation Models**|Rachana Sathish et.al.|[2310.17128v1](http://arxiv.org/abs/2310.17128v1)|null|
 |**2023-10-25**|**SonoSAM -- Segment Anything on Ultrasound Images**|Hariharan Ravishankar et.al.|[2310.16872v1](http://arxiv.org/abs/2310.16872v1)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-23**|**SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding**|Haoxiang Wang et.al.|[2310.15308v1](http://arxiv.org/abs/2310.15308v1)|null|
-|**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v1](http://arxiv.org/abs/2310.15161v1)|**[link](https://github.com/uni-medical/sam-med3d)**|
+|**2023-10-29**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v2](http://arxiv.org/abs/2310.15161v2)|**[link](https://github.com/uni-medical/sam-med3d)**|
 |**2023-10-19**|**Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models**|Zhaozheng Chen et.al.|[2310.13026v1](http://arxiv.org/abs/2310.13026v1)|null|
 |**2023-10-04**|**Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models**|Sumit Pandey et.al.|[2310.12995v1](http://arxiv.org/abs/2310.12995v1)|null|
 |**2023-10-19**|**Segment Anything Meets Universal Adversarial Perturbation**|Dongshen Han et.al.|[2310.12431v1](http://arxiv.org/abs/2310.12431v1)|null|
