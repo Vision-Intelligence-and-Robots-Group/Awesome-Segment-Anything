@@ -1,10 +1,10 @@
-## Updated on 2023.11.07
+## Updated on 2023.11.09
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|null|
+|**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|**[link](https://github.com/hifexplo/masking)**|
 |**2023-11-06**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v2](http://arxiv.org/abs/2311.01989v2)|null|
 |**2023-11-02**|**Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning**|Gaoang Wang et.al.|[2311.01004v1](http://arxiv.org/abs/2311.01004v1)|null|
 |**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134v1](http://arxiv.org/abs/2311.00134v1)|null|
@@ -14,7 +14,7 @@
 |**2023-10-28**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709v1](http://arxiv.org/abs/2310.18709v1)|null|
 |**2023-10-28**|**One-shot Localization and Segmentation of Medical Images with Foundation Models**|Deepa Anand et.al.|[2310.18642v1](http://arxiv.org/abs/2310.18642v1)|null|
 |**2023-10-26**|**Task-driven Prompt Evolution for Foundation Models**|Rachana Sathish et.al.|[2310.17128v1](http://arxiv.org/abs/2310.17128v1)|null|
-|**2023-10-25**|**SonoSAM -- Segment Anything on Ultrasound Images**|Hariharan Ravishankar et.al.|[2310.16872v1](http://arxiv.org/abs/2310.16872v1)|null|
+|**2023-11-07**|**SonoSAMTrack -- Segment and Track Anything on Ultrasound Images**|Hariharan Ravishankar et.al.|[2310.16872v2](http://arxiv.org/abs/2310.16872v2)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-23**|**SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding**|Haoxiang Wang et.al.|[2310.15308v1](http://arxiv.org/abs/2310.15308v1)|null|
 |**2023-10-29**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v2](http://arxiv.org/abs/2310.15161v2)|**[link](https://github.com/uni-medical/sam-med3d)**|
@@ -23,7 +23,7 @@
 |**2023-10-19**|**Segment Anything Meets Universal Adversarial Perturbation**|Dongshen Han et.al.|[2310.12431v1](http://arxiv.org/abs/2310.12431v1)|null|
 |**2023-10-17**|**Towards Training-free Open-world Segmentation via Image Prompting Foundation Models**|Lv Tang et.al.|[2310.10912v1](http://arxiv.org/abs/2310.10912v1)|null|
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
-|**2023-10-16**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149v1](http://arxiv.org/abs/2310.10149v1)|null|
+|**2023-11-07**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149v2](http://arxiv.org/abs/2310.10149v2)|null|
 |**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
 |**2023-10-24**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918v3](http://arxiv.org/abs/2310.09918v3)|null|
 |**2023-10-17**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v2](http://arxiv.org/abs/2310.09759v2)|null|
