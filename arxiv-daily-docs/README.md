@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model**|Haokun Zhu et.al.|[2311.05276v1](http://arxiv.org/abs/2311.05276v1)|null|
 |**2023-11-08**|**Are foundation models efficient for medical image segmentation?**|Danielle Ferreira et.al.|[2311.04847v1](http://arxiv.org/abs/2311.04847v1)|null|
 |**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|**[link](https://github.com/hifexplo/masking)**|
 |**2023-11-06**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v2](http://arxiv.org/abs/2311.01989v2)|null|
