@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225v1](http://arxiv.org/abs/2311.08225v1)|null|
+|**2023-11-14**|**SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation**|Yinuo Wang et.al.|[2311.08190v1](http://arxiv.org/abs/2311.08190v1)|**[link](https://github.com/mileswyn/samihs)**|
+|**2023-11-14**|**Zero-Shot Segmentation of Eye Features Using the Segment Anything Model (SAM)**|Virmarie Maquiling et.al.|[2311.08077v1](http://arxiv.org/abs/2311.08077v1)|null|
+|**2023-11-14**|**GlanceSeg: Real-time microaneurysm lesion segmentation with gaze-map-guided foundation model for early detection of diabetic retinopathy**|Hongyang Jiang et.al.|[2311.08075v1](http://arxiv.org/abs/2311.08075v1)|null|
 |**2023-11-10**|**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images**|Yinsong Xu et.al.|[2311.06400v1](http://arxiv.org/abs/2311.06400v1)|null|
 |**2023-11-09**|**SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model**|Haokun Zhu et.al.|[2311.05276v1](http://arxiv.org/abs/2311.05276v1)|null|
 |**2023-11-08**|**Are foundation models efficient for medical image segmentation?**|Danielle Ferreira et.al.|[2311.04847v1](http://arxiv.org/abs/2311.04847v1)|null|
@@ -12,7 +16,7 @@
 |**2023-11-02**|**Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning**|Gaoang Wang et.al.|[2311.01004v1](http://arxiv.org/abs/2311.01004v1)|null|
 |**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134v1](http://arxiv.org/abs/2311.00134v1)|null|
 |**2023-10-31**|**Team I2R-VI-FF Technical Report on EPIC-KITCHENS VISOR Hand Object Segmentation Challenge 2023**|Fen Fang et.al.|[2310.20120v1](http://arxiv.org/abs/2310.20120v1)|null|
-|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721v2](http://arxiv.org/abs/2310.19721v2)|**[link](https://github.com/medicl-vu/promise)**|
+|**2023-11-13**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721v3](http://arxiv.org/abs/2310.19721v3)|**[link](https://github.com/medicl-vu/promise)**|
 |**2023-10-30**|**A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture**|Qianqian Shen et.al.|[2310.19257v1](http://arxiv.org/abs/2310.19257v1)|null|
 |**2023-10-28**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709v1](http://arxiv.org/abs/2310.18709v1)|null|
 |**2023-10-28**|**One-shot Localization and Segmentation of Medical Images with Foundation Models**|Deepa Anand et.al.|[2310.18642v1](http://arxiv.org/abs/2310.18642v1)|null|
