@@ -52,7 +52,7 @@
 |**2023-10-02**|**nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance**|Yunxiang Li et.al.|[2309.16967v2](http://arxiv.org/abs/2309.16967v2)|**[link](https://github.com/kent0n-li/medical-image-segmentation)**|
 |**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562v1](http://arxiv.org/abs/2309.15562v1)|null|
 |**2023-09-24**|**A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition**|Khoa Dang Nguyen et.al.|[2309.13578v1](http://arxiv.org/abs/2309.13578v1)|null|
-|**2023-11-13**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v2](http://arxiv.org/abs/2309.13539v2)|null|
+|**2023-11-13**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v2](http://arxiv.org/abs/2309.13539v2)|**[link](https://github.com/kimsekeun/medivista-sam)**|
 |**2023-09-22**|**NOC: High-Quality Neural Object Cloning with 3D Lifting of Segment Anything**|Xiaobao Wei et.al.|[2309.12790v1](http://arxiv.org/abs/2309.12790v1)|null|
 |**2023-09-22**|**PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion**|Yuxiang Yan et.al.|[2309.12708v1](http://arxiv.org/abs/2309.12708v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
