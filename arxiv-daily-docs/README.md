@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks**|Jin Ye et.al.|[2311.11969v1](http://arxiv.org/abs/2311.11969v1)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
+|**2023-11-20**|**OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**|Haiyang Ying et.al.|[2311.11666v1](http://arxiv.org/abs/2311.11666v1)|null|
+|**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319v1](http://arxiv.org/abs/2311.11319v1)|null|
+|**2023-11-18**|**A Foundation Model for Cell Segmentation**|Uriah Israel et.al.|[2311.11004v1](http://arxiv.org/abs/2311.11004v1)|null|
+|**2023-11-17**|**Zero-Shot Digital Rock Image Segmentation with a Fine-Tuned Segment Anything Model**|Zhaoyang Ma et.al.|[2311.10865v1](http://arxiv.org/abs/2311.10865v1)|null|
 |**2023-11-17**|**Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation**|Yichi Zhang et.al.|[2311.10529v1](http://arxiv.org/abs/2311.10529v1)|null|
 |**2023-11-17**|**Segment Anything in Defect Detection**|Bozhen Hu et.al.|[2311.10245v1](http://arxiv.org/abs/2311.10245v1)|null|
 |**2023-11-16**|**UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework**|Chris Kelly et.al.|[2311.10125v1](http://arxiv.org/abs/2311.10125v1)|**[link](https://github.com/lhbuilder/sa-segment-anything)**|
@@ -28,7 +33,7 @@
 |**2023-10-26**|**Task-driven Prompt Evolution for Foundation Models**|Rachana Sathish et.al.|[2310.17128v1](http://arxiv.org/abs/2310.17128v1)|null|
 |**2023-11-07**|**SonoSAMTrack -- Segment and Track Anything on Ultrasound Images**|Hariharan Ravishankar et.al.|[2310.16872v2](http://arxiv.org/abs/2310.16872v2)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
-|**2023-10-23**|**SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding**|Haoxiang Wang et.al.|[2310.15308v1](http://arxiv.org/abs/2310.15308v1)|null|
+|**2023-11-20**|**SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding**|Haoxiang Wang et.al.|[2310.15308v2](http://arxiv.org/abs/2310.15308v2)|null|
 |**2023-10-29**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v2](http://arxiv.org/abs/2310.15161v2)|**[link](https://github.com/uni-medical/sam-med3d)**|
 |**2023-10-19**|**Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models**|Zhaozheng Chen et.al.|[2310.13026v1](http://arxiv.org/abs/2310.13026v1)|null|
 |**2023-10-04**|**Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models**|Sumit Pandey et.al.|[2310.12995v1](http://arxiv.org/abs/2310.12995v1)|null|
