@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**GMISeg: General Medical Image Segmentation without Re-Training**|Jing Xu et.al.|[2311.12539v1](http://arxiv.org/abs/2311.12539v1)|null|
+|**2023-11-19**|**Few-Shot Classification & Segmentation Using Large Language Models Agent**|Tian Meng et.al.|[2311.12065v1](http://arxiv.org/abs/2311.12065v1)|null|
 |**2023-11-20**|**SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks**|Jin Ye et.al.|[2311.11969v1](http://arxiv.org/abs/2311.11969v1)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
 |**2023-11-20**|**OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**|Haiyang Ying et.al.|[2311.11666v1](http://arxiv.org/abs/2311.11666v1)|null|
 |**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319v1](http://arxiv.org/abs/2311.11319v1)|null|
