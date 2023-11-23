@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Self-guided Few-shot Semantic Segmentation for Remote Sensing Imagery Based on Large Vision Models**|Xiyu Qi et.al.|[2311.13200v1](http://arxiv.org/abs/2311.13200v1)|null|
+|**2023-11-21**|**Novel OCT mosaicking pipeline with Feature- and Pixel-based registration**|Jiacheng Wang et.al.|[2311.13052v1](http://arxiv.org/abs/2311.13052v1)|null|
 |**2023-11-21**|**GMISeg: General Medical Image Segmentation without Re-Training**|Jing Xu et.al.|[2311.12539v1](http://arxiv.org/abs/2311.12539v1)|null|
 |**2023-11-19**|**Few-Shot Classification & Segmentation Using Large Language Models Agent**|Tian Meng et.al.|[2311.12065v1](http://arxiv.org/abs/2311.12065v1)|null|
 |**2023-11-20**|**SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks**|Jin Ye et.al.|[2311.11969v1](http://arxiv.org/abs/2311.11969v1)|**[link](https://github.com/OpenGVLab/SAM-Med2D)**|
