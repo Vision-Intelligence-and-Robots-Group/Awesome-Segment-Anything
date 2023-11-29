@@ -4,7 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-27**|**Unleashing the Power of Prompt-driven Nucleus Instance Segmentation**|Zhongyi Shui et.al.|[2311.15939v1](http://arxiv.org/abs/2311.15939v1)|null|
+|**2023-11-04**|**Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs**|Fei He et.al.|[2311.16140v1](http://arxiv.org/abs/2311.16140v1)|**[link](https://github.com/yangyang-69/Prompt_sam_cryoPPP)**|
+|**2023-11-27**|**Unleashing the Power of Prompt-driven Nucleus Instance Segmentation**|Zhongyi Shui et.al.|[2311.15939v1](http://arxiv.org/abs/2311.15939v1)|**[link](https://github.com/windygoo/promptnucseg)**|
 |**2023-11-27**|**Stable Segment Anything Model**|Qi Fan et.al.|[2311.15776v1](http://arxiv.org/abs/2311.15776v1)|**[link](https://github.com/fanq15/stable-sam)**|
 |**2023-11-27**|**MARIS: Referring Image Segmentation via Mutual-Aware Attention Features**|Mengxi Zhang et.al.|[2311.15727v1](http://arxiv.org/abs/2311.15727v1)|null|
 |**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707v1](http://arxiv.org/abs/2311.15707v1)|**[link](https://github.com/jiehonglin/sam-6d)**|
@@ -53,7 +54,7 @@
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
 |**2023-11-07**|**Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space**|Yao Qianxiang et.al.|[2310.10149v2](http://arxiv.org/abs/2310.10149v2)|null|
 |**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
-|**2023-10-24**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918v3](http://arxiv.org/abs/2310.09918v3)|null|
+|**2023-11-28**|**Pedestrian Accessible Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data for All Pedestrian Types**|Jiahao Xia et.al.|[2310.09918v4](http://arxiv.org/abs/2310.09918v4)|null|
 |**2023-10-17**|**Prototype-oriented Unsupervised Change Detection for Disaster Management**|Youngtack Oh et.al.|[2310.09759v2](http://arxiv.org/abs/2310.09759v2)|null|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021v1](http://arxiv.org/abs/2310.09021v1)|null|
 |**2023-10-12**|**Virtual Augmented Reality for Atari Reinforcement Learning**|Christian A. Schiller et.al.|[2310.08683v1](http://arxiv.org/abs/2310.08683v1)|**[link](https://github.com/c-a-schiller/var4arl)**|
