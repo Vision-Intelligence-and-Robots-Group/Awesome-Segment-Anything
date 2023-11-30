@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707v1](http://arxiv.org/abs/2311.17707v1)|null|
+|**2023-11-28**|**Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model**|Zelin Peng et.al.|[2311.17112v1](http://arxiv.org/abs/2311.17112v1)|null|
+|**2023-11-28**|**I-MedSAM: Implicit Medical Image Segmentation with Segment Anything**|Xiaobao Wei et.al.|[2311.17081v1](http://arxiv.org/abs/2311.17081v1)|null|
+|**2023-11-27**|**Self-Supervised Learning of Whole and Component-Based Semantic Representations for Person Re-Identification**|Siyuan Huang et.al.|[2311.17074v1](http://arxiv.org/abs/2311.17074v1)|null|
 |**2023-11-04**|**Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs**|Fei He et.al.|[2311.16140v1](http://arxiv.org/abs/2311.16140v1)|**[link](https://github.com/yangyang-69/Prompt_sam_cryoPPP)**|
 |**2023-11-27**|**Unleashing the Power of Prompt-driven Nucleus Instance Segmentation**|Zhongyi Shui et.al.|[2311.15939v1](http://arxiv.org/abs/2311.15939v1)|**[link](https://github.com/windygoo/promptnucseg)**|
 |**2023-11-27**|**Stable Segment Anything Model**|Qi Fan et.al.|[2311.15776v1](http://arxiv.org/abs/2311.15776v1)|**[link](https://github.com/fanq15/stable-sam)**|
