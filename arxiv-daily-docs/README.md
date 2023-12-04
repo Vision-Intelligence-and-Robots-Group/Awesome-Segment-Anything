@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
+|**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312v1](http://arxiv.org/abs/2312.00312v1)|null|
 |**2023-11-29**|**Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images**|Aayush Kumar Tyagi et.al.|[2311.17960v1](http://arxiv.org/abs/2311.17960v1)|null|
 |**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707v1](http://arxiv.org/abs/2311.17707v1)|null|
 |**2023-11-28**|**Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model**|Zelin Peng et.al.|[2311.17112v1](http://arxiv.org/abs/2311.17112v1)|null|
