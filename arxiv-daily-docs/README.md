@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
+|**2023-12-01**|**Segment and Caption Anything**|Xiaoke Huang et.al.|[2312.00869v1](http://arxiv.org/abs/2312.00869v1)|null|
+|**2023-12-01**|**EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything**|Yunyang Xiong et.al.|[2312.00863v1](http://arxiv.org/abs/2312.00863v1)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312v1](http://arxiv.org/abs/2312.00312v1)|null|
 |**2023-11-29**|**Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images**|Aayush Kumar Tyagi et.al.|[2311.17960v1](http://arxiv.org/abs/2311.17960v1)|null|
