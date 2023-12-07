@@ -1,4 +1,4 @@
-## Updated on 2023.12.06
+## Updated on 2023.12.07
 
 ## SAM
 
@@ -36,7 +36,7 @@
 |**2023-11-17**|**Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation**|Yichi Zhang et.al.|[2311.10529v1](http://arxiv.org/abs/2311.10529v1)|null|
 |**2023-11-17**|**Segment Anything in Defect Detection**|Bozhen Hu et.al.|[2311.10245v1](http://arxiv.org/abs/2311.10245v1)|null|
 |**2023-11-16**|**UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework**|Chris Kelly et.al.|[2311.10125v1](http://arxiv.org/abs/2311.10125v1)|**[link](https://github.com/lhbuilder/sa-segment-anything)**|
-|**2023-11-16**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121v1](http://arxiv.org/abs/2311.10121v1)|null|
+|**2023-12-05**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121v2](http://arxiv.org/abs/2311.10121v2)|null|
 |**2023-11-15**|**AdapterShadow: Adapting Segment Anything Model for Shadow Detection**|Leiping Jie et.al.|[2311.08891v1](http://arxiv.org/abs/2311.08891v1)|null|
 |**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225v1](http://arxiv.org/abs/2311.08225v1)|null|
 |**2023-11-14**|**SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation**|Yinuo Wang et.al.|[2311.08190v1](http://arxiv.org/abs/2311.08190v1)|**[link](https://github.com/mileswyn/samihs)**|
