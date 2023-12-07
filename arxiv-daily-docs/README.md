@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|null|
+|**2023-12-06**|**Foundation Model Assisted Weakly Supervised Semantic Segmentation**|Xiaobo Yang et.al.|[2312.03585v1](http://arxiv.org/abs/2312.03585v1)|null|
+|**2023-12-06**|**Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**|Haojie Zhang et.al.|[2312.03502v1](http://arxiv.org/abs/2312.03502v1)|**[link](https://github.com/zhang-haojie/wesam)**|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203v1](http://arxiv.org/abs/2312.03203v1)|null|
+|**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119v1](http://arxiv.org/abs/2312.03119v1)|null|
 |**2023-12-05**|**SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints**|Xianping Ma et.al.|[2312.02464v1](http://arxiv.org/abs/2312.02464v1)|**[link](https://github.com/sstary/ssrs)**|
 |**2023-12-05**|**Towards Granularity-adjusted Pixel-level Semantic Annotation**|Rohit Kundu et.al.|[2312.02420v1](http://arxiv.org/abs/2312.02420v1)|null|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
@@ -36,7 +41,7 @@
 |**2023-11-17**|**Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation**|Yichi Zhang et.al.|[2311.10529v1](http://arxiv.org/abs/2311.10529v1)|null|
 |**2023-11-17**|**Segment Anything in Defect Detection**|Bozhen Hu et.al.|[2311.10245v1](http://arxiv.org/abs/2311.10245v1)|null|
 |**2023-11-16**|**UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework**|Chris Kelly et.al.|[2311.10125v1](http://arxiv.org/abs/2311.10125v1)|**[link](https://github.com/lhbuilder/sa-segment-anything)**|
-|**2023-12-05**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121v2](http://arxiv.org/abs/2311.10121v2)|null|
+|**2023-12-05**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121v2](http://arxiv.org/abs/2311.10121v2)|**[link](https://github.com/curli-quan/slide-sam)**|
 |**2023-11-15**|**AdapterShadow: Adapting Segment Anything Model for Shadow Detection**|Leiping Jie et.al.|[2311.08891v1](http://arxiv.org/abs/2311.08891v1)|null|
 |**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225v1](http://arxiv.org/abs/2311.08225v1)|null|
 |**2023-11-14**|**SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation**|Yinuo Wang et.al.|[2311.08190v1](http://arxiv.org/abs/2311.08190v1)|**[link](https://github.com/mileswyn/samihs)**|
