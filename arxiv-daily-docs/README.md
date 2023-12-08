@@ -4,7 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|null|
+|**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233v1](http://arxiv.org/abs/2312.04233v1)|null|
+|**2023-12-07**|**SAMBA: A Trainable Segmentation Web-App with Smart Labelling**|Ronan Docherty et.al.|[2312.04197v1](http://arxiv.org/abs/2312.04197v1)|null|
+|**2023-12-07**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al.|[2312.04063v1](http://arxiv.org/abs/2312.04063v1)|null|
+|**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|**[link](https://github.com/ucas-vg/sambor)**|
 |**2023-12-06**|**Foundation Model Assisted Weakly Supervised Semantic Segmentation**|Xiaobo Yang et.al.|[2312.03585v1](http://arxiv.org/abs/2312.03585v1)|null|
 |**2023-12-06**|**Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**|Haojie Zhang et.al.|[2312.03502v1](http://arxiv.org/abs/2312.03502v1)|**[link](https://github.com/zhang-haojie/wesam)**|
 |**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203v1](http://arxiv.org/abs/2312.03203v1)|null|
