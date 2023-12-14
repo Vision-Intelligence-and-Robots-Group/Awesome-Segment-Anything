@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation**|Shiyun Chen et.al.|[2312.07969v1](http://arxiv.org/abs/2312.07969v1)|null|
 |**2023-12-12**|**Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects**|Jian Hu et.al.|[2312.07374v1](http://arxiv.org/abs/2312.07374v1)|**[link](https://github.com/jyLin8100/GenSAM)**|
 |**2023-12-11**|**SqueezeSAM: User friendly mobile interactive segmentation**|Balakrishnan Varadarajan et.al.|[2312.06736v1](http://arxiv.org/abs/2312.06736v1)|null|
 |**2023-12-11**|**EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM**|Chong Zhou et.al.|[2312.06660v1](http://arxiv.org/abs/2312.06660v1)|**[link](https://github.com/chongzhou96/edgesam)**|
@@ -18,7 +19,7 @@
 |**2023-12-10**|**Foundation Model Assisted Weakly Supervised Semantic Segmentation**|Xiaobo Yang et.al.|[2312.03585v2](http://arxiv.org/abs/2312.03585v2)|**[link](https://github.com/HAL-42/FMA-WSSS)**|
 |**2023-12-06**|**Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**|Haojie Zhang et.al.|[2312.03502v1](http://arxiv.org/abs/2312.03502v1)|**[link](https://github.com/zhang-haojie/wesam)**|
 |**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203v1](http://arxiv.org/abs/2312.03203v1)|null|
-|**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119v1](http://arxiv.org/abs/2312.03119v1)|null|
+|**2023-12-05**|**AI-SAM: Automatic and Interactive Segment Anything Model**|Yimu Pan et.al.|[2312.03119v1](http://arxiv.org/abs/2312.03119v1)|**[link](https://github.com/ymp5078/ai-sam)**|
 |**2023-12-05**|**SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints**|Xianping Ma et.al.|[2312.02464v1](http://arxiv.org/abs/2312.02464v1)|**[link](https://github.com/sstary/ssrs)**|
 |**2023-12-05**|**Towards Granularity-adjusted Pixel-level Semantic Annotation**|Rohit Kundu et.al.|[2312.02420v1](http://arxiv.org/abs/2312.02420v1)|null|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
@@ -48,7 +49,7 @@
 |**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319v1](http://arxiv.org/abs/2311.11319v1)|null|
 |**2023-11-18**|**A Foundation Model for Cell Segmentation**|Uriah Israel et.al.|[2311.11004v1](http://arxiv.org/abs/2311.11004v1)|null|
 |**2023-11-17**|**Zero-Shot Digital Rock Image Segmentation with a Fine-Tuned Segment Anything Model**|Zhaoyang Ma et.al.|[2311.10865v1](http://arxiv.org/abs/2311.10865v1)|null|
-|**2023-11-17**|**Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation**|Yichi Zhang et.al.|[2311.10529v1](http://arxiv.org/abs/2311.10529v1)|null|
+|**2023-12-13**|**Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation**|Yichi Zhang et.al.|[2311.10529v2](http://arxiv.org/abs/2311.10529v2)|null|
 |**2023-11-17**|**Segment Anything in Defect Detection**|Bozhen Hu et.al.|[2311.10245v1](http://arxiv.org/abs/2311.10245v1)|null|
 |**2023-11-16**|**UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework**|Chris Kelly et.al.|[2311.10125v1](http://arxiv.org/abs/2311.10125v1)|**[link](https://github.com/lhbuilder/sa-segment-anything)**|
 |**2023-12-05**|**Slide-SAM: Medical SAM Meets Sliding Window**|Quan Quan et.al.|[2311.10121v2](http://arxiv.org/abs/2311.10121v2)|**[link](https://github.com/curli-quan/slide-sam)**|
