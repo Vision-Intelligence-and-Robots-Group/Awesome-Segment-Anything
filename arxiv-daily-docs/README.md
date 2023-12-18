@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
+|**2023-12-15**|**SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model**|Yizhe Zhang et.al.|[2312.09899v1](http://arxiv.org/abs/2312.09899v1)|null|
+|**2023-12-15**|**Collaborating Foundation models for Domain Generalized Semantic Segmentation**|Yasser Benigmim et.al.|[2312.09788v1](http://arxiv.org/abs/2312.09788v1)|**[link](https://github.com/yasserben/clouds)**|
+|**2023-12-15**|**MobileSAMv2: Faster Segment Anything to Everything**|Chaoning Zhang et.al.|[2312.09579v1](http://arxiv.org/abs/2312.09579v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-12-14**|**Influence of Prompting Strategies on Segment Anything Model (SAM) for Short-axis Cardiac MRI segmentation**|Josh Stein et.al.|[2312.08932v1](http://arxiv.org/abs/2312.08932v1)|null|
 |**2023-12-13**|**ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation**|Shiyun Chen et.al.|[2312.07969v1](http://arxiv.org/abs/2312.07969v1)|null|
 |**2023-12-13**|**Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects**|Jian Hu et.al.|[2312.07374v2](http://arxiv.org/abs/2312.07374v2)|**[link](https://github.com/jyLin8100/GenSAM)**|
@@ -13,7 +17,7 @@
 |**2023-12-11**|**SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations**|Yichi Zhang et.al.|[2312.06316v1](http://arxiv.org/abs/2312.06316v1)|null|
 |**2023-12-10**|**RepViT-SAM: Towards Real-Time Segmenting Anything**|Ao Wang et.al.|[2312.05760v1](http://arxiv.org/abs/2312.05760v1)|**[link](https://github.com/THU-MIG/RepViT)**|
 |**2023-12-12**|**0.1% Data Makes Segment Anything Slim**|Zigeng Chen et.al.|[2312.05284v2](http://arxiv.org/abs/2312.05284v2)|**[link](https://github.com/czg1225/slimsam)**|
-|**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233v1](http://arxiv.org/abs/2312.04233v1)|null|
+|**2023-12-15**|**Fine-tuning vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233v2](http://arxiv.org/abs/2312.04233v2)|null|
 |**2023-12-07**|**SAMBA: A Trainable Segmentation Web-App with Smart Labelling**|Ronan Docherty et.al.|[2312.04197v1](http://arxiv.org/abs/2312.04197v1)|null|
 |**2023-12-07**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al.|[2312.04063v1](http://arxiv.org/abs/2312.04063v1)|null|
 |**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|**[link](https://github.com/ucas-vg/sambor)**|
