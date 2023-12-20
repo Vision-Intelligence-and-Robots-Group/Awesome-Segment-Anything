@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
+|**2023-12-19**|**Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations**|Mohannad Barakat et.al.|[2312.11775v1](http://arxiv.org/abs/2312.11775v1)|null|
+|**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557v1](http://arxiv.org/abs/2312.11557v1)|null|
+|**2023-12-18**|**Appearance-based Refinement for Object-Centric Motion Segmentation**|Junyu Xie et.al.|[2312.11463v1](http://arxiv.org/abs/2312.11463v1)|null|
 |**2023-12-17**|**Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training**|Yixin Zhang et.al.|[2312.10600v1](http://arxiv.org/abs/2312.10600v1)|null|
 |**2023-12-16**|**Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the Caribbean**|Isabelle Tingzon et.al.|[2312.10306v1](http://arxiv.org/abs/2312.10306v1)|null|
 |**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
