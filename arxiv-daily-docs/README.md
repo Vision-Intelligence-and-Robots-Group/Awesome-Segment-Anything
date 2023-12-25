@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation**|Wenxi Yue et.al.|[2312.14481v1](http://arxiv.org/abs/2312.14481v1)|**[link](https://github.com/wenxi-yue/surgicalpart-sam)**|
+|**2023-12-22**|**FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection**|Dongmei Zhang et.al.|[2312.14465v1](http://arxiv.org/abs/2312.14465v1)|null|
 |**2023-12-21**|**TinySAM: Pushing the Envelope for Efficient Segment Anything Model**|Han Shu et.al.|[2312.13789v1](http://arxiv.org/abs/2312.13789v1)|**[link](https://github.com/xinghaochen/tinysam)**|
 |**2023-12-20**|**Testing the Segment Anything Model on radiology data**|José Guilherme de Almeida et.al.|[2312.12880v1](http://arxiv.org/abs/2312.12880v1)|null|
 |**2023-12-20**|**Segment Anything Model Meets Image Harmonization**|Haoxing Chen et.al.|[2312.12729v1](http://arxiv.org/abs/2312.12729v1)|null|
