@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts**|Ziheng Zhao et.al.|[2312.17183v1](http://arxiv.org/abs/2312.17183v1)|null|
+|**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116v1](http://arxiv.org/abs/2312.17116v1)|**[link](https://github.com/wadiuvatzy/sam-g)**|
+|**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|null|
+|**2023-12-24**|**Segment Any Events via Weighted Adaptation of Pivotal Tokens**|Zhiwen Chen et.al.|[2312.16222v1](http://arxiv.org/abs/2312.16222v1)|null|
 |**2023-12-26**|**Semantic-aware SAM for Point-Prompted Instance Segmentation**|Zhaoyang Wei et.al.|[2312.15895v1](http://arxiv.org/abs/2312.15895v1)|null|
 |**2023-12-26**|**Medical Report Generation based on Segment-Enhanced Contrastive Representation Learning**|Ruoqing Zhao et.al.|[2312.15869v1](http://arxiv.org/abs/2312.15869v1)|null|
 |**2023-12-26**|**Video Frame Interpolation with Region-Distinguishable Priors from SAM**|Yan Han et.al.|[2312.15868v1](http://arxiv.org/abs/2312.15868v1)|null|
@@ -44,7 +48,7 @@
 |**2023-12-05**|**Towards Granularity-adjusted Pixel-level Semantic Annotation**|Rohit Kundu et.al.|[2312.02420v1](http://arxiv.org/abs/2312.02420v1)|null|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
 |**2023-12-01**|**Segment and Caption Anything**|Xiaoke Huang et.al.|[2312.00869v1](http://arxiv.org/abs/2312.00869v1)|null|
-|**2023-12-01**|**EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything**|Yunyang Xiong et.al.|[2312.00863v1](http://arxiv.org/abs/2312.00863v1)|null|
+|**2023-12-01**|**EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything**|Yunyang Xiong et.al.|[2312.00863v1](http://arxiv.org/abs/2312.00863v1)|**[link](https://github.com/yformer/EfficientSAM)**|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-12-01**|**Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation**|Yiming Zhao et.al.|[2312.00312v1](http://arxiv.org/abs/2312.00312v1)|null|
 |**2023-11-29**|**Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images**|Aayush Kumar Tyagi et.al.|[2311.17960v1](http://arxiv.org/abs/2311.17960v1)|null|
