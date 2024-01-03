@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010v1](http://arxiv.org/abs/2401.01010v1)|**[link](https://github.com/shirowalker/ucad)**|
+|**2023-12-30**|**Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation**|Xianjie Liu et.al.|[2401.00248v1](http://arxiv.org/abs/2401.00248v1)|null|
 |**2023-12-28**|**One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts**|Ziheng Zhao et.al.|[2312.17183v1](http://arxiv.org/abs/2312.17183v1)|null|
 |**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116v1](http://arxiv.org/abs/2312.17116v1)|**[link](https://github.com/wadiuvatzy/sam-g)**|
 |**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|**[link](https://github.com/stephenapx/ucd-scm)**|
