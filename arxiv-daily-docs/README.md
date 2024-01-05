@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326v1](http://arxiv.org/abs/2401.02326v1)|**[link](https://github.com/xypu98/cwsam)**|
+|**2024-01-04**|**BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model**|Yiran Song et.al.|[2401.02317v1](http://arxiv.org/abs/2401.02317v1)|**[link](https://github.com/zongzi13545329/ba-sam)**|
+|**2024-01-04**|**Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation**|Hanhui Wang et.al.|[2401.02076v1](http://arxiv.org/abs/2401.02076v1)|**[link](https://github.com/sarihust/sammed)**|
 |**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010v1](http://arxiv.org/abs/2401.01010v1)|**[link](https://github.com/shirowalker/ucad)**|
 |**2023-12-30**|**Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation**|Xianjie Liu et.al.|[2401.00248v1](http://arxiv.org/abs/2401.00248v1)|null|
 |**2023-12-28**|**One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts**|Ziheng Zhao et.al.|[2312.17183v1](http://arxiv.org/abs/2312.17183v1)|null|
@@ -13,7 +16,7 @@
 |**2023-12-26**|**Semantic-aware SAM for Point-Prompted Instance Segmentation**|Zhaoyang Wei et.al.|[2312.15895v1](http://arxiv.org/abs/2312.15895v1)|null|
 |**2023-12-26**|**Medical Report Generation based on Segment-Enhanced Contrastive Representation Learning**|Ruoqing Zhao et.al.|[2312.15869v1](http://arxiv.org/abs/2312.15869v1)|null|
 |**2023-12-26**|**Video Frame Interpolation with Region-Distinguishable Priors from SAM**|Yan Han et.al.|[2312.15868v1](http://arxiv.org/abs/2312.15868v1)|null|
-|**2023-12-23**|**Learning Multi-Step Manipulation Tasks from A Single Human Demonstration**|Dingkun Guo et.al.|[2312.15346v1](http://arxiv.org/abs/2312.15346v1)|null|
+|**2024-01-04**|**Learning Multi-Step Manipulation Tasks from A Single Human Demonstration**|Dingkun Guo et.al.|[2312.15346v2](http://arxiv.org/abs/2312.15346v2)|null|
 |**2023-12-22**|**Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation**|Wenxi Yue et.al.|[2312.14481v1](http://arxiv.org/abs/2312.14481v1)|**[link](https://github.com/wenxi-yue/surgicalpart-sam)**|
 |**2023-12-22**|**FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection**|Dongmei Zhang et.al.|[2312.14465v1](http://arxiv.org/abs/2312.14465v1)|null|
 |**2023-12-21**|**TinySAM: Pushing the Envelope for Efficient Segment Anything Model**|Han Shu et.al.|[2312.13789v1](http://arxiv.org/abs/2312.13789v1)|**[link](https://github.com/xinghaochen/tinysam)**|
