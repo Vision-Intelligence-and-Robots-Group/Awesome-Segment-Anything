@@ -4,9 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions**|Yichi Zhang et.al.|[2401.03495v1](http://arxiv.org/abs/2401.03495v1)|null|
 |**2024-01-05**|**Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**|Haobo Yuan et.al.|[2401.02955v1](http://arxiv.org/abs/2401.02955v1)|**[link](https://github.com/harboryuan/ovsam)**|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326v1](http://arxiv.org/abs/2401.02326v1)|**[link](https://github.com/xypu98/cwsam)**|
-|**2024-01-04**|**BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model**|Yiran Song et.al.|[2401.02317v1](http://arxiv.org/abs/2401.02317v1)|**[link](https://github.com/zongzi13545329/ba-sam)**|
+|**2024-01-08**|**BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model**|Yiran Song et.al.|[2401.02317v2](http://arxiv.org/abs/2401.02317v2)|**[link](https://github.com/zongzi13545329/ba-sam)**|
 |**2024-01-04**|**Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation**|Hanhui Wang et.al.|[2401.02076v1](http://arxiv.org/abs/2401.02076v1)|**[link](https://github.com/sarihust/sammed)**|
 |**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010v1](http://arxiv.org/abs/2401.01010v1)|**[link](https://github.com/shirowalker/ucad)**|
 |**2023-12-30**|**Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation**|Xianjie Liu et.al.|[2401.00248v1](http://arxiv.org/abs/2401.00248v1)|null|
