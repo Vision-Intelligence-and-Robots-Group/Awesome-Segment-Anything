@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System**|Galib Muhammad Shahriar Himel et.al.|[2401.04746v1](http://arxiv.org/abs/2401.04746v1)|null|
+|**2024-01-09**|**Segment anything model (SAM) for brain extraction in fMRI studies**|Dwith Chenna et.al.|[2401.04740v1](http://arxiv.org/abs/2401.04740v1)|**[link](https://github.com/cyndwith/fMRI-SAM)**|
 |**2024-01-09**|**Learning to Prompt Segment Anything Models**|Jiaxing Huang et.al.|[2401.04651v1](http://arxiv.org/abs/2401.04651v1)|null|
 |**2024-01-07**|**Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions**|Yichi Zhang et.al.|[2401.03495v1](http://arxiv.org/abs/2401.03495v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
 |**2024-01-05**|**Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**|Haobo Yuan et.al.|[2401.02955v1](http://arxiv.org/abs/2401.02955v1)|**[link](https://github.com/harboryuan/ovsam)**|
