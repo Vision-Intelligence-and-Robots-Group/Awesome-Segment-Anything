@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**MatSAM: Efficient Materials Microstructure Extraction via Visual Large Model**|Changtai Li et.al.|[2401.05638v1](http://arxiv.org/abs/2401.05638v1)|null|
 |**2024-01-09**|**Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System**|Galib Muhammad Shahriar Himel et.al.|[2401.04746v1](http://arxiv.org/abs/2401.04746v1)|null|
 |**2024-01-09**|**Segment anything model (SAM) for brain extraction in fMRI studies**|Dwith Chenna et.al.|[2401.04740v1](http://arxiv.org/abs/2401.04740v1)|**[link](https://github.com/cyndwith/fMRI-SAM)**|
 |**2024-01-09**|**Learning to Prompt Segment Anything Models**|Jiaxing Huang et.al.|[2401.04651v1](http://arxiv.org/abs/2401.04651v1)|null|
