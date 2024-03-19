@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v1](http://arxiv.org/abs/2403.11656v1)|null|
+|**2024-03-18**|**CCC++: Optimized Color Classified Colorization with Segment Anything Model (SAM) Empowered Object Selective Color Harmonization**|Mrityunjoy Gain et.al.|[2403.11494v1](http://arxiv.org/abs/2403.11494v1)|null|
+|**2024-03-17**|**Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation**|Shumeng Li et.al.|[2403.11229v1](http://arxiv.org/abs/2403.11229v1)|null|
+|**2024-03-16**|**Task-Aware Low-Rank Adaptation of Segment Anything Model**|Xuehao Wang et.al.|[2403.10971v1](http://arxiv.org/abs/2403.10971v1)|null|
+|**2024-03-16**|**Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation**|Mingzhou Jiang et.al.|[2403.10931v1](http://arxiv.org/abs/2403.10931v1)|null|
+|**2024-03-16**|**Unsupervised Collaborative Metric Learning with Mixed-Scale Groups for General Object Retrieval**|Shichao Kan et.al.|[2403.10798v1](http://arxiv.org/abs/2403.10798v1)|**[link](https://github.com/dengyuhai/ms-ugcml)**|
+|**2024-03-16**|**Segment Any Object Model (SAOM): Real-to-Simulation Fine-Tuning Strategy for Multi-Class Multi-Instance Segmentation**|Mariia Khan et.al.|[2403.10780v1](http://arxiv.org/abs/2403.10780v1)|null|
 |**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287v1](http://arxiv.org/abs/2403.10287v1)|null|
 |**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252v1](http://arxiv.org/abs/2403.10252v1)|null|
 |**2024-03-15**|**Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects**|Malte Mosbach et.al.|[2403.10187v1](http://arxiv.org/abs/2403.10187v1)|null|
@@ -13,9 +20,9 @@
 |**2024-03-14**|**FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images**|Yiqing Shen et.al.|[2403.09827v1](http://arxiv.org/abs/2403.09827v1)|**[link](https://github.com/arcadelab/fastsam3d)**|
 |**2024-03-14**|**PosSAM: Panoptic Open-vocabulary Segment Anything**|Vibashan VS et.al.|[2403.09620v1](http://arxiv.org/abs/2403.09620v1)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367v1](http://arxiv.org/abs/2403.09367v1)|null|
-|**2024-03-14**|**WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images**|Hong Liu et.al.|[2403.09257v1](http://arxiv.org/abs/2403.09257v1)|null|
+|**2024-03-17**|**WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images**|Hong Liu et.al.|[2403.09257v2](http://arxiv.org/abs/2403.09257v2)|null|
 |**2024-03-14**|**Customizing Segmentation Foundation Model via Prompt Learning for Instance Segmentation**|Hyung-Il Kim et.al.|[2403.09199v1](http://arxiv.org/abs/2403.09199v1)|null|
-|**2024-03-14**|**SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration**|Yanfei Songa et.al.|[2403.09195v1](http://arxiv.org/abs/2403.09195v1)|null|
+|**2024-03-18**|**SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration**|Yanfei Song et.al.|[2403.09195v2](http://arxiv.org/abs/2403.09195v2)|null|
 |**2024-03-12**|**FluoroSAM: A Language-aligned Foundation Model for X-ray Image Segmentation**|Benjamin D. Killeen et.al.|[2403.08059v1](http://arxiv.org/abs/2403.08059v1)|**[link](https://github.com/arcadelab/fluorosam)**|
 |**2024-03-12**|**Real-time Surgical Instrument Segmentation in Video Using Point Tracking and Segment Anything**|Zijian Wu et.al.|[2403.08003v1](http://arxiv.org/abs/2403.08003v1)|null|
 |**2024-03-12**|**SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation**|Yiran Wang et.al.|[2403.07951v1](http://arxiv.org/abs/2403.07951v1)|null|
@@ -27,7 +34,7 @@
 |**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408v1](http://arxiv.org/abs/2403.05408v1)|**[link](https://github.com/liu-yuxi/fedfms)**|
 |**2024-03-07**|**SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising**|Tao Zhou et.al.|[2403.04194v1](http://arxiv.org/abs/2403.04194v1)|**[link](https://github.com/infzhou/sam-pd)**|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173v1](http://arxiv.org/abs/2403.04173v1)|null|
-|**2024-03-07**|**ProMISe: Promptable Medical Image Segmentation using SAM**|Jinfeng Wang et.al.|[2403.04164v1](http://arxiv.org/abs/2403.04164v1)|null|
+|**2024-03-18**|**ProMISe: Promptable Medical Image Segmentation using SAM**|Jinfeng Wang et.al.|[2403.04164v2](http://arxiv.org/abs/2403.04164v2)|**[link](https://github.com/xinkunwang111/promise)**|
 |**2024-03-06**|**Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**|Wei Zhang et.al.|[2403.03790v1](http://arxiv.org/abs/2403.03790v1)|null|
 |**2024-03-03**|**A Simple-but-effective Baseline for Training-free Class-Agnostic Counting**|Yuhao Lin et.al.|[2403.01418v1](http://arxiv.org/abs/2403.01418v1)|null|
 |**2024-02-29**|**FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything**|Safouane El Ghazouali et.al.|[2403.00175v1](http://arxiv.org/abs/2403.00175v1)|**[link](https://github.com/safouaneelg/FusionVision)**|
