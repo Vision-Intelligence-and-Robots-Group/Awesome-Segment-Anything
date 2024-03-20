@@ -1,4 +1,4 @@
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 
 ## SAM
 
@@ -8,7 +8,7 @@
 |**2024-03-18**|**CCC++: Optimized Color Classified Colorization with Segment Anything Model (SAM) Empowered Object Selective Color Harmonization**|Mrityunjoy Gain et.al.|[2403.11494v1](http://arxiv.org/abs/2403.11494v1)|null|
 |**2024-03-17**|**Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation**|Shumeng Li et.al.|[2403.11229v1](http://arxiv.org/abs/2403.11229v1)|null|
 |**2024-03-16**|**Task-Aware Low-Rank Adaptation of Segment Anything Model**|Xuehao Wang et.al.|[2403.10971v1](http://arxiv.org/abs/2403.10971v1)|null|
-|**2024-03-16**|**Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation**|Mingzhou Jiang et.al.|[2403.10931v1](http://arxiv.org/abs/2403.10931v1)|null|
+|**2024-03-19**|**Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation**|Mingzhou Jiang et.al.|[2403.10931v2](http://arxiv.org/abs/2403.10931v2)|null|
 |**2024-03-16**|**Unsupervised Collaborative Metric Learning with Mixed-Scale Groups for General Object Retrieval**|Shichao Kan et.al.|[2403.10798v1](http://arxiv.org/abs/2403.10798v1)|**[link](https://github.com/dengyuhai/ms-ugcml)**|
 |**2024-03-16**|**Segment Any Object Model (SAOM): Real-to-Simulation Fine-Tuning Strategy for Multi-Class Multi-Instance Segmentation**|Mariia Khan et.al.|[2403.10780v1](http://arxiv.org/abs/2403.10780v1)|null|
 |**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287v1](http://arxiv.org/abs/2403.10287v1)|null|
