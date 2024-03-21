@@ -4,10 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**|Xian Lin et.al.|[2403.13258v1](http://arxiv.org/abs/2403.13258v1)|null|
+|**2024-03-19**|**Better Call SAL: Towards Learning to Segment Anything in Lidar**|Aljoša Ošep et.al.|[2403.13129v1](http://arxiv.org/abs/2403.13129v1)|null|
 |**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935v1](http://arxiv.org/abs/2403.12935v1)|null|
 |**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v1](http://arxiv.org/abs/2403.11656v1)|null|
 |**2024-03-18**|**CCC++: Optimized Color Classified Colorization with Segment Anything Model (SAM) Empowered Object Selective Color Harmonization**|Mrityunjoy Gain et.al.|[2403.11494v1](http://arxiv.org/abs/2403.11494v1)|null|
-|**2024-03-17**|**Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation**|Shumeng Li et.al.|[2403.11229v1](http://arxiv.org/abs/2403.11229v1)|null|
+|**2024-03-17**|**Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation**|Shumeng Li et.al.|[2403.11229v1](http://arxiv.org/abs/2403.11229v1)|**[link](https://github.com/shumengli/cfr)**|
 |**2024-03-16**|**Task-Aware Low-Rank Adaptation of Segment Anything Model**|Xuehao Wang et.al.|[2403.10971v1](http://arxiv.org/abs/2403.10971v1)|null|
 |**2024-03-19**|**Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation**|Mingzhou Jiang et.al.|[2403.10931v2](http://arxiv.org/abs/2403.10931v2)|null|
 |**2024-03-16**|**Unsupervised Collaborative Metric Learning with Mixed-Scale Groups for General Object Retrieval**|Shichao Kan et.al.|[2403.10798v1](http://arxiv.org/abs/2403.10798v1)|**[link](https://github.com/dengyuhai/ms-ugcml)**|
