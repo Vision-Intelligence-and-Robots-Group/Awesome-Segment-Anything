@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Empowering Segmentation Ability to Multi-modal Large Language Models**|Yuqi Yang et.al.|[2403.14141v1](http://arxiv.org/abs/2403.14141v1)|**[link](https://github.com/yuqiyang213/llavaseg)**|
+|**2024-03-21**|**MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation**|Bin Xie et.al.|[2403.14103v1](http://arxiv.org/abs/2403.14103v1)|null|
 |**2024-03-20**|**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**|Xian Lin et.al.|[2403.13258v1](http://arxiv.org/abs/2403.13258v1)|null|
 |**2024-03-19**|**Better Call SAL: Towards Learning to Segment Anything in Lidar**|Aljoša Ošep et.al.|[2403.13129v1](http://arxiv.org/abs/2403.13129v1)|null|
 |**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935v1](http://arxiv.org/abs/2403.12935v1)|null|
