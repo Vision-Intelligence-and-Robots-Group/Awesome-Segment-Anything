@@ -1,4 +1,4 @@
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 
 ## SAM
 
@@ -7,7 +7,7 @@
 |**2024-03-25**|**GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2403.16370v1](http://arxiv.org/abs/2403.16370v1)|null|
 |**2024-03-25**|**Distilling Semantic Priors from SAM to Efficient Image Restoration Models**|Quan Zhang et.al.|[2403.16368v1](http://arxiv.org/abs/2403.16368v1)|null|
 |**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051v1](http://arxiv.org/abs/2403.16051v1)|**[link](https://github.com/htcr/sam_road)**|
-|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218v1](http://arxiv.org/abs/2403.15218v1)|null|
+|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218v1](http://arxiv.org/abs/2403.15218v1)|**[link](https://github.com/um2ii/sam_dataannotation)**|
 |**2024-03-22**|**Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans**|Heng Guo et.al.|[2403.15063v1](http://arxiv.org/abs/2403.15063v1)|null|
 |**2024-03-21**|**Empowering Segmentation Ability to Multi-modal Large Language Models**|Yuqi Yang et.al.|[2403.14141v1](http://arxiv.org/abs/2403.14141v1)|**[link](https://github.com/yuqiyang213/llavaseg)**|
 |**2024-03-21**|**MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation**|Bin Xie et.al.|[2403.14103v1](http://arxiv.org/abs/2403.14103v1)|null|
@@ -51,7 +51,7 @@
 |**2024-02-29**|**A SAM-guided Two-stream Lightweight Model for Anomaly Detection**|Chenghao Li et.al.|[2402.19145v1](http://arxiv.org/abs/2402.19145v1)|**[link](https://github.com/stitchkoala/stlm)**|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|null|
 |**2024-02-28**|**From Generalization to Precision: Exploring SAM for Tool Segmentation in Surgical Environments**|Kanyifeechukwu J. Oguine et.al.|[2402.17972v1](http://arxiv.org/abs/2402.17972v1)|null|
-|**2024-02-27**|**VRP-SAM: SAM with Visual Reference Prompt**|Yanpeng Sun et.al.|[2402.17726v1](http://arxiv.org/abs/2402.17726v1)|null|
+|**2024-03-26**|**VRP-SAM: SAM with Visual Reference Prompt**|Yanpeng Sun et.al.|[2402.17726v2](http://arxiv.org/abs/2402.17726v2)|null|
 |**2024-02-27**|**Robust Unsupervised Crowd Counting and Localization with Adaptive Resolution SAM**|Jia Wan et.al.|[2402.17514v1](http://arxiv.org/abs/2402.17514v1)|null|
 |**2024-02-27**|**Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images**|Jintao Ren et.al.|[2402.17454v1](http://arxiv.org/abs/2402.17454v1)|null|
 |**2024-02-27**|**SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution**|Chengcheng Wang et.al.|[2402.17133v1](http://arxiv.org/abs/2402.17133v1)|**[link](https://github.com/lose4578/SAM-DiffSR)**|
