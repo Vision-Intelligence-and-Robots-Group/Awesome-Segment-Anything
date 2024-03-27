@@ -51,7 +51,7 @@
 |**2024-02-29**|**A SAM-guided Two-stream Lightweight Model for Anomaly Detection**|Chenghao Li et.al.|[2402.19145v1](http://arxiv.org/abs/2402.19145v1)|**[link](https://github.com/stitchkoala/stlm)**|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|null|
 |**2024-02-28**|**From Generalization to Precision: Exploring SAM for Tool Segmentation in Surgical Environments**|Kanyifeechukwu J. Oguine et.al.|[2402.17972v1](http://arxiv.org/abs/2402.17972v1)|null|
-|**2024-03-26**|**VRP-SAM: SAM with Visual Reference Prompt**|Yanpeng Sun et.al.|[2402.17726v2](http://arxiv.org/abs/2402.17726v2)|null|
+|**2024-03-26**|**VRP-SAM: SAM with Visual Reference Prompt**|Yanpeng Sun et.al.|[2402.17726v2](http://arxiv.org/abs/2402.17726v2)|**[link](https://github.com/syp2ysy/vrp-sam)**|
 |**2024-02-27**|**Robust Unsupervised Crowd Counting and Localization with Adaptive Resolution SAM**|Jia Wan et.al.|[2402.17514v1](http://arxiv.org/abs/2402.17514v1)|null|
 |**2024-02-27**|**Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images**|Jintao Ren et.al.|[2402.17454v1](http://arxiv.org/abs/2402.17454v1)|null|
 |**2024-02-27**|**SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution**|Chengcheng Wang et.al.|[2402.17133v1](http://arxiv.org/abs/2402.17133v1)|**[link](https://github.com/lose4578/SAM-DiffSR)**|
