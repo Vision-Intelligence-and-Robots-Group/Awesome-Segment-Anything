@@ -1,4 +1,4 @@
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 
 ## SAM
 
@@ -9,12 +9,12 @@
 |**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051v1](http://arxiv.org/abs/2403.16051v1)|**[link](https://github.com/htcr/sam_road)**|
 |**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218v1](http://arxiv.org/abs/2403.15218v1)|**[link](https://github.com/um2ii/sam_dataannotation)**|
 |**2024-03-22**|**Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans**|Heng Guo et.al.|[2403.15063v1](http://arxiv.org/abs/2403.15063v1)|null|
-|**2024-03-21**|**Empowering Segmentation Ability to Multi-modal Large Language Models**|Yuqi Yang et.al.|[2403.14141v1](http://arxiv.org/abs/2403.14141v1)|**[link](https://github.com/yuqiyang213/llavaseg)**|
+|**2024-03-21**|**Empowering Segmentation Ability to Multi-modal Large Language Models**|Yuqi Yang et.al.|[2403.14141v1](http://arxiv.org/abs/2403.14141v1)|null|
 |**2024-03-21**|**MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation**|Bin Xie et.al.|[2403.14103v1](http://arxiv.org/abs/2403.14103v1)|null|
 |**2024-03-20**|**SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts**|Xian Lin et.al.|[2403.13258v1](http://arxiv.org/abs/2403.13258v1)|**[link](https://github.com/xianlin7/samct)**|
 |**2024-03-19**|**Better Call SAL: Towards Learning to Segment Anything in Lidar**|Aljoša Ošep et.al.|[2403.13129v1](http://arxiv.org/abs/2403.13129v1)|null|
 |**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935v1](http://arxiv.org/abs/2403.12935v1)|null|
-|**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v1](http://arxiv.org/abs/2403.11656v1)|null|
+|**2024-03-27**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v2](http://arxiv.org/abs/2403.11656v2)|null|
 |**2024-03-18**|**CCC++: Optimized Color Classified Colorization with Segment Anything Model (SAM) Empowered Object Selective Color Harmonization**|Mrityunjoy Gain et.al.|[2403.11494v1](http://arxiv.org/abs/2403.11494v1)|null|
 |**2024-03-17**|**Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation**|Shumeng Li et.al.|[2403.11229v1](http://arxiv.org/abs/2403.11229v1)|**[link](https://github.com/shumengli/cfr)**|
 |**2024-03-16**|**Task-Aware Low-Rank Adaptation of Segment Anything Model**|Xuehao Wang et.al.|[2403.10971v1](http://arxiv.org/abs/2403.10971v1)|null|
