@@ -1,4 +1,4 @@
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 
 ## SAM
 
@@ -37,7 +37,7 @@
 |**2024-03-17**|**WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images**|Hong Liu et.al.|[2403.09257v2](http://arxiv.org/abs/2403.09257v2)|null|
 |**2024-03-14**|**Customizing Segmentation Foundation Model via Prompt Learning for Instance Segmentation**|Hyung-Il Kim et.al.|[2403.09199v1](http://arxiv.org/abs/2403.09199v1)|null|
 |**2024-03-18**|**SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration**|Yanfei Song et.al.|[2403.09195v2](http://arxiv.org/abs/2403.09195v2)|null|
-|**2024-03-12**|**FluoroSAM: A Language-aligned Foundation Model for X-ray Image Segmentation**|Benjamin D. Killeen et.al.|[2403.08059v1](http://arxiv.org/abs/2403.08059v1)|**[link](https://github.com/arcadelab/fluorosam)**|
+|**2024-03-28**|**FluoroSAM: A Language-aligned Foundation Model for X-ray Image Segmentation**|Benjamin D. Killeen et.al.|[2403.08059v2](http://arxiv.org/abs/2403.08059v2)|**[link](https://github.com/arcadelab/fluorosam)**|
 |**2024-03-12**|**Real-time Surgical Instrument Segmentation in Video Using Point Tracking and Segment Anything**|Zijian Wu et.al.|[2403.08003v1](http://arxiv.org/abs/2403.08003v1)|null|
 |**2024-03-12**|**SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation**|Yiran Wang et.al.|[2403.07951v1](http://arxiv.org/abs/2403.07951v1)|null|
 |**2024-03-11**|**PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models**|Qingdong He et.al.|[2403.06403v1](http://arxiv.org/abs/2403.06403v1)|null|
