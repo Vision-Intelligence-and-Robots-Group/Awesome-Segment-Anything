@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253v1](http://arxiv.org/abs/2403.20253v1)|null|
+|**2024-03-29**|**Mixed-precision Supernet Training from Vision Foundation Models using Low Rank Adapter**|Yuiko Sakuma et.al.|[2403.20080v1](http://arxiv.org/abs/2403.20080v1)|null|
 |**2024-03-28**|**Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction**|Xiaoyang Lyu et.al.|[2403.19314v1](http://arxiv.org/abs/2403.19314v1)|**[link](https://github.com/cvmi-lab/total-decom)**|
 |**2024-03-27**|**Annolid: Annotate, Segment, and Track Anything You Need**|Chen Yang et.al.|[2403.18690v1](http://arxiv.org/abs/2403.18690v1)|null|
 |**2024-03-27**|**Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**|Zhiheng Cheng et.al.|[2403.18271v1](http://arxiv.org/abs/2403.18271v1)|**[link](https://github.com/cccccczh404/h-sam)**|
