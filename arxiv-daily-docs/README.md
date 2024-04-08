@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243v1](http://arxiv.org/abs/2404.04243v1)|null|
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067v1](http://arxiv.org/abs/2404.02067v1)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
 |**2024-04-01**|**Detect2Interact: Localizing Object Key Field in Visual Question Answering (VQA) with LLMs**|Jialou Wang et.al.|[2404.01151v1](http://arxiv.org/abs/2404.01151v1)|null|
 |**2024-03-31**|**Rethinking Interactive Image Segmentation with Low Latency, High Quality, and Diverse Prompts**|Qin Liu et.al.|[2404.00741v1](http://arxiv.org/abs/2404.00741v1)|**[link](https://github.com/uncbiag/segnext)**|
