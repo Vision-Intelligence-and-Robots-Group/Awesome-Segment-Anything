@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v1](http://arxiv.org/abs/2404.06638v1)|null|
 |**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v1](http://arxiv.org/abs/2404.06362v1)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277v1](http://arxiv.org/abs/2404.06277v1)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
