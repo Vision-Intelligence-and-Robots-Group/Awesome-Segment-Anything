@@ -1,4 +1,4 @@
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 
 ## SAM
 
@@ -29,7 +29,7 @@
 |**2024-03-26**|**Segment Any Medical Model Extended**|Yihao Liu et.al.|[2403.18114v1](http://arxiv.org/abs/2403.18114v1)|**[link](https://github.com/bingogome/samm)**|
 |**2024-03-25**|**GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2403.16370v1](http://arxiv.org/abs/2403.16370v1)|null|
 |**2024-04-02**|**Distilling Semantic Priors from SAM to Efficient Image Restoration Models**|Quan Zhang et.al.|[2403.16368v2](http://arxiv.org/abs/2403.16368v2)|null|
-|**2024-03-31**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051v2](http://arxiv.org/abs/2403.16051v2)|**[link](https://github.com/htcr/sam_road)**|
+|**2024-04-13**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051v3](http://arxiv.org/abs/2403.16051v3)|**[link](https://github.com/htcr/sam_road)**|
 |**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218v1](http://arxiv.org/abs/2403.15218v1)|**[link](https://github.com/um2ii/sam_dataannotation)**|
 |**2024-03-22**|**Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans**|Heng Guo et.al.|[2403.15063v1](http://arxiv.org/abs/2403.15063v1)|null|
 |**2024-03-21**|**Empowering Segmentation Ability to Multi-modal Large Language Models**|Yuqi Yang et.al.|[2403.14141v1](http://arxiv.org/abs/2403.14141v1)|null|
