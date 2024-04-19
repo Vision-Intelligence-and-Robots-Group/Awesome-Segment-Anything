@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Moving Object Segmentation: All You Need Is SAM (and Flow)**|Junyu Xie et.al.|[2404.12389v1](http://arxiv.org/abs/2404.12389v1)|null|
+|**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386v1](http://arxiv.org/abs/2404.12386v1)|null|
+|**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285v1](http://arxiv.org/abs/2404.12285v1)|null|
+|**2024-04-17**|**When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery**|Yiqun Xie et.al.|[2404.11797v1](http://arxiv.org/abs/2404.11797v1)|null|
 |**2024-04-16**|**Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos**|Jieming Yu et.al.|[2404.10640v1](http://arxiv.org/abs/2404.10640v1)|null|
 |**2024-04-15**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957v1](http://arxiv.org/abs/2404.09957v1)|**[link](https://github.com/mazurowski-lab/finetune-sam)**|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v1](http://arxiv.org/abs/2404.09431v1)|null|
