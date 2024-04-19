@@ -1,11 +1,11 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-16**|**Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos**|Jieming Yu et.al.|[2404.10640v1](http://arxiv.org/abs/2404.10640v1)|null|
-|**2024-04-15**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957v1](http://arxiv.org/abs/2404.09957v1)|null|
+|**2024-04-15**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957v1](http://arxiv.org/abs/2404.09957v1)|**[link](https://github.com/mazurowski-lab/finetune-sam)**|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v1](http://arxiv.org/abs/2404.09431v1)|null|
 |**2024-04-12**|**LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning**|Junchi Wang et.al.|[2404.08767v1](http://arxiv.org/abs/2404.08767v1)|**[link](https://github.com/wangjunchi/llmseg)**|
 |**2024-04-12**|**Pathological Primitive Segmentation Based on Visual Foundation Model with Zero-Shot Mask Generation**|Abu Bakor Hayat Arnob et.al.|[2404.08584v1](http://arxiv.org/abs/2404.08584v1)|**[link](https://github.com/learner-codec/autoprom_sam)**|
