@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation**|Siru Zhong et.al.|[2404.14241v1](http://arxiv.org/abs/2404.14241v1)|null|
+|**2024-04-22**|**Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery**|Yuyang Sheng et.al.|[2404.14040v1](http://arxiv.org/abs/2404.14040v1)|null|
+|**2024-04-22**|**PM-VIS: High-Performance Box-Supervised Video Instance Segmentation**|Zhangjing Yang et.al.|[2404.13863v1](http://arxiv.org/abs/2404.13863v1)|null|
+|**2024-04-20**|**Beyond Pixel-Wise Supervision for Medical Image Segmentation: From Traditional Models to Foundation Models**|Yuyan Shi et.al.|[2404.13239v1](http://arxiv.org/abs/2404.13239v1)|null|
 |**2024-04-19**|**ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation**|Yu-Hsuan Ho et.al.|[2404.12606v1](http://arxiv.org/abs/2404.12606v1)|null|
 |**2024-04-18**|**Moving Object Segmentation: All You Need Is SAM (and Flow)**|Junyu Xie et.al.|[2404.12389v1](http://arxiv.org/abs/2404.12389v1)|**[link](https://github.com/Jyxarthur/flowsam)**|
 |**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386v1](http://arxiv.org/abs/2404.12386v1)|null|
