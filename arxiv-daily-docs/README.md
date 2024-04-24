@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images**|Zhengzheng Tu et.al.|[2404.14837v1](http://arxiv.org/abs/2404.14837v1)|null|
 |**2024-04-22**|**UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation**|Siru Zhong et.al.|[2404.14241v1](http://arxiv.org/abs/2404.14241v1)|null|
 |**2024-04-22**|**Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery**|Yuyang Sheng et.al.|[2404.14040v1](http://arxiv.org/abs/2404.14040v1)|null|
 |**2024-04-22**|**PM-VIS: High-Performance Box-Supervised Video Instance Segmentation**|Zhangjing Yang et.al.|[2404.13863v1](http://arxiv.org/abs/2404.13863v1)|null|
