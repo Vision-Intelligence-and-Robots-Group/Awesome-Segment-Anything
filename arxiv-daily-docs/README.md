@@ -1,4 +1,4 @@
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 
 ## SAM
 
@@ -37,7 +37,7 @@
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067v1](http://arxiv.org/abs/2404.02067v1)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
 |**2024-04-01**|**Detect2Interact: Localizing Object Key Field in Visual Question Answering (VQA) with LLMs**|Jialou Wang et.al.|[2404.01151v1](http://arxiv.org/abs/2404.01151v1)|null|
 |**2024-03-31**|**Rethinking Interactive Image Segmentation with Low Latency, High Quality, and Diverse Prompts**|Qin Liu et.al.|[2404.00741v1](http://arxiv.org/abs/2404.00741v1)|**[link](https://github.com/uncbiag/segnext)**|
-|**2024-03-31**|**Deep Instruction Tuning for Segment Anything Model**|Xiaorui Huang et.al.|[2404.00650v1](http://arxiv.org/abs/2404.00650v1)|**[link](https://github.com/wysnzzzz/dit)**|
+|**2024-04-27**|**Deep Instruction Tuning for Segment Anything Model**|Xiaorui Huang et.al.|[2404.00650v2](http://arxiv.org/abs/2404.00650v2)|**[link](https://github.com/wysnzzzz/dit)**|
 |**2024-03-30**|**DHR: Dual Features-Driven Hierarchical Rebalancing in Inter- and Intra-Class Regions for Weakly-Supervised Semantic Segmentation**|Sanghyun Jo et.al.|[2404.00380v1](http://arxiv.org/abs/2404.00380v1)|**[link](https://github.com/shjo-april/DHR)**|
 |**2024-03-29**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253v1](http://arxiv.org/abs/2403.20253v1)|null|
 |**2024-03-29**|**Mixed-precision Supernet Training from Vision Foundation Models using Low Rank Adapter**|Yuiko Sakuma et.al.|[2403.20080v1](http://arxiv.org/abs/2403.20080v1)|null|
