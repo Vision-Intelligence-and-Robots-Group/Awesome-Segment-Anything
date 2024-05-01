@@ -1,4 +1,4 @@
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 ## SAM
 
@@ -29,7 +29,7 @@
 |**2024-04-12**|**Practical Region-level Attack against Segment Anything Models**|Yifan Shen et.al.|[2404.08255v1](http://arxiv.org/abs/2404.08255v1)|null|
 |**2024-04-11**|**Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution**|Handi Deng et.al.|[2404.07833v1](http://arxiv.org/abs/2404.07833v1)|null|
 |**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v1](http://arxiv.org/abs/2404.06638v1)|null|
-|**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v1](http://arxiv.org/abs/2404.06362v1)|**[link](https://github.com/aleemsidra/SaLIP)**|
+|**2024-04-30**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v2](http://arxiv.org/abs/2404.06362v2)|**[link](https://github.com/aleemsidra/SaLIP)**|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277v1](http://arxiv.org/abs/2404.06277v1)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
 |**2024-04-07**|**Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM**|Pingping Zhang et.al.|[2404.04996v1](http://arxiv.org/abs/2404.04996v1)|**[link](https://github.com/drchip61/dual_sam)**|
