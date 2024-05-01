@@ -7,7 +7,7 @@
 |**2024-04-29**|**Innovative Integration of Visual Foundation Model with a Robotic Arm on a Mobile Platform**|Shimian Zhang et.al.|[2404.18720v1](http://arxiv.org/abs/2404.18720v1)|null|
 |**2024-04-26**|**SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval**|Marco Peer et.al.|[2404.17221v1](http://arxiv.org/abs/2404.17221v1)|**[link](https://github.com/marco-peer/icdar24)**|
 |**2024-04-25**|**Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation**|Tanvi Deshpande et.al.|[2404.17033v1](http://arxiv.org/abs/2404.17033v1)|**[link](https://github.com/stanfordmlgroup/auto-generate-wls)**|
-|**2024-04-25**|**Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images**|Vazgen Zohranyan et.al.|[2404.17029v1](http://arxiv.org/abs/2404.17029v1)|null|
+|**2024-04-25**|**Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images**|Vazgen Zohranyan et.al.|[2404.17029v1](http://arxiv.org/abs/2404.17029v1)|**[link](https://github.com/vazgenzohranyan/dr.sam)**|
 |**2024-04-25**|**OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation**|Lizhi Wang et.al.|[2404.15891v2](http://arxiv.org/abs/2404.15891v2)|**[link](https://github.com/crystalwlz/omegas)**|
 |**2024-04-24**|**MAS-SAM: Segment Any Marine Animal with Aggregated Features**|Tianyu Yan et.al.|[2404.15700v1](http://arxiv.org/abs/2404.15700v1)|null|
 |**2024-04-23**|**Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images**|Zhengzheng Tu et.al.|[2404.14837v1](http://arxiv.org/abs/2404.14837v1)|null|
