@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Active Learning Enabled Low-cost Cell Image Segmentation Using Bounding Box Annotation**|Yu Zhu et.al.|[2405.01701v1](http://arxiv.org/abs/2405.01701v1)|null|
 |**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876v1](http://arxiv.org/abs/2405.00876v1)|null|
 |**2024-05-01**|**MoPEFT: A Mixture-of-PEFTs for the Segment Anything Model**|Rajat Sahay et.al.|[2405.00293v1](http://arxiv.org/abs/2405.00293v1)|null|
 |**2024-05-01**|**ASAM: Boosting Segment Anything Model with Adversarial Tuning**|Bo Li et.al.|[2405.00256v1](http://arxiv.org/abs/2405.00256v1)|**[link](https://github.com/luckybird1994/ASAM)**|
