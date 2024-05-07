@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144v1](http://arxiv.org/abs/2405.03144v1)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-04**|**UnSAMFlow: Unsupervised Optical Flow Guided by Segment Anything Model**|Shuai Yuan et.al.|[2405.02608v1](http://arxiv.org/abs/2405.02608v1)|**[link](https://github.com/facebookresearch/unsamflow)**|
 |**2024-05-02**|**Active Learning Enabled Low-cost Cell Image Segmentation Using Bounding Box Annotation**|Yu Zhu et.al.|[2405.01701v1](http://arxiv.org/abs/2405.01701v1)|null|
 |**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876v1](http://arxiv.org/abs/2405.00876v1)|null|
 |**2024-05-01**|**MoPEFT: A Mixture-of-PEFTs for the Segment Anything Model**|Rajat Sahay et.al.|[2405.00293v1](http://arxiv.org/abs/2405.00293v1)|null|
