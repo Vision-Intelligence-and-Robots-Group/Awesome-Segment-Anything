@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 
 ## SAM
 
@@ -30,14 +30,14 @@
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285v1](http://arxiv.org/abs/2404.12285v1)|null|
 |**2024-04-17**|**When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery**|Yiqun Xie et.al.|[2404.11797v1](http://arxiv.org/abs/2404.11797v1)|null|
 |**2024-04-16**|**Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos**|Jieming Yu et.al.|[2404.10640v1](http://arxiv.org/abs/2404.10640v1)|null|
-|**2024-04-15**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957v1](http://arxiv.org/abs/2404.09957v1)|**[link](https://github.com/mazurowski-lab/finetune-sam)**|
+|**2024-05-13**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957v2](http://arxiv.org/abs/2404.09957v2)|**[link](https://github.com/mazurowski-lab/finetune-sam)**|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v1](http://arxiv.org/abs/2404.09431v1)|null|
 |**2024-04-12**|**LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning**|Junchi Wang et.al.|[2404.08767v1](http://arxiv.org/abs/2404.08767v1)|**[link](https://github.com/wangjunchi/llmseg)**|
 |**2024-04-12**|**Pathological Primitive Segmentation Based on Visual Foundation Model with Zero-Shot Mask Generation**|Abu Bakor Hayat Arnob et.al.|[2404.08584v1](http://arxiv.org/abs/2404.08584v1)|**[link](https://github.com/learner-codec/autoprom_sam)**|
 |**2024-04-12**|**Adapting the Segment Anything Model During Usage in Novel Situations**|Robin Schön et.al.|[2404.08421v1](http://arxiv.org/abs/2404.08421v1)|null|
 |**2024-04-12**|**Practical Region-level Attack against Segment Anything Models**|Yifan Shen et.al.|[2404.08255v1](http://arxiv.org/abs/2404.08255v1)|null|
 |**2024-04-11**|**Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution**|Handi Deng et.al.|[2404.07833v1](http://arxiv.org/abs/2404.07833v1)|null|
-|**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v1](http://arxiv.org/abs/2404.06638v1)|null|
+|**2024-05-10**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v2](http://arxiv.org/abs/2404.06638v2)|null|
 |**2024-04-30**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v2](http://arxiv.org/abs/2404.06362v2)|**[link](https://github.com/aleemsidra/SaLIP)**|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277v1](http://arxiv.org/abs/2404.06277v1)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
