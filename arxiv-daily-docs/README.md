@@ -1,4 +1,4 @@
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 
 ## SAM
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-05-20**|**Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model**|Mounes Zaval et.al.|[2405.11837v1](http://arxiv.org/abs/2405.11837v1)|null|
 |**2024-05-20**|**Universal Organizer of SAM for Unsupervised Semantic Segmentation**|Tingting Li et.al.|[2405.11742v1](http://arxiv.org/abs/2405.11742v1)|null|
-|**2024-05-17**|**One registration is worth two segmentations**|Shiqi Huang et.al.|[2405.10879v1](http://arxiv.org/abs/2405.10879v1)|null|
+|**2024-05-17**|**One registration is worth two segmentations**|Shiqi Huang et.al.|[2405.10879v1](http://arxiv.org/abs/2405.10879v1)|**[link](https://github.com/sqhuang0103/samreg)**|
 |**2024-05-12**|**Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)**|Saaketh Koundinya Gundavarapu et.al.|[2405.07284v1](http://arxiv.org/abs/2405.07284v1)|null|
 |**2024-05-10**|**SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model**|Trevor J. Chan et.al.|[2405.06786v1](http://arxiv.org/abs/2405.06786v1)|null|
 |**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586v1](http://arxiv.org/abs/2405.06586v1)|null|
@@ -44,7 +44,7 @@
 |**2024-04-11**|**Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution**|Handi Deng et.al.|[2404.07833v1](http://arxiv.org/abs/2404.07833v1)|null|
 |**2024-05-10**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v2](http://arxiv.org/abs/2404.06638v2)|null|
 |**2024-04-30**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v2](http://arxiv.org/abs/2404.06362v2)|**[link](https://github.com/aleemsidra/SaLIP)**|
-|**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277v1](http://arxiv.org/abs/2404.06277v1)|null|
+|**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277v1](http://arxiv.org/abs/2404.06277v1)|**[link](https://github.com/anasibrahim/ctl_classification)**|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
 |**2024-04-07**|**Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM**|Pingping Zhang et.al.|[2404.04996v1](http://arxiv.org/abs/2404.04996v1)|**[link](https://github.com/drchip61/dual_sam)**|
 |**2024-04-07**|**DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification**|Fatemeh Asghari et.al.|[2404.04891v1](http://arxiv.org/abs/2404.04891v1)|null|
