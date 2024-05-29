@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation**|Yangxiao Lu et.al.|[2405.17859v1](http://arxiv.org/abs/2405.17859v1)|**[link](https://github.com/youngsean/nids-net)**|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888v1](http://arxiv.org/abs/2405.16888v1)|null|
 |**2024-05-27**|**PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation**|Md Mostafijur Rahman et.al.|[2405.16740v1](http://arxiv.org/abs/2405.16740v1)|**[link](https://github.com/sldgroup/pp-sam)**|
 |**2024-05-24**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580v1](http://arxiv.org/abs/2405.15580v1)|null|
