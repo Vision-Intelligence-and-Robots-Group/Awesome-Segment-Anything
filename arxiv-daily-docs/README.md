@@ -1,4 +1,4 @@
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 ## SAM
 
@@ -10,10 +10,10 @@
 |**2024-06-03**|**SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation**|Danni Yang et.al.|[2406.01451v1](http://arxiv.org/abs/2406.01451v1)|**[link](https://github.com/nini0919/semires)**|
 |**2024-06-03**|**Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation**|Tianyu Huang et.al.|[2406.00956v1](http://arxiv.org/abs/2406.00956v1)|null|
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663v1](http://arxiv.org/abs/2406.00663v1)|**[link](https://github.com/benjamintowle/simsam)**|
-|**2024-06-02**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v1](http://arxiv.org/abs/2406.00625v1)|null|
+|**2024-06-05**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v2](http://arxiv.org/abs/2406.00625v2)|null|
 |**2024-06-02**|**Artificial General Intelligence (AGI) for the oil and gas industry: a review**|Jimmy Xuekai Li et.al.|[2406.00594v1](http://arxiv.org/abs/2406.00594v1)|null|
 |**2024-06-01**|**AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**|Duojun Huang et.al.|[2406.00480v1](http://arxiv.org/abs/2406.00480v1)|**[link](https://github.com/duojun-huang/alignsam-cvpr2024)**|
-|**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109v1](http://arxiv.org/abs/2405.20109v1)|null|
+|**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109v1](http://arxiv.org/abs/2405.20109v1)|**[link](https://github.com/links-ads/igarss-fmars)**|
 |**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|**[link](https://github.com/hardyho/ultrametric_feature_fields)**|
 |**2024-05-30**|**SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation**|Junjie Zhang et.al.|[2405.19586v1](http://arxiv.org/abs/2405.19586v1)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326v1](http://arxiv.org/abs/2405.19326v1)|null|
