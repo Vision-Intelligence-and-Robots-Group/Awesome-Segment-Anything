@@ -1,4 +1,4 @@
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 ## SAM
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-06-10**|**Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation**|Juhyeong Seon et.al.|[2406.06163v1](http://arxiv.org/abs/2406.06163v1)|null|
 |**2024-06-10**|**Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset**|Shijie Lian et.al.|[2406.06039v1](http://arxiv.org/abs/2406.06039v1)|**[link](https://github.com/liamlian0727/usis10k)**|
-|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802v1](http://arxiv.org/abs/2406.05802v1)|null|
+|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802v1](http://arxiv.org/abs/2406.05802v1)|**[link](https://github.com/spidernitt/sam-pm)**|
 |**2024-06-08**|**Training-Free Robust Interactive Video Object Segmentation**|Xiaoli Wei et.al.|[2406.05485v1](http://arxiv.org/abs/2406.05485v1)|null|
 |**2024-06-07**|**USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation**|Xiaoqi Wang et.al.|[2406.05271v1](http://arxiv.org/abs/2406.05271v1)|null|
 |**2024-06-06**|**Matching Anything by Segmenting Anything**|Siyuan Li et.al.|[2406.04221v1](http://arxiv.org/abs/2406.04221v1)|**[link](https://github.com/siyuanliii/masa)**|
@@ -18,7 +18,7 @@
 |**2024-06-03**|**Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation**|Tianyu Huang et.al.|[2406.00956v1](http://arxiv.org/abs/2406.00956v1)|null|
 |**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663v1](http://arxiv.org/abs/2406.00663v1)|**[link](https://github.com/benjamintowle/simsam)**|
 |**2024-06-05**|**SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection**|Yun Peng et.al.|[2406.00625v2](http://arxiv.org/abs/2406.00625v2)|null|
-|**2024-06-10**|**Artificial General Intelligence (AGI) for the oil and gas industry: a review**|Jimmy Xuekai Li et.al.|[2406.00594v2](http://arxiv.org/abs/2406.00594v2)|null|
+|**2024-06-11**|**Artificial General Intelligence (AGI) for the oil and gas industry: a review**|Jimmy Xuekai Li et.al.|[2406.00594v3](http://arxiv.org/abs/2406.00594v3)|null|
 |**2024-06-01**|**AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**|Duojun Huang et.al.|[2406.00480v1](http://arxiv.org/abs/2406.00480v1)|**[link](https://github.com/duojun-huang/alignsam-cvpr2024)**|
 |**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109v1](http://arxiv.org/abs/2405.20109v1)|**[link](https://github.com/links-ads/igarss-fmars)**|
 |**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|**[link](https://github.com/hardyho/ultrametric_feature_fields)**|
@@ -51,7 +51,7 @@
 |**2024-04-25**|**Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation**|Tanvi Deshpande et.al.|[2404.17033v1](http://arxiv.org/abs/2404.17033v1)|**[link](https://github.com/stanfordmlgroup/auto-generate-wls)**|
 |**2024-04-25**|**Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images**|Vazgen Zohranyan et.al.|[2404.17029v1](http://arxiv.org/abs/2404.17029v1)|**[link](https://github.com/vazgenzohranyan/dr.sam)**|
 |**2024-04-25**|**OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation**|Lizhi Wang et.al.|[2404.15891v2](http://arxiv.org/abs/2404.15891v2)|**[link](https://github.com/crystalwlz/omegas)**|
-|**2024-05-09**|**MAS-SAM: Segment Any Marine Animal with Aggregated Features**|Tianyu Yan et.al.|[2404.15700v2](http://arxiv.org/abs/2404.15700v2)|null|
+|**2024-05-09**|**MAS-SAM: Segment Any Marine Animal with Aggregated Features**|Tianyu Yan et.al.|[2404.15700v2](http://arxiv.org/abs/2404.15700v2)|**[link](https://github.com/drchip61/mas-sam)**|
 |**2024-04-23**|**Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images**|Zhengzheng Tu et.al.|[2404.14837v1](http://arxiv.org/abs/2404.14837v1)|null|
 |**2024-04-22**|**UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation**|Siru Zhong et.al.|[2404.14241v1](http://arxiv.org/abs/2404.14241v1)|null|
 |**2024-04-22**|**Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery**|Yuyang Sheng et.al.|[2404.14040v1](http://arxiv.org/abs/2404.14040v1)|**[link](https://github.com/yuyangsheng/surgical-desam)**|
