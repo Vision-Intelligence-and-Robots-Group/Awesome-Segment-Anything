@@ -1,11 +1,11 @@
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-12**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio**|Weizhao He et.al.|[2406.08372v1](http://arxiv.org/abs/2406.08372v1)|null|
-|**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268v1](http://arxiv.org/abs/2406.07268v1)|null|
+|**2024-06-13**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation**|Weizhao He et.al.|[2406.08372v2](http://arxiv.org/abs/2406.08372v2)|null|
+|**2024-06-11**|**Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation**|Jinyuan Li et.al.|[2406.07268v1](http://arxiv.org/abs/2406.07268v1)|**[link](https://github.com/JinYuanLi0012/RiVEG)**|
 |**2024-06-10**|**Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation**|Juhyeong Seon et.al.|[2406.06163v1](http://arxiv.org/abs/2406.06163v1)|null|
 |**2024-06-10**|**Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset**|Shijie Lian et.al.|[2406.06039v1](http://arxiv.org/abs/2406.06039v1)|**[link](https://github.com/liamlian0727/usis10k)**|
 |**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802v1](http://arxiv.org/abs/2406.05802v1)|**[link](https://github.com/spidernitt/sam-pm)**|
