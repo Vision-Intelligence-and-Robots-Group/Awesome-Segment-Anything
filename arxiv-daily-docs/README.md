@@ -1,4 +1,4 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 ## SAM
 
@@ -35,7 +35,7 @@
 |**2024-05-28**|**Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation**|Yangxiao Lu et.al.|[2405.17859v1](http://arxiv.org/abs/2405.17859v1)|**[link](https://github.com/youngsean/nids-net)**|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888v1](http://arxiv.org/abs/2405.16888v1)|null|
 |**2024-05-27**|**PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation**|Md Mostafijur Rahman et.al.|[2405.16740v1](http://arxiv.org/abs/2405.16740v1)|**[link](https://github.com/sldgroup/pp-sam)**|
-|**2024-05-24**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580v1](http://arxiv.org/abs/2405.15580v1)|null|
+|**2024-06-21**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580v2](http://arxiv.org/abs/2405.15580v2)|null|
 |**2024-05-24**|**Autonomous Quilt Spreading for Caregiving Robots**|Yuchun Guo et.al.|[2405.15373v1](http://arxiv.org/abs/2405.15373v1)|null|
 |**2024-05-23**|**Multi-view Remote Sensing Image Segmentation With SAM priors**|Zipeng Qi et.al.|[2405.14171v1](http://arxiv.org/abs/2405.14171v1)|null|
 |**2024-05-20**|**Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model**|Mounes Zaval et.al.|[2405.11837v1](http://arxiv.org/abs/2405.11837v1)|null|
