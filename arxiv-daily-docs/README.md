@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-22**|**TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM**|Wenxue Li et.al.|[2406.15764v1](http://arxiv.org/abs/2406.15764v1)|null|
 |**2024-06-21**|**TraceNet: Segment one thing efficiently**|Mingyuan Wu et.al.|[2406.14874v1](http://arxiv.org/abs/2406.14874v1)|null|
 |**2024-06-21**|**SAM-EG: Segment Anything Model with Egde Guidance framework for efficient Polyp Segmentation**|Quoc-Huy Trinh et.al.|[2406.14819v1](http://arxiv.org/abs/2406.14819v1)|null|
 |**2024-06-18**|**An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation**|Qin Li et.al.|[2406.12646v1](http://arxiv.org/abs/2406.12646v1)|null|
