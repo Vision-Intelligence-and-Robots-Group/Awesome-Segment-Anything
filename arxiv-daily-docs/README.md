@@ -1,4 +1,4 @@
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 
 ## SAM
 
@@ -41,7 +41,7 @@
 |**2024-06-21**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580v2](http://arxiv.org/abs/2405.15580v2)|null|
 |**2024-05-24**|**Autonomous Quilt Spreading for Caregiving Robots**|Yuchun Guo et.al.|[2405.15373v1](http://arxiv.org/abs/2405.15373v1)|null|
 |**2024-05-23**|**Multi-view Remote Sensing Image Segmentation With SAM priors**|Zipeng Qi et.al.|[2405.14171v1](http://arxiv.org/abs/2405.14171v1)|null|
-|**2024-05-20**|**Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model**|Mounes Zaval et.al.|[2405.11837v1](http://arxiv.org/abs/2405.11837v1)|null|
+|**2024-06-24**|**Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model**|Mounes Zaval et.al.|[2405.11837v2](http://arxiv.org/abs/2405.11837v2)|null|
 |**2024-05-20**|**Universal Organizer of SAM for Unsupervised Semantic Segmentation**|Tingting Li et.al.|[2405.11742v1](http://arxiv.org/abs/2405.11742v1)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/UO-SAM)**|
 |**2024-05-17**|**One registration is worth two segmentations**|Shiqi Huang et.al.|[2405.10879v1](http://arxiv.org/abs/2405.10879v1)|**[link](https://github.com/sqhuang0103/samreg)**|
 |**2024-05-12**|**Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)**|Saaketh Koundinya Gundavarapu et.al.|[2405.07284v1](http://arxiv.org/abs/2405.07284v1)|**[link](https://github.com/tommarvoloriddle/SLIP)**|
