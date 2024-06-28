@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369v1](http://arxiv.org/abs/2406.19369v1)|null|
+|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
+|**2024-06-27**|**Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis**|Vu Minh Hieu Phan et.al.|[2406.18967v1](http://arxiv.org/abs/2406.18967v1)|**[link](https://github.com/hieuphan33/miccai2024-unest)**|
+|**2024-06-27**|**A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow**|Qiushi Guo et.al.|[2406.18908v1](http://arxiv.org/abs/2406.18908v1)|null|
+|**2024-06-07**|**Composition Vision-Language Understanding via Segment and Depth Anything Model**|Mingxiao Huo et.al.|[2406.18591v1](http://arxiv.org/abs/2406.18591v1)|null|
 |**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741v1](http://arxiv.org/abs/2406.17741v1)|**[link](https://github.com/zyc00/point-sam)**|
 |**2024-06-22**|**TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM**|Wenxue Li et.al.|[2406.15764v1](http://arxiv.org/abs/2406.15764v1)|**[link](https://github.com/wxliii/TP-DRSeg)**|
 |**2024-06-21**|**TraceNet: Segment one thing efficiently**|Mingyuan Wu et.al.|[2406.14874v1](http://arxiv.org/abs/2406.14874v1)|null|
