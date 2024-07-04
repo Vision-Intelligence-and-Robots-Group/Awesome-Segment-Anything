@@ -4,16 +4,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Lung-CADex: Fully automatic Zero-Shot Detection and Classification of Lung Nodules in Thoracic CT Images**|Furqan Shaukat et.al.|[2407.02625v1](http://arxiv.org/abs/2407.02625v1)|null|
 |**2024-07-02**|**Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model**|Katja Löwenstein et.al.|[2407.02187v1](http://arxiv.org/abs/2407.02187v1)|null|
 |**2024-07-02**|**HRSAM: Efficiently Segment Anything in High-Resolution Images**|You Huang et.al.|[2407.02109v1](http://arxiv.org/abs/2407.02109v1)|null|
 |**2024-07-02**|**SAVE: Segment Audio-Visual Easy way using Segment Anything Model**|Khanh-Binh Nguyen et.al.|[2407.02004v1](http://arxiv.org/abs/2407.02004v1)|null|
 |**2024-07-01**|**Investigating the Segment Anything Foundation Model for Mapping Smallholder Agriculture Field Boundaries Without Training Labels**|Pratyush Tripathy et.al.|[2407.01846v1](http://arxiv.org/abs/2407.01846v1)|null|
 |**2024-07-01**|**Efficient Cutting Tool Wear Segmentation Based on Segment Anything Model**|Zongshuo Li et.al.|[2407.01211v1](http://arxiv.org/abs/2407.01211v1)|null|
-|**2024-06-30**|**ASPS: Augmented Segment Anything Model for Polyp Segmentation**|Huiqian Li et.al.|[2407.00718v1](http://arxiv.org/abs/2407.00718v1)|null|
+|**2024-06-30**|**ASPS: Augmented Segment Anything Model for Polyp Segmentation**|Huiqian Li et.al.|[2407.00718v1](http://arxiv.org/abs/2407.00718v1)|**[link](https://github.com/huiqianli/asps)**|
 |**2024-06-30**|**HATs: Hierarchical Adaptive Taxonomy Segmentation for Panoramic Pathology Image Analysis**|Ruining Deng et.al.|[2407.00596v1](http://arxiv.org/abs/2407.00596v1)|null|
 |**2024-06-29**|**SolarSAM: Building-scale Photovoltaic Potential Assessment Based on Segment Anything Model (SAM) and Remote Sensing for Emerging City**|Guohao Wang et.al.|[2407.00296v1](http://arxiv.org/abs/2407.00296v1)|**[link](https://github.com/REAILAB/.github)**|
 |**2024-06-28**|**Segment Anything without Supervision**|XuDong Wang et.al.|[2406.20081v1](http://arxiv.org/abs/2406.20081v1)|**[link](https://github.com/frank-xwang/unsam)**|
-|**2024-07-03**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076v2](http://arxiv.org/abs/2406.20076v2)|null|
+|**2024-07-03**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076v2](http://arxiv.org/abs/2406.20076v2)|**[link](https://github.com/hustvl/evf-sam)**|
 |**2024-06-28**|**Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping**|Tianli Liao et.al.|[2406.19922v1](http://arxiv.org/abs/2406.19922v1)|null|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369v1](http://arxiv.org/abs/2406.19369v1)|null|
 |**2024-06-30**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v2](http://arxiv.org/abs/2406.19057v2)|null|
