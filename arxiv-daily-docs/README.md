@@ -1,4 +1,4 @@
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 
 ## SAM
 
@@ -13,7 +13,7 @@
 |**2024-06-30**|**HATs: Hierarchical Adaptive Taxonomy Segmentation for Panoramic Pathology Image Analysis**|Ruining Deng et.al.|[2407.00596v1](http://arxiv.org/abs/2407.00596v1)|null|
 |**2024-06-29**|**SolarSAM: Building-scale Photovoltaic Potential Assessment Based on Segment Anything Model (SAM) and Remote Sensing for Emerging City**|Guohao Wang et.al.|[2407.00296v1](http://arxiv.org/abs/2407.00296v1)|**[link](https://github.com/REAILAB/.github)**|
 |**2024-06-28**|**Segment Anything without Supervision**|XuDong Wang et.al.|[2406.20081v1](http://arxiv.org/abs/2406.20081v1)|**[link](https://github.com/frank-xwang/unsam)**|
-|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076v1](http://arxiv.org/abs/2406.20076v1)|null|
+|**2024-07-03**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076v2](http://arxiv.org/abs/2406.20076v2)|null|
 |**2024-06-28**|**Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping**|Tianli Liao et.al.|[2406.19922v1](http://arxiv.org/abs/2406.19922v1)|null|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369v1](http://arxiv.org/abs/2406.19369v1)|null|
 |**2024-06-30**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v2](http://arxiv.org/abs/2406.19057v2)|null|
