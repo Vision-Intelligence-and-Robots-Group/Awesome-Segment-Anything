@@ -1,4 +1,4 @@
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 
 ## SAM
 
@@ -7,7 +7,7 @@
 |**2024-07-02**|**Lung-CADex: Fully automatic Zero-Shot Detection and Classification of Lung Nodules in Thoracic CT Images**|Furqan Shaukat et.al.|[2407.02625v1](http://arxiv.org/abs/2407.02625v1)|null|
 |**2024-07-02**|**Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model**|Katja Löwenstein et.al.|[2407.02187v1](http://arxiv.org/abs/2407.02187v1)|null|
 |**2024-07-02**|**HRSAM: Efficiently Segment Anything in High-Resolution Images**|You Huang et.al.|[2407.02109v1](http://arxiv.org/abs/2407.02109v1)|null|
-|**2024-07-02**|**SAVE: Segment Audio-Visual Easy way using Segment Anything Model**|Khanh-Binh Nguyen et.al.|[2407.02004v1](http://arxiv.org/abs/2407.02004v1)|null|
+|**2024-07-03**|**SAVE: Segment Audio-Visual Easy way using Segment Anything Model**|Khanh-Binh Nguyen et.al.|[2407.02004v2](http://arxiv.org/abs/2407.02004v2)|null|
 |**2024-07-01**|**Investigating the Segment Anything Foundation Model for Mapping Smallholder Agriculture Field Boundaries Without Training Labels**|Pratyush Tripathy et.al.|[2407.01846v1](http://arxiv.org/abs/2407.01846v1)|null|
 |**2024-07-01**|**Efficient Cutting Tool Wear Segmentation Based on Segment Anything Model**|Zongshuo Li et.al.|[2407.01211v1](http://arxiv.org/abs/2407.01211v1)|null|
 |**2024-06-30**|**ASPS: Augmented Segment Anything Model for Polyp Segmentation**|Huiqian Li et.al.|[2407.00718v1](http://arxiv.org/abs/2407.00718v1)|**[link](https://github.com/huiqianli/asps)**|
