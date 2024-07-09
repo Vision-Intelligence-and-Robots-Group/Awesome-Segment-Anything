@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation**|Yifan Gao et.al.|[2407.05984v1](http://arxiv.org/abs/2407.05984v1)|null|
+|**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518v1](http://arxiv.org/abs/2407.05518v1)|null|
+|**2024-07-07**|**Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation**|Juzheng Miao et.al.|[2407.05416v1](http://arxiv.org/abs/2407.05416v1)|null|
+|**2024-07-06**|**SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**|Guoan Wang et.al.|[2407.04938v1](http://arxiv.org/abs/2407.04938v1)|null|
+|**2024-07-06**|**Revolutionizing Alloy Microstructure Segmentation through SAM and Domain Knowledge without Extra Training**|Xudong Ma et.al.|[2407.04922v1](http://arxiv.org/abs/2407.04922v1)|null|
 |**2024-07-05**|**SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images**|Weiyi Xie et.al.|[2407.04651v1](http://arxiv.org/abs/2407.04651v1)|null|
 |**2024-07-05**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504v1](http://arxiv.org/abs/2407.04504v1)|null|
 |**2024-07-04**|**CS3: Cascade SAM for Sperm Segmentation**|Yi Shi et.al.|[2407.03772v1](http://arxiv.org/abs/2407.03772v1)|null|
