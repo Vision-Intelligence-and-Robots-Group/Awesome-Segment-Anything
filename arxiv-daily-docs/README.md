@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**ProtoSAM - One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v1](http://arxiv.org/abs/2407.07042v1)|null|
+|**2024-07-09**|**CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM**|Aditya Murali et.al.|[2407.06795v1](http://arxiv.org/abs/2407.06795v1)|null|
+|**2024-07-08**|**Unsupervised Fault Detection using SAM with a Moving Window Approach**|Ahmed Maged et.al.|[2407.06303v1](http://arxiv.org/abs/2407.06303v1)|null|
 |**2024-07-08**|**MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation**|Yifan Gao et.al.|[2407.05984v1](http://arxiv.org/abs/2407.05984v1)|null|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518v1](http://arxiv.org/abs/2407.05518v1)|null|
 |**2024-07-07**|**Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation**|Juzheng Miao et.al.|[2407.05416v1](http://arxiv.org/abs/2407.05416v1)|**[link](https://github.com/JuzhengMiao/CPC-SAM)**|
