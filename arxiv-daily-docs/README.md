@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear**|Seonwhee Jin et.al.|[2407.08257v1](http://arxiv.org/abs/2407.08257v1)|**[link](https://github.com/seonwhee-genome/rvernet)**|
+|**2024-07-11**|**Enrich the content of the image Using Context-Aware Copy Paste**|Qiushi Guo et.al.|[2407.08151v1](http://arxiv.org/abs/2407.08151v1)|null|
+|**2024-07-10**|**Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images**|Hao Li et.al.|[2407.08020v1](http://arxiv.org/abs/2407.08020v1)|**[link](https://github.com/medicl-vu/prism-placenta)**|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
 |**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042v1](http://arxiv.org/abs/2407.07042v1)|null|
 |**2024-07-09**|**CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM**|Aditya Murali et.al.|[2407.06795v1](http://arxiv.org/abs/2407.06795v1)|null|
