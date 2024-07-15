@@ -1,4 +1,4 @@
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 
 ## SAM
 
@@ -17,7 +17,7 @@
 |**2024-07-06**|**SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**|Guoan Wang et.al.|[2407.04938v1](http://arxiv.org/abs/2407.04938v1)|null|
 |**2024-07-06**|**Revolutionizing Alloy Microstructure Segmentation through SAM and Domain Knowledge without Extra Training**|Xudong Ma et.al.|[2407.04922v1](http://arxiv.org/abs/2407.04922v1)|null|
 |**2024-07-05**|**SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images**|Weiyi Xie et.al.|[2407.04651v1](http://arxiv.org/abs/2407.04651v1)|null|
-|**2024-07-05**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504v1](http://arxiv.org/abs/2407.04504v1)|null|
+|**2024-07-12**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504v2](http://arxiv.org/abs/2407.04504v2)|null|
 |**2024-07-09**|**CS3: Cascade SAM for Sperm Segmentation**|Yi Shi et.al.|[2407.03772v2](http://arxiv.org/abs/2407.03772v2)|**[link](https://github.com/shiy19/CS3)**|
 |**2024-07-02**|**Lung-CADex: Fully automatic Zero-Shot Detection and Classification of Lung Nodules in Thoracic CT Images**|Furqan Shaukat et.al.|[2407.02625v1](http://arxiv.org/abs/2407.02625v1)|null|
 |**2024-07-02**|**Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model**|Katja Löwenstein et.al.|[2407.02187v1](http://arxiv.org/abs/2407.02187v1)|null|
