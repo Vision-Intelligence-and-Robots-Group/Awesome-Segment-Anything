@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-11**|**Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear**|Seonwhee Jin et.al.|[2407.08257v1](http://arxiv.org/abs/2407.08257v1)|**[link](https://github.com/seonwhee-genome/rvernet)**|
 |**2024-07-11**|**Enrich the content of the image Using Context-Aware Copy Paste**|Qiushi Guo et.al.|[2407.08151v1](http://arxiv.org/abs/2407.08151v1)|null|
 |**2024-07-10**|**Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images**|Hao Li et.al.|[2407.08020v1](http://arxiv.org/abs/2407.08020v1)|**[link](https://github.com/medicl-vu/prism-placenta)**|
