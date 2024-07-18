@@ -1,11 +1,11 @@
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-16**|**Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes**|Zhi Cai et.al.|[2407.11464v1](http://arxiv.org/abs/2407.11464v1)|**[link](https://github.com/felixcaae/crowdsam)**|
-|**2024-07-16**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[2407.11382v1](http://arxiv.org/abs/2407.11382v1)|null|
+|**2024-07-17**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[2407.11382v2](http://arxiv.org/abs/2407.11382v2)|null|
 |**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381v1](http://arxiv.org/abs/2407.11381v1)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
 |**2024-07-14**|**WPS-SAM: Towards Weakly-Supervised Part Segmentation with Foundation Models**|Xinjian Wu et.al.|[2407.10131v1](http://arxiv.org/abs/2407.10131v1)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
