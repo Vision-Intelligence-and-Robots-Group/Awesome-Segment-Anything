@@ -4,10 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675v1](http://arxiv.org/abs/2407.13675v1)|null|
+|**2024-07-19**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153v1](http://arxiv.org/abs/2407.14153v1)|null|
+|**2024-07-19**|**Seismic Fault SAM: Adapting SAM with Lightweight Modules and 2.5D Strategy for Fault Detection**|Ran Chen et.al.|[2407.14121v1](http://arxiv.org/abs/2407.14121v1)|null|
+|**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675v1](http://arxiv.org/abs/2407.13675v1)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
 |**2024-07-18**|**Hybrid Deep Learning-Based for Enhanced Occlusion Segmentation in PICU Patient Monitoring**|Mario Francisco Munoz et.al.|[2407.13341v1](http://arxiv.org/abs/2407.13341v1)|null|
 |**2024-07-17**|**OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides**|Zhuoyan Shen et.al.|[2407.12773v1](http://arxiv.org/abs/2407.12773v1)|null|
-|**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658v1](http://arxiv.org/abs/2407.12658v1)|null|
+|**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658v1](http://arxiv.org/abs/2407.12658v1)|**[link](https://github.com/arcadelab/fastsam3d_slicer)**|
 |**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339v1](http://arxiv.org/abs/2407.12339v1)|null|
 |**2024-07-19**|**Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes**|Zhi Cai et.al.|[2407.11464v2](http://arxiv.org/abs/2407.11464v2)|**[link](https://github.com/felixcaae/crowdsam)**|
 |**2024-07-17**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[2407.11382v2](http://arxiv.org/abs/2407.11382v2)|null|
