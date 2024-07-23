@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728v1](http://arxiv.org/abs/2407.15728v1)|null|
+|**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042v1](http://arxiv.org/abs/2407.15042v1)|null|
 |**2024-07-19**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153v1](http://arxiv.org/abs/2407.14153v1)|null|
 |**2024-07-19**|**Seismic Fault SAM: Adapting SAM with Lightweight Modules and 2.5D Strategy for Fault Detection**|Ran Chen et.al.|[2407.14121v1](http://arxiv.org/abs/2407.14121v1)|null|
 |**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675v1](http://arxiv.org/abs/2407.13675v1)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
