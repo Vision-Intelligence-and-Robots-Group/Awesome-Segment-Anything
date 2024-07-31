@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Uncertainty-Rectified YOLO-SAM for Weakly Supervised ICH Segmentation**|Pascal Spiegler et.al.|[2407.20461v1](http://arxiv.org/abs/2407.20461v1)|null|
 |**2024-07-28**|**ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding**|Zhen Chen et.al.|[2407.19435v1](http://arxiv.org/abs/2407.19435v1)|**[link](https://github.com/zonmgin-zhang/asi-seg)**|
 |**2024-07-25**|**SSTD: Stripe-Like Space Target Detection using Single-Point Supervision**|Zijian Zhu et.al.|[2407.18097v1](http://arxiv.org/abs/2407.18097v1)|null|
 |**2024-07-25**|**Segmentation by registration-enabled SAM prompt engineering using five reference images**|Yaxi Chen et.al.|[2407.17933v1](http://arxiv.org/abs/2407.17933v1)|**[link](https://github.com/chrissyinreallife/kneesegmentwithsam)**|
