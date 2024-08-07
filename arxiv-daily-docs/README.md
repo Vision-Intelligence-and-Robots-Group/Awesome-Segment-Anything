@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322v1](http://arxiv.org/abs/2408.03322v1)|null|
+|**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286v1](http://arxiv.org/abs/2408.03286v1)|null|
+|**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924v1](http://arxiv.org/abs/2408.02924v1)|null|
 |**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635v1](http://arxiv.org/abs/2408.02635v1)|null|
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066v1](http://arxiv.org/abs/2408.02066v1)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
