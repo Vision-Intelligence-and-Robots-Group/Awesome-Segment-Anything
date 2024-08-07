@@ -1,4 +1,4 @@
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 
 ## SAM
 
@@ -10,7 +10,7 @@
 |**2024-08-03**|**TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks**|Yang Yu et.al.|[2408.01835v1](http://arxiv.org/abs/2408.01835v1)|null|
 |**2024-08-03**|**Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2**|Ange Lou et.al.|[2408.01648v1](http://arxiv.org/abs/2408.01648v1)|null|
 |**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874v1](http://arxiv.org/abs/2408.00874v1)|null|
-|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
+|**2024-08-06**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v2](http://arxiv.org/abs/2408.00756v2)|null|
 |**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
 |**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
 |**2024-08-01**|**DMESA: Densely Matching Everything by Segmenting Anything**|Yesheng Zhang et.al.|[2408.00279v1](http://arxiv.org/abs/2408.00279v1)|null|
