@@ -1,4 +1,4 @@
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 
 ## SAM
 
@@ -31,7 +31,7 @@
 |**2024-07-23**|**Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance**|Jiyeop Kim et.al.|[2407.16173v1](http://arxiv.org/abs/2407.16173v1)|null|
 |**2024-07-23**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728v2](http://arxiv.org/abs/2407.15728v2)|null|
 |**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042v1](http://arxiv.org/abs/2407.15042v1)|null|
-|**2024-08-07**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Image Segmentation**|Qing Xu et.al.|[2407.14153v2](http://arxiv.org/abs/2407.14153v2)|null|
+|**2024-08-08**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Image Segmentation**|Qing Xu et.al.|[2407.14153v3](http://arxiv.org/abs/2407.14153v3)|null|
 |**2024-07-19**|**Seismic Fault SAM: Adapting SAM with Lightweight Modules and 2.5D Strategy for Fault Detection**|Ran Chen et.al.|[2407.14121v1](http://arxiv.org/abs/2407.14121v1)|null|
 |**2024-07-25**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675v3](http://arxiv.org/abs/2407.13675v3)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
 |**2024-07-18**|**Hybrid Deep Learning-Based for Enhanced Occlusion Segmentation in PICU Patient Monitoring**|Mario Francisco Munoz et.al.|[2407.13341v1](http://arxiv.org/abs/2407.13341v1)|null|
