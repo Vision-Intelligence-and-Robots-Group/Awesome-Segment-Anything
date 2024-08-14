@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v1](http://arxiv.org/abs/2408.06970v1)|null|
+|**2024-08-13**|**Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model**|Yongcheng Li et.al.|[2408.06716v1](http://arxiv.org/abs/2408.06716v1)|**[link](https://github.com/anok3111/bc-sam)**|
+|**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644v1](http://arxiv.org/abs/2408.06644v1)|null|
+|**2024-08-12**|**S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation**|Jay N. Paranjape et.al.|[2408.06447v1](http://arxiv.org/abs/2408.06447v1)|**[link](https://github.com/jayparanjape/svdsam)**|
+|**2024-07-25**|**Enhancing Ecological Monitoring with Multi-Objective Optimization: A Novel Dataset and Methodology for Segmentation Algorithms**|Sophia J. Abraham et.al.|[2408.06356v1](http://arxiv.org/abs/2408.06356v1)|null|
 |**2024-08-12**|**From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model**|Athulya Sundaresan Geetha et.al.|[2408.06305v1](http://arxiv.org/abs/2408.06305v1)|null|
 |**2024-08-12**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging**|Yosuke Yamagishi et.al.|[2408.06170v1](http://arxiv.org/abs/2408.06170v1)|null|
 |**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936v1](http://arxiv.org/abs/2408.05936v1)|null|
