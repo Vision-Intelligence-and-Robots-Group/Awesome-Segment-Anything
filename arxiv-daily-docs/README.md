@@ -1,4 +1,4 @@
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 
 ## SAM
 
@@ -14,7 +14,7 @@
 |**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593v1](http://arxiv.org/abs/2408.04593v1)|null|
 |**2024-08-10**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579v2](http://arxiv.org/abs/2408.04579v2)|null|
 |**2024-08-08**|**Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**|Shixuan Gao et.al.|[2408.04326v1](http://arxiv.org/abs/2408.04326v1)|null|
-|**2024-08-08**|**Is SAM 2 Better than SAM in Medical Image Segmentation?**|Sourya Sengupta et.al.|[2408.04212v1](http://arxiv.org/abs/2408.04212v1)|null|
+|**2024-08-12**|**Is SAM 2 Better than SAM in Medical Image Segmentation?**|Sourya Sengupta et.al.|[2408.04212v2](http://arxiv.org/abs/2408.04212v2)|null|
 |**2024-08-07**|**PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation**|Blessing Agyei Kyem et.al.|[2408.04110v1](http://arxiv.org/abs/2408.04110v1)|**[link](https://github.com/blessing988/pavecap)**|
 |**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098v1](http://arxiv.org/abs/2408.04098v1)|null|
 |**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651v1](http://arxiv.org/abs/2408.03651v1)|**[link](https://github.com/simzhangbest/sam2path)**|
@@ -25,7 +25,7 @@
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066v1](http://arxiv.org/abs/2408.02066v1)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
 |**2024-08-03**|**TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks**|Yang Yu et.al.|[2408.01835v1](http://arxiv.org/abs/2408.01835v1)|**[link](https://github.com/maoyangou147/ts-sam)**|
-|**2024-08-03**|**Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2**|Ange Lou et.al.|[2408.01648v1](http://arxiv.org/abs/2408.01648v1)|null|
+|**2024-08-03**|**Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2**|Ange Lou et.al.|[2408.01648v1](http://arxiv.org/abs/2408.01648v1)|**[link](https://github.com/AngeLouCN/SAM-2_Surgical_Video)**|
 |**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874v1](http://arxiv.org/abs/2408.00874v1)|**[link](https://github.com/medicinetoken/medical-sam2)**|
 |**2024-08-06**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v2](http://arxiv.org/abs/2408.00756v2)|null|
 |**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
