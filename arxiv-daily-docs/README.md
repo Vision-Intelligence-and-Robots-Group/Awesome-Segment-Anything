@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification**|Yongcheng Li et.al.|[2408.07467v1](http://arxiv.org/abs/2408.07467v1)|**[link](https://github.com/anok3111/dorl)**|
+|**2024-08-14**|**Segment Using Just One Example**|Pratik Vora et.al.|[2408.07393v1](http://arxiv.org/abs/2408.07393v1)|null|
 |**2024-08-13**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v1](http://arxiv.org/abs/2408.06970v1)|null|
 |**2024-08-13**|**Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model**|Yongcheng Li et.al.|[2408.06716v1](http://arxiv.org/abs/2408.06716v1)|**[link](https://github.com/anok3111/bc-sam)**|
 |**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644v1](http://arxiv.org/abs/2408.06644v1)|null|
