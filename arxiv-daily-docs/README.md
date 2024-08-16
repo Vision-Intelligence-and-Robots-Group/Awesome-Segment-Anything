@@ -1,4 +1,4 @@
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 
 ## SAM
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-08-14**|**Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification**|Yongcheng Li et.al.|[2408.07467v1](http://arxiv.org/abs/2408.07467v1)|**[link](https://github.com/anok3111/dorl)**|
 |**2024-08-14**|**Segment Using Just One Example**|Pratik Vora et.al.|[2408.07393v1](http://arxiv.org/abs/2408.07393v1)|null|
-|**2024-08-13**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v1](http://arxiv.org/abs/2408.06970v1)|null|
+|**2024-08-15**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v2](http://arxiv.org/abs/2408.06970v2)|null|
 |**2024-08-13**|**Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model**|Yongcheng Li et.al.|[2408.06716v1](http://arxiv.org/abs/2408.06716v1)|**[link](https://github.com/anok3111/bc-sam)**|
 |**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644v1](http://arxiv.org/abs/2408.06644v1)|null|
 |**2024-08-12**|**S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation**|Jay N. Paranjape et.al.|[2408.06447v1](http://arxiv.org/abs/2408.06447v1)|**[link](https://github.com/jayparanjape/svdsam)**|
@@ -15,7 +15,7 @@
 |**2024-08-12**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging**|Yosuke Yamagishi et.al.|[2408.06170v1](http://arxiv.org/abs/2408.06170v1)|null|
 |**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936v1](http://arxiv.org/abs/2408.05936v1)|null|
 |**2024-08-12**|**Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection**|Mobina Mansoori et.al.|[2408.05892v1](http://arxiv.org/abs/2408.05892v1)|**[link](https://github.com/sajjad-sh33/polyp-sam-2)**|
-|**2024-08-10**|**SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2408.05426v1](http://arxiv.org/abs/2408.05426v1)|**[link](https://github.com/vvjia/sam-fnet)**|
+|**2024-08-15**|**SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2408.05426v2](http://arxiv.org/abs/2408.05426v2)|**[link](https://github.com/vvjia/sam-fnet)**|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823v1](http://arxiv.org/abs/2408.04823v1)|null|
 |**2024-08-08**|**Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**|Andrew Seohwan Yu et.al.|[2408.04762v1](http://arxiv.org/abs/2408.04762v1)|null|
 |**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593v1](http://arxiv.org/abs/2408.04593v1)|null|
