@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870v1](http://arxiv.org/abs/2408.08870v1)|**[link](https://github.com/wzh0120/sam2-unet)**|
+|**2024-08-16**|**Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models**|Lin Zhao et.al.|[2408.08813v1](http://arxiv.org/abs/2408.08813v1)|null|
+|**2024-08-16**|**Extracting polygonal footprints in off-nadir images with Segment Anything Model**|Kai Li et.al.|[2408.08645v1](http://arxiv.org/abs/2408.08645v1)|null|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576v1](http://arxiv.org/abs/2408.08576v1)|null|
+|**2024-07-31**|**Segment Anything for Videos: A Systematic Survey**|Chunhui Zhang et.al.|[2408.08315v1](http://arxiv.org/abs/2408.08315v1)|null|
 |**2024-08-15**|**Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning**|Haofeng Liu et.al.|[2408.07931v1](http://arxiv.org/abs/2408.07931v1)|null|
 |**2024-08-14**|**Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification**|Yongcheng Li et.al.|[2408.07467v1](http://arxiv.org/abs/2408.07467v1)|**[link](https://github.com/anok3111/dorl)**|
 |**2024-08-14**|**Segment Using Just One Example**|Pratik Vora et.al.|[2408.07393v1](http://arxiv.org/abs/2408.07393v1)|null|
