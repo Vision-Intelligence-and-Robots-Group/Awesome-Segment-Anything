@@ -1,4 +1,4 @@
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 
 ## SAM
 
@@ -9,7 +9,7 @@
 |**2024-08-16**|**Extracting polygonal footprints in off-nadir images with Segment Anything Model**|Kai Li et.al.|[2408.08645v1](http://arxiv.org/abs/2408.08645v1)|null|
 |**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576v1](http://arxiv.org/abs/2408.08576v1)|null|
 |**2024-07-31**|**Segment Anything for Videos: A Systematic Survey**|Chunhui Zhang et.al.|[2408.08315v1](http://arxiv.org/abs/2408.08315v1)|null|
-|**2024-08-15**|**Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning**|Haofeng Liu et.al.|[2408.07931v1](http://arxiv.org/abs/2408.07931v1)|null|
+|**2024-08-15**|**Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning**|Haofeng Liu et.al.|[2408.07931v1](http://arxiv.org/abs/2408.07931v1)|**[link](https://github.com/jinlab-imvr/surgical-sam-2)**|
 |**2024-08-14**|**Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification**|Yongcheng Li et.al.|[2408.07467v1](http://arxiv.org/abs/2408.07467v1)|**[link](https://github.com/anok3111/dorl)**|
 |**2024-08-14**|**Segment Using Just One Example**|Pratik Vora et.al.|[2408.07393v1](http://arxiv.org/abs/2408.07393v1)|null|
 |**2024-08-15**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v2](http://arxiv.org/abs/2408.06970v2)|null|
@@ -32,7 +32,7 @@
 |**2024-08-16**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098v2](http://arxiv.org/abs/2408.04098v2)|null|
 |**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651v1](http://arxiv.org/abs/2408.03651v1)|**[link](https://github.com/simzhangbest/sam2path)**|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322v1](http://arxiv.org/abs/2408.03322v1)|**[link](https://github.com/bowang-lab/medsam)**|
-|**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286v1](http://arxiv.org/abs/2408.03286v1)|null|
+|**2024-08-17**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286v2](http://arxiv.org/abs/2408.03286v2)|null|
 |**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924v1](http://arxiv.org/abs/2408.02924v1)|**[link](https://github.com/liamlian0727/underwatersam2eval)**|
 |**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635v1](http://arxiv.org/abs/2408.02635v1)|**[link](https://github.com/chuyun-shen/sam_2_medical_3d)**|
 |**2024-08-04**|**PromptSAM+: Malware Detection based on Prompt Segment Anything Model**|Xingyuan Wei et.al.|[2408.02066v1](http://arxiv.org/abs/2408.02066v1)|null|
