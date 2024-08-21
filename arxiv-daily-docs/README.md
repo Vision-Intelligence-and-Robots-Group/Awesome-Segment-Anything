@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760v1](http://arxiv.org/abs/2408.10760v1)|null|
 |**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125v1](http://arxiv.org/abs/2408.10125v1)|null|
 |**2024-08-19**|**LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**|Weiji Kong et.al.|[2408.09899v1](http://arxiv.org/abs/2408.09899v1)|null|
 |**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886v1](http://arxiv.org/abs/2408.09886v1)|**[link](https://github.com/hhankyangg/sam-unet)**|
