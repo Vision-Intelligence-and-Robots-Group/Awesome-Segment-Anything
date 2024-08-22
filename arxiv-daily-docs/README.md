@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811v1](http://arxiv.org/abs/2408.11811v1)|null|
+|**2024-08-21**|**NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**|Zhenye Lou et.al.|[2408.11787v1](http://arxiv.org/abs/2408.11787v1)|**[link](https://github.com/xq141839/nusegdg)**|
+|**2024-08-21**|**SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything**|Chongkai Yu et.al.|[2408.11535v1](http://arxiv.org/abs/2408.11535v1)|null|
+|**2024-08-20**|**A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation**|Yufan He et.al.|[2408.11210v1](http://arxiv.org/abs/2408.11210v1)|**[link](https://github.com/Project-MONAI/VISTA)**|
 |**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760v1](http://arxiv.org/abs/2408.10760v1)|null|
 |**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125v1](http://arxiv.org/abs/2408.10125v1)|null|
 |**2024-08-19**|**LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery**|Weiji Kong et.al.|[2408.09899v1](http://arxiv.org/abs/2408.09899v1)|null|
