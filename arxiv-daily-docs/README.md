@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Animal Identification with Independent Foreground and Background Modeling**|Lukas Picek et.al.|[2408.12930v1](http://arxiv.org/abs/2408.12930v1)|null|
+|**2024-08-23**|**Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey**|Yichi Zhang et.al.|[2408.12889v1](http://arxiv.org/abs/2408.12889v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
+|**2024-08-23**|**S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis**|Kamal Basha S et.al.|[2408.12833v1](http://arxiv.org/abs/2408.12833v1)|null|
+|**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808v1](http://arxiv.org/abs/2408.12808v1)|null|
+|**2024-08-22**|**Segment Anything Model for Grain Characterization in Hard Drive Design**|Kai Nichols et.al.|[2408.12732v1](http://arxiv.org/abs/2408.12732v1)|null|
 |**2024-08-22**|**The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation**|Tuyen Tran et.al.|[2408.12447v1](http://arxiv.org/abs/2408.12447v1)|null|
 |**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406v1](http://arxiv.org/abs/2408.12406v1)|**[link](https://github.com/usagisukisuki/g-sam)**|
 |**2024-08-22**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364v1](http://arxiv.org/abs/2408.12364v1)|null|
