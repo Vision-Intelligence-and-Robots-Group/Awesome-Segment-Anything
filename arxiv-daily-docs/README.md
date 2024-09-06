@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|null|
+|**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|**[link](https://github.com/PJLallen/InstanceSAM2Eval)**|
 |**2024-09-03**|**When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels**|Yifan Liu et.al.|[2409.01691v1](http://arxiv.org/abs/2409.01691v1)|null|
 |**2024-09-02**|**MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM**|Nan Zhou et.al.|[2409.00924v1](http://arxiv.org/abs/2409.00924v1)|null|
 |**2024-08-29**|**SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners**|Ziyu Guo et.al.|[2408.16768v1](http://arxiv.org/abs/2408.16768v1)|**[link](https://github.com/ziyuguo99/sam2point)**|
