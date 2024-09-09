@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298v1](http://arxiv.org/abs/2409.04298v1)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
+|**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178v1](http://arxiv.org/abs/2409.04178v1)|null|
 |**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|**[link](https://github.com/PJLallen/InstanceSAM2Eval)**|
 |**2024-09-03**|**When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels**|Yifan Liu et.al.|[2409.01691v1](http://arxiv.org/abs/2409.01691v1)|null|
 |**2024-09-02**|**MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM**|Nan Zhou et.al.|[2409.00924v1](http://arxiv.org/abs/2409.00924v1)|null|
