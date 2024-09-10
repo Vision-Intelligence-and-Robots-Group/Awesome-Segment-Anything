@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|null|
+|**2024-09-09**|**TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation**|Jiaqi Yang et.al.|[2409.05393v1](http://arxiv.org/abs/2409.05393v1)|null|
+|**2024-09-07**|**SSFam: Scribble Supervised Salient Object Detection Family**|Zhengyi Liu et.al.|[2409.04817v1](http://arxiv.org/abs/2409.04817v1)|**[link](https://github.com/liuzywen/ssfam)**|
+|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714v1](http://arxiv.org/abs/2409.04714v1)|null|
 |**2024-09-06**|**FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298v1](http://arxiv.org/abs/2409.04298v1)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178v1](http://arxiv.org/abs/2409.04178v1)|null|
 |**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|**[link](https://github.com/PJLallen/InstanceSAM2Eval)**|
