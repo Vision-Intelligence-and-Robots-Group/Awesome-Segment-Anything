@@ -1,10 +1,10 @@
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-10**|**Segmenting sea ice floes in close-range optical imagery with active contour and foundation models**|Giulio Passerotti et.al.|[2409.06641v1](http://arxiv.org/abs/2409.06641v1)|null|
+|**2024-09-11**|**Segmenting sea ice floes in close-range optical imagery with active contour and foundation models**|Giulio Passerotti et.al.|[2409.06641v2](http://arxiv.org/abs/2409.06641v2)|null|
 |**2024-09-10**|**Towards Generalizable Scene Change Detection**|Jaewoo Kim et.al.|[2409.06214v1](http://arxiv.org/abs/2409.06214v1)|null|
 |**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|null|
 |**2024-09-09**|**TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation**|Jiaqi Yang et.al.|[2409.05393v1](http://arxiv.org/abs/2409.05393v1)|null|
