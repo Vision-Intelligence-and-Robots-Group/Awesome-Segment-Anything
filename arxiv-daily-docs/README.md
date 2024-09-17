@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-14**|**An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation**|Zheming Zuo et.al.|[2409.09530v1](http://arxiv.org/abs/2409.09530v1)|null|
+|**2024-09-14**|**Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment**|Xin Hu et.al.|[2409.09520v1](http://arxiv.org/abs/2409.09520v1)|null|
+|**2024-09-14**|**Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model**|Mobina Mansoori et.al.|[2409.09484v1](http://arxiv.org/abs/2409.09484v1)|null|
+|**2024-09-14**|**SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2**|Xinrun Chen et.al.|[2409.09286v1](http://arxiv.org/abs/2409.09286v1)|**[link](https://github.com/shellredia/sam-octa2)**|
 |**2024-09-13**|**Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images**|Hualiang Wang et.al.|[2409.08492v1](http://arxiv.org/abs/2409.08492v1)|null|
 |**2024-09-12**|**SimMAT: Exploring Transferability from Vision Foundation Models to Any Image Modality**|Chenyang Lei et.al.|[2409.08083v1](http://arxiv.org/abs/2409.08083v1)|**[link](https://github.com/mt-cly/simmat)**|
 |**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295v1](http://arxiv.org/abs/2409.07295v1)|null|
