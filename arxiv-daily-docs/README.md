@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation**|Yi-Chia Chen et.al.|[2409.10542v1](http://arxiv.org/abs/2409.10542v1)|null|
 |**2024-09-14**|**An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation**|Zheming Zuo et.al.|[2409.09530v1](http://arxiv.org/abs/2409.09530v1)|null|
 |**2024-09-14**|**Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment**|Xin Hu et.al.|[2409.09520v1](http://arxiv.org/abs/2409.09520v1)|null|
 |**2024-09-14**|**Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model**|Mobina Mansoori et.al.|[2409.09484v1](http://arxiv.org/abs/2409.09484v1)|null|
