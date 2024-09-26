@@ -1,9 +1,25 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|null|
+|**2024-09-24**|**Open-World Object Detection with Instance Representation Learning**|Sunoh Lee et.al.|[2409.16073v1](http://arxiv.org/abs/2409.16073v1)|null|
+|**2024-09-24**|**CAD: Memory Efficient Convolutional Adapter for Segment Anything**|Joohyeok Kim et.al.|[2409.15889v1](http://arxiv.org/abs/2409.15889v1)|**[link](https://github.com/kyyle2114/convolutional-adapter-for-segment-anything)**|
+|**2024-09-23**|**Adapting Segment Anything Model for Unseen Object Instance Segmentation**|Rui Cao et.al.|[2409.15481v1](http://arxiv.org/abs/2409.15481v1)|null|
+|**2024-09-24**|**Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images**|Ahjol Senbi et.al.|[2409.14874v2](http://arxiv.org/abs/2409.14874v2)|null|
+|**2024-09-23**|**SAMEdge: An Edge-cloud Video Analytics Architecture for the Segment Anything Model**|Rui Lu et.al.|[2409.14784v1](http://arxiv.org/abs/2409.14784v1)|null|
+|**2024-09-23**|**An Adverse Weather-Immune Scheme with Unfolded Regularization and Foundation Model Knowledge Distillation for Street Scene Understanding**|Wei-Bin Kou et.al.|[2409.14737v1](http://arxiv.org/abs/2409.14737v1)|null|
+|**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709v1](http://arxiv.org/abs/2409.14709v1)|null|
+|**2024-09-21**|**Foundation Models for Amodal Video Instance Segmentation in Automated Driving**|Jasmin Breitenstein et.al.|[2409.14095v1](http://arxiv.org/abs/2409.14095v1)|null|
+|**2024-09-20**|**Deep learning for fast segmentation and critical dimension metrology & characterization enabling AR/VR design and fabrication**|Kundan Chaudhary et.al.|[2409.13951v1](http://arxiv.org/abs/2409.13951v1)|null|
+|**2024-09-20**|**PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images**|Nanqing Liu et.al.|[2409.13401v1](http://arxiv.org/abs/2409.13401v1)|null|
+|**2024-09-20**|**MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation**|Guantian Huang et.al.|[2409.13371v1](http://arxiv.org/abs/2409.13371v1)|null|
+|**2024-09-20**|**Deep Learning based Optical Image Super-Resolution via Generative Diffusion Models for Layerwise in-situ LPBF Monitoring**|Francis Ogoke et.al.|[2409.13171v1](http://arxiv.org/abs/2409.13171v1)|null|
+|**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522v1](http://arxiv.org/abs/2409.12522v1)|**[link](https://github.com/wkklavis/dapsam)**|
+|**2024-09-23**|**GraspSAM: When Segment Anything Model Meets Grasp Detection**|Sangjun Noh et.al.|[2409.12521v2](http://arxiv.org/abs/2409.12521v2)|null|
+|**2024-09-19**|**Frequency-Guided Spatial Adaptation for Camouflaged Object Detection**|Shizhou Zhang et.al.|[2409.12421v1](http://arxiv.org/abs/2409.12421v1)|null|
 |**2024-09-01**|**SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation**|Yi-Chia Chen et.al.|[2409.10542v1](http://arxiv.org/abs/2409.10542v1)|null|
 |**2024-09-14**|**An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation**|Zheming Zuo et.al.|[2409.09530v1](http://arxiv.org/abs/2409.09530v1)|null|
 |**2024-09-14**|**Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment**|Xin Hu et.al.|[2409.09520v1](http://arxiv.org/abs/2409.09520v1)|null|
