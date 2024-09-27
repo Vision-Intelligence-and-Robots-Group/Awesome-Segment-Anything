@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
+|**2024-09-26**|**DarkSAM: Fooling Segment Anything Model to Segment Nothing**|Ziqi Zhou et.al.|[2409.17874v1](http://arxiv.org/abs/2409.17874v1)|**[link](https://github.com/cgcl-codes/darksam)**|
+|**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486v1](http://arxiv.org/abs/2409.17486v1)|null|
 |**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940v1](http://arxiv.org/abs/2409.16940v1)|null|
 |**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902v1](http://arxiv.org/abs/2409.16902v1)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-09-24**|**Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking**|Xi Wang et.al.|[2409.16287v1](http://arxiv.org/abs/2409.16287v1)|null|
