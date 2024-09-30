@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653v1](http://arxiv.org/abs/2409.18653v1)|**[link](https://github.com/zhoustan/sam2-vcos)**|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
 |**2024-09-26**|**DarkSAM: Fooling Segment Anything Model to Segment Nothing**|Ziqi Zhou et.al.|[2409.17874v1](http://arxiv.org/abs/2409.17874v1)|**[link](https://github.com/cgcl-codes/darksam)**|
 |**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486v1](http://arxiv.org/abs/2409.17486v1)|null|
