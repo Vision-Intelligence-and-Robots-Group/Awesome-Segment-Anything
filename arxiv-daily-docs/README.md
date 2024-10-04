@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207v1](http://arxiv.org/abs/2410.02207v1)|null|
+|**2024-09-14**|**Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare**|Zhikai Li et.al.|[2410.01813v1](http://arxiv.org/abs/2410.01813v1)|null|
 |**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473v1](http://arxiv.org/abs/2410.01473v1)|**[link](https://github.com/osherr1996/sinksam)**|
 |**2024-09-30**|**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision**|Mélanie Gaillochet et.al.|[2409.20293v1](http://arxiv.org/abs/2409.20293v1)|null|
 |**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253v1](http://arxiv.org/abs/2409.20253v1)|null|
