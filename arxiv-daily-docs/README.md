@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960v1](http://arxiv.org/abs/2410.04960v1)|null|
+|**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|null|
+|**2024-10-05**|**DB-SAM: Delving into High Quality Universal Medical Image Segmentation**|Chao Qin et.al.|[2410.04172v1](http://arxiv.org/abs/2410.04172v1)|**[link](https://github.com/alfredqin/db-sam)**|
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207v1](http://arxiv.org/abs/2410.02207v1)|null|
 |**2024-09-14**|**Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare**|Zhikai Li et.al.|[2410.01813v1](http://arxiv.org/abs/2410.01813v1)|null|
 |**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473v1](http://arxiv.org/abs/2410.01473v1)|**[link](https://github.com/osherr1996/sinksam)**|
@@ -29,7 +32,7 @@
 |**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709v1](http://arxiv.org/abs/2409.14709v1)|null|
 |**2024-09-21**|**Foundation Models for Amodal Video Instance Segmentation in Automated Driving**|Jasmin Breitenstein et.al.|[2409.14095v1](http://arxiv.org/abs/2409.14095v1)|**[link](https://github.com/ifnspaml/s-amodal)**|
 |**2024-09-20**|**Deep learning for fast segmentation and critical dimension metrology & characterization enabling AR/VR design and fabrication**|Kundan Chaudhary et.al.|[2409.13951v1](http://arxiv.org/abs/2409.13951v1)|null|
-|**2024-09-20**|**PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images**|Nanqing Liu et.al.|[2409.13401v1](http://arxiv.org/abs/2409.13401v1)|null|
+|**2024-09-20**|**PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images**|Nanqing Liu et.al.|[2409.13401v1](http://arxiv.org/abs/2409.13401v1)|**[link](https://github.com/lans1ng/pointsam)**|
 |**2024-09-20**|**MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation**|Guantian Huang et.al.|[2409.13371v1](http://arxiv.org/abs/2409.13371v1)|null|
 |**2024-09-20**|**Deep Learning based Optical Image Super-Resolution via Generative Diffusion Models for Layerwise in-situ LPBF Monitoring**|Francis Ogoke et.al.|[2409.13171v1](http://arxiv.org/abs/2409.13171v1)|null|
 |**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522v1](http://arxiv.org/abs/2409.12522v1)|**[link](https://github.com/wkklavis/dapsam)**|
