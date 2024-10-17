@@ -1,9 +1,21 @@
-## Updated on 2024.10.10
+## Updated on 2024.10.17
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722v1](http://arxiv.org/abs/2410.11722v1)|null|
+|**2024-10-15**|**MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation**|Xianping Ma et.al.|[2410.11160v1](http://arxiv.org/abs/2410.11160v1)|**[link](https://github.com/sstary/ssrs)**|
+|**2024-10-14**|**big.LITTLE Vision Transformer for Efficient Visual Recognition**|He Guo et.al.|[2410.10267v1](http://arxiv.org/abs/2410.10267v1)|null|
+|**2024-10-13**|**UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation**|Ye Sun et.al.|[2410.09909v1](http://arxiv.org/abs/2410.09909v1)|null|
+|**2024-10-13**|**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model**|Yuchen Li et.al.|[2410.09714v1](http://arxiv.org/abs/2410.09714v1)|null|
+|**2024-10-12**|**Distribution-aware Noisy-label Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.09409v1](http://arxiv.org/abs/2410.09409v1)|**[link](https://github.com/sky-visionx/cracksegmentation)**|
+|**2024-10-11**|**VideoSAM: Open-World Video Segmentation**|Pinxue Guo et.al.|[2410.08781v1](http://arxiv.org/abs/2410.08781v1)|null|
+|**2024-10-09**|**Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy**|Yuxuan Wen et.al.|[2410.07460v1](http://arxiv.org/abs/2410.07460v1)|null|
+|**2024-10-11**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964v2](http://arxiv.org/abs/2410.06964v2)|null|
+|**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194v1](http://arxiv.org/abs/2410.06194v1)|**[link](https://github.com/stevenmsy/directsam-rs)**|
+|**2024-10-08**|**Towards Unsupervised Eye-Region Segmentation for Eye Tracking**|Jiangfan Deng et.al.|[2410.06131v1](http://arxiv.org/abs/2410.06131v1)|null|
+|**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963v1](http://arxiv.org/abs/2410.05963v1)|null|
 |**2024-10-07**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960v1](http://arxiv.org/abs/2410.04960v1)|null|
 |**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|null|
 |**2024-10-05**|**DB-SAM: Delving into High Quality Universal Medical Image Segmentation**|Chao Qin et.al.|[2410.04172v1](http://arxiv.org/abs/2410.04172v1)|**[link](https://github.com/alfredqin/db-sam)**|
@@ -15,7 +27,7 @@
 |**2024-09-30**|**Task-Oriented Pre-Training for Drivable Area Detection**|Fulong Ma et.al.|[2409.20166v1](http://arxiv.org/abs/2409.20166v1)|null|
 |**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603v1](http://arxiv.org/abs/2409.19603v1)|null|
 |**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590v1](http://arxiv.org/abs/2409.19590v1)|null|
-|**2024-09-28**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483v1](http://arxiv.org/abs/2409.19483v1)|**[link](https://github.com/healthx-lab/medclip-samv2)**|
+|**2024-10-10**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483v2](http://arxiv.org/abs/2409.19483v2)|**[link](https://github.com/healthx-lab/medclip-samv2)**|
 |**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653v1](http://arxiv.org/abs/2409.18653v1)|**[link](https://github.com/zhoustan/sam2-vcos)**|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
 |**2024-09-26**|**DarkSAM: Fooling Segment Anything Model to Segment Nothing**|Ziqi Zhou et.al.|[2409.17874v1](http://arxiv.org/abs/2409.17874v1)|**[link](https://github.com/cgcl-codes/darksam)**|
