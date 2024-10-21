@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
+|**2024-10-17**|**SAMReg: SAM-enabled Image Registration with ROI-based Correspondence**|Shiqi Huang et.al.|[2410.14083v1](http://arxiv.org/abs/2410.14083v1)|**[link](https://github.com/sqhuang0103/samreg)**|
 |**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v2](http://arxiv.org/abs/2410.13621v2)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769v1](http://arxiv.org/abs/2410.12769v1)|null|
 |**2024-10-16**|**Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation**|Yao Shen et.al.|[2410.12562v1](http://arxiv.org/abs/2410.12562v1)|null|
