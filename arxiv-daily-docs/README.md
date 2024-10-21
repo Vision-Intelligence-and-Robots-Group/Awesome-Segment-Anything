@@ -1,10 +1,10 @@
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v1](http://arxiv.org/abs/2410.13621v1)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v2](http://arxiv.org/abs/2410.13621v2)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769v1](http://arxiv.org/abs/2410.12769v1)|null|
 |**2024-10-16**|**Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation**|Yao Shen et.al.|[2410.12562v1](http://arxiv.org/abs/2410.12562v1)|null|
 |**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722v1](http://arxiv.org/abs/2410.11722v1)|**[link](https://github.com/emb-ai/rclicks)**|
@@ -19,7 +19,7 @@
 |**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194v1](http://arxiv.org/abs/2410.06194v1)|**[link](https://github.com/stevenmsy/directsam-rs)**|
 |**2024-10-08**|**Towards Unsupervised Eye-Region Segmentation for Eye Tracking**|Jiangfan Deng et.al.|[2410.06131v1](http://arxiv.org/abs/2410.06131v1)|null|
 |**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963v1](http://arxiv.org/abs/2410.05963v1)|null|
-|**2024-10-07**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960v1](http://arxiv.org/abs/2410.04960v1)|null|
+|**2024-10-18**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960v2](http://arxiv.org/abs/2410.04960v2)|null|
 |**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|null|
 |**2024-10-05**|**DB-SAM: Delving into High Quality Universal Medical Image Segmentation**|Chao Qin et.al.|[2410.04172v1](http://arxiv.org/abs/2410.04172v1)|**[link](https://github.com/alfredqin/db-sam)**|
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207v1](http://arxiv.org/abs/2410.02207v1)|null|
