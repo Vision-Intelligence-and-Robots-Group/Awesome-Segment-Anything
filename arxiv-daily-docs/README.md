@@ -1,4 +1,4 @@
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 
 ## SAM
 
@@ -7,7 +7,7 @@
 |**2024-10-21**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268v1](http://arxiv.org/abs/2410.16268v1)|**[link](https://github.com/mark12ding/sam2long)**|
 |**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
 |**2024-10-17**|**SAMReg: SAM-enabled Image Registration with ROI-based Correspondence**|Shiqi Huang et.al.|[2410.14083v1](http://arxiv.org/abs/2410.14083v1)|**[link](https://github.com/sqhuang0103/samreg)**|
-|**2024-10-21**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v3](http://arxiv.org/abs/2410.13621v3)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-22**|**EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything**|Joonhyeon Song et.al.|[2410.13621v4](http://arxiv.org/abs/2410.13621v4)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769v1](http://arxiv.org/abs/2410.12769v1)|null|
 |**2024-10-16**|**Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation**|Yao Shen et.al.|[2410.12562v1](http://arxiv.org/abs/2410.12562v1)|null|
 |**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722v1](http://arxiv.org/abs/2410.11722v1)|**[link](https://github.com/emb-ai/rclicks)**|
