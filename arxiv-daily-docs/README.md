@@ -1,4 +1,4 @@
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 
 ## SAM
 
@@ -13,7 +13,7 @@
 |**2024-10-22**|**EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything**|Joonhyeon Song et.al.|[2410.13621v4](http://arxiv.org/abs/2410.13621v4)|**[link](https://github.com/qi-nemosong/ep-sam)**|
 |**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769v1](http://arxiv.org/abs/2410.12769v1)|null|
 |**2024-10-16**|**Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation**|Yao Shen et.al.|[2410.12562v1](http://arxiv.org/abs/2410.12562v1)|null|
-|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722v1](http://arxiv.org/abs/2410.11722v1)|**[link](https://github.com/emb-ai/rclicks)**|
+|**2024-10-24**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722v2](http://arxiv.org/abs/2410.11722v2)|**[link](https://github.com/emb-ai/rclicks)**|
 |**2024-10-15**|**MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation**|Xianping Ma et.al.|[2410.11160v1](http://arxiv.org/abs/2410.11160v1)|**[link](https://github.com/sstary/ssrs)**|
 |**2024-10-14**|**big.LITTLE Vision Transformer for Efficient Visual Recognition**|He Guo et.al.|[2410.10267v1](http://arxiv.org/abs/2410.10267v1)|null|
 |**2024-10-13**|**UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation**|Ye Sun et.al.|[2410.09909v1](http://arxiv.org/abs/2410.09909v1)|null|
