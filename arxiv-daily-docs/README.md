@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-26**|**Transferable Adversarial Attacks on SAM and Its Downstream Models**|Song Xia et.al.|[2410.20197v1](http://arxiv.org/abs/2410.20197v1)|**[link](https://github.com/xiasong0501/grat)**|
+|**2024-10-25**|**A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion**|Yuxin Chen et.al.|[2410.19996v1](http://arxiv.org/abs/2410.19996v1)|null|
+|**2024-10-11**|**A SAM based Tool for Semi-Automatic Food Annotation**|Lubnaa Abdur Rahman et.al.|[2410.19756v1](http://arxiv.org/abs/2410.19756v1)|null|
 |**2024-10-24**|**Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction**|Hongxin Peng et.al.|[2410.18433v1](http://arxiv.org/abs/2410.18433v1)|null|
 |**2024-10-23**|**Gaze-Assisted Medical Image Segmentation**|Leila Khaertdinova et.al.|[2410.17920v1](http://arxiv.org/abs/2410.17920v1)|**[link](https://github.com/leiluk1/gaze-based-segmentation)**|
 |**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064v1](http://arxiv.org/abs/2410.17064v1)|**[link](https://github.com/kuty007/multi-kernel-gan)**|
