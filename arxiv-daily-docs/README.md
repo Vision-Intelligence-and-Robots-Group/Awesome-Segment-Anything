@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048v1](http://arxiv.org/abs/2410.22048v1)|null|
+|**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813v1](http://arxiv.org/abs/2410.21813v1)|**[link](https://github.com/vvjia/sam-swin)**|
+|**2024-10-22**|**VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation**|Chika Maduabuchi et.al.|[2410.21304v1](http://arxiv.org/abs/2410.21304v1)|null|
 |**2024-10-29**|**Transferable Adversarial Attacks on SAM and Its Downstream Models**|Song Xia et.al.|[2410.20197v2](http://arxiv.org/abs/2410.20197v2)|**[link](https://github.com/xiasong0501/grat)**|
 |**2024-10-25**|**A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion**|Yuxin Chen et.al.|[2410.19996v1](http://arxiv.org/abs/2410.19996v1)|null|
 |**2024-10-11**|**A SAM based Tool for Semi-Automatic Food Annotation**|Lubnaa Abdur Rahman et.al.|[2410.19756v1](http://arxiv.org/abs/2410.19756v1)|null|
