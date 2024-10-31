@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Performance of the Segment Anything Model in Various RFI/Events Detection in Radio Astronomy**|Yanbin Yang et.al.|[2410.22497v1](http://arxiv.org/abs/2410.22497v1)|null|
 |**2024-10-29**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048v1](http://arxiv.org/abs/2410.22048v1)|null|
 |**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813v1](http://arxiv.org/abs/2410.21813v1)|**[link](https://github.com/vvjia/sam-swin)**|
 |**2024-10-22**|**VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation**|Chika Maduabuchi et.al.|[2410.21304v1](http://arxiv.org/abs/2410.21304v1)|null|
