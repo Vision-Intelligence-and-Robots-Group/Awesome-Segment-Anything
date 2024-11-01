@@ -1,11 +1,11 @@
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 
 ## SAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-29**|**Performance of the Segment Anything Model in Various RFI/Events Detection in Radio Astronomy**|Yanbin Yang et.al.|[2410.22497v1](http://arxiv.org/abs/2410.22497v1)|null|
-|**2024-10-29**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048v1](http://arxiv.org/abs/2410.22048v1)|null|
+|**2024-10-30**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048v2](http://arxiv.org/abs/2410.22048v2)|**[link](https://github.com/olivesgatech/pointprompt)**|
 |**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813v1](http://arxiv.org/abs/2410.21813v1)|**[link](https://github.com/vvjia/sam-swin)**|
 |**2024-10-22**|**VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation**|Chika Maduabuchi et.al.|[2410.21304v1](http://arxiv.org/abs/2410.21304v1)|null|
 |**2024-10-29**|**Transferable Adversarial Attacks on SAM and Its Downstream Models**|Song Xia et.al.|[2410.20197v2](http://arxiv.org/abs/2410.20197v2)|**[link](https://github.com/xiasong0501/grat)**|
@@ -34,7 +34,7 @@
 |**2024-10-08**|**Towards Unsupervised Eye-Region Segmentation for Eye Tracking**|Jiangfan Deng et.al.|[2410.06131v1](http://arxiv.org/abs/2410.06131v1)|null|
 |**2024-10-08**|**Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts**|Zhiwei Lin et.al.|[2410.05963v1](http://arxiv.org/abs/2410.05963v1)|null|
 |**2024-10-18**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960v2](http://arxiv.org/abs/2410.04960v2)|null|
-|**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v1](http://arxiv.org/abs/2410.04680v1)|**[link](https://github.com/armlabstanford/NextBestSense)**|
+|**2024-10-30**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680v2](http://arxiv.org/abs/2410.04680v2)|**[link](https://github.com/armlabstanford/NextBestSense)**|
 |**2024-10-05**|**DB-SAM: Delving into High Quality Universal Medical Image Segmentation**|Chao Qin et.al.|[2410.04172v1](http://arxiv.org/abs/2410.04172v1)|**[link](https://github.com/alfredqin/db-sam)**|
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207v1](http://arxiv.org/abs/2410.02207v1)|null|
 |**2024-09-14**|**Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare**|Zhikai Li et.al.|[2410.01813v1](http://arxiv.org/abs/2410.01813v1)|null|
