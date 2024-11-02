@@ -1,4 +1,4 @@
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 
 ## SAM
 
@@ -7,7 +7,7 @@
 |**2024-10-29**|**Performance of the Segment Anything Model in Various RFI/Events Detection in Radio Astronomy**|Yanbin Yang et.al.|[2410.22497v1](http://arxiv.org/abs/2410.22497v1)|null|
 |**2024-10-30**|**Benchmarking Human and Automated Prompting in the Segment Anything Model**|Jorge Quesada et.al.|[2410.22048v2](http://arxiv.org/abs/2410.22048v2)|**[link](https://github.com/olivesgatech/pointprompt)**|
 |**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813v1](http://arxiv.org/abs/2410.21813v1)|**[link](https://github.com/vvjia/sam-swin)**|
-|**2024-10-22**|**VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation**|Chika Maduabuchi et.al.|[2410.21304v1](http://arxiv.org/abs/2410.21304v1)|null|
+|**2024-10-22**|**VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation**|Chika Maduabuchi et.al.|[2410.21304v1](http://arxiv.org/abs/2410.21304v1)|**[link](https://github.com/chikap421/videosam)**|
 |**2024-10-29**|**Transferable Adversarial Attacks on SAM and Its Downstream Models**|Song Xia et.al.|[2410.20197v2](http://arxiv.org/abs/2410.20197v2)|**[link](https://github.com/xiasong0501/grat)**|
 |**2024-10-25**|**A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion**|Yuxin Chen et.al.|[2410.19996v1](http://arxiv.org/abs/2410.19996v1)|null|
 |**2024-10-11**|**A SAM based Tool for Semi-Automatic Food Annotation**|Lubnaa Abdur Rahman et.al.|[2410.19756v1](http://arxiv.org/abs/2410.19756v1)|null|
