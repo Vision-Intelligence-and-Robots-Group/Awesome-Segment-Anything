@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images**|Gabriel Bellon de Carvalho et.al.|[2411.03064v1](http://arxiv.org/abs/2411.03064v1)|null|
+|**2024-11-05**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[2411.02974v1](http://arxiv.org/abs/2411.02974v1)|null|
+|**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969v1](http://arxiv.org/abs/2411.02969v1)|null|
+|**2024-11-05**|**Foundation AI Model for Medical Image Segmentation**|Rina Bao et.al.|[2411.02745v1](http://arxiv.org/abs/2411.02745v1)|null|
+|**2024-11-04**|**Segment Anything for Dendrites from Electron Microscopy**|Zewen Zhuo et.al.|[2411.02562v1](http://arxiv.org/abs/2411.02562v1)|**[link](https://github.com/ZE-WEN/DendriteSAM)**|
 |**2024-11-04**|**UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering**|A. Mudit Adityaja et.al.|[2411.01966v1](http://arxiv.org/abs/2411.01966v1)|**[link](https://github.com/mudit-adityaja/unsegmedgat)**|
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626v1](http://arxiv.org/abs/2411.00626v1)|**[link](https://github.com/naver-ai/zim)**|
 |**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548v1](http://arxiv.org/abs/2411.00548v1)|null|
@@ -45,7 +50,7 @@
 |**2024-09-30**|**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision**|Mélanie Gaillochet et.al.|[2409.20293v1](http://arxiv.org/abs/2409.20293v1)|null|
 |**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253v1](http://arxiv.org/abs/2409.20253v1)|null|
 |**2024-09-30**|**Task-Oriented Pre-Training for Drivable Area Detection**|Fulong Ma et.al.|[2409.20166v1](http://arxiv.org/abs/2409.20166v1)|null|
-|**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603v1](http://arxiv.org/abs/2409.19603v1)|null|
+|**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603v1](http://arxiv.org/abs/2409.19603v1)|**[link](https://github.com/showlab/videolisa)**|
 |**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590v1](http://arxiv.org/abs/2409.19590v1)|null|
 |**2024-10-10**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483v2](http://arxiv.org/abs/2409.19483v2)|**[link](https://github.com/healthx-lab/medclip-samv2)**|
 |**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653v1](http://arxiv.org/abs/2409.18653v1)|**[link](https://github.com/zhoustan/sam2-vcos)**|
