@@ -4,10 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**EAP4EMSIG -- Experiment Automation Pipeline for Event-Driven Microscopy to Smart Microfluidic Single-Cells Analysis**|Nils Friederich et.al.|[2411.05030v1](http://arxiv.org/abs/2411.05030v1)|null|
 |**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348v1](http://arxiv.org/abs/2411.04348v1)|null|
 |**2024-11-06**|**SA3DIP: Segment Any 3D Instance with Potential 3D Priors**|Xi Yang et.al.|[2411.03819v1](http://arxiv.org/abs/2411.03819v1)|**[link](https://github.com/ryang41/sa3dip)**|
 |**2024-11-05**|**Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images**|Gabriel Bellon de Carvalho et.al.|[2411.03064v1](http://arxiv.org/abs/2411.03064v1)|null|
-|**2024-11-05**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[2411.02974v1](http://arxiv.org/abs/2411.02974v1)|null|
+|**2024-11-08**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[2411.02974v2](http://arxiv.org/abs/2411.02974v2)|null|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969v1](http://arxiv.org/abs/2411.02969v1)|null|
 |**2024-11-05**|**Foundation AI Model for Medical Image Segmentation**|Rina Bao et.al.|[2411.02745v1](http://arxiv.org/abs/2411.02745v1)|null|
 |**2024-11-04**|**Segment Anything for Dendrites from Electron Microscopy**|Zewen Zhuo et.al.|[2411.02562v1](http://arxiv.org/abs/2411.02562v1)|**[link](https://github.com/ZE-WEN/DendriteSAM)**|
