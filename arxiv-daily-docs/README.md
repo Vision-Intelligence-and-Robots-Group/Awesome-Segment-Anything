@@ -1,4 +1,4 @@
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 
 ## SAM
 
@@ -50,7 +50,7 @@
 |**2024-10-13**|**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model**|Yuchen Li et.al.|[2410.09714v1](http://arxiv.org/abs/2410.09714v1)|null|
 |**2024-10-12**|**Distribution-aware Noisy-label Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.09409v1](http://arxiv.org/abs/2410.09409v1)|**[link](https://github.com/sky-visionx/cracksegmentation)**|
 |**2024-10-11**|**VideoSAM: Open-World Video Segmentation**|Pinxue Guo et.al.|[2410.08781v1](http://arxiv.org/abs/2410.08781v1)|null|
-|**2024-10-09**|**Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy**|Yuxuan Wen et.al.|[2410.07460v1](http://arxiv.org/abs/2410.07460v1)|null|
+|**2024-10-09**|**Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy**|Yuxuan Wen et.al.|[2410.07460v1](http://arxiv.org/abs/2410.07460v1)|**[link](https://github.com/Yuxuan-Wen/Sim2real-Guidewire-Seg)**|
 |**2024-10-11**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964v2](http://arxiv.org/abs/2410.06964v2)|null|
 |**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194v1](http://arxiv.org/abs/2410.06194v1)|**[link](https://github.com/stevenmsy/directsam-rs)**|
 |**2024-10-08**|**Towards Unsupervised Eye-Region Segmentation for Eye Tracking**|Jiangfan Deng et.al.|[2410.06131v1](http://arxiv.org/abs/2410.06131v1)|null|
