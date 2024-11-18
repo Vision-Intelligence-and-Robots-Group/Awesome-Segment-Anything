@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning**|Zewen Chen et.al.|[2411.10161v1](http://arxiv.org/abs/2411.10161v1)|**[link](https://github.com/chencn2020/seagull)**|
+|**2024-11-15**|**CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation**|Yihang Fu et.al.|[2411.10136v1](http://arxiv.org/abs/2411.10136v1)|null|
+|**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086v1](http://arxiv.org/abs/2411.10086v1)|null|
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219v1](http://arxiv.org/abs/2411.09219v1)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629v1](http://arxiv.org/abs/2411.08629v1)|null|
 |**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592v1](http://arxiv.org/abs/2411.08592v1)|null|
