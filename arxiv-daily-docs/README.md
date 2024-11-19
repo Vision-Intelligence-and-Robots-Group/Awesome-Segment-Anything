@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285v1](http://arxiv.org/abs/2411.11285v1)|null|
 |**2024-11-15**|**SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning**|Zewen Chen et.al.|[2411.10161v1](http://arxiv.org/abs/2411.10161v1)|**[link](https://github.com/chencn2020/seagull)**|
 |**2024-11-15**|**CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation**|Yihang Fu et.al.|[2411.10136v1](http://arxiv.org/abs/2411.10136v1)|null|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086v1](http://arxiv.org/abs/2411.10086v1)|null|
@@ -37,7 +38,7 @@
 |**2024-10-25**|**A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion**|Yuxin Chen et.al.|[2410.19996v1](http://arxiv.org/abs/2410.19996v1)|null|
 |**2024-10-11**|**A SAM based Tool for Semi-Automatic Food Annotation**|Lubnaa Abdur Rahman et.al.|[2410.19756v1](http://arxiv.org/abs/2410.19756v1)|null|
 |**2024-10-24**|**Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction**|Hongxin Peng et.al.|[2410.18433v1](http://arxiv.org/abs/2410.18433v1)|null|
-|**2024-10-23**|**Gaze-Assisted Medical Image Segmentation**|Leila Khaertdinova et.al.|[2410.17920v1](http://arxiv.org/abs/2410.17920v1)|**[link](https://github.com/leiluk1/gaze-based-segmentation)**|
+|**2024-11-17**|**Gaze-Assisted Medical Image Segmentation**|Leila Khaertdinova et.al.|[2410.17920v2](http://arxiv.org/abs/2410.17920v2)|**[link](https://github.com/leiluk1/gaze-based-segmentation)**|
 |**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064v1](http://arxiv.org/abs/2410.17064v1)|**[link](https://github.com/kuty007/multi-kernel-gan)**|
 |**2024-10-21**|**PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model**|Zhongchen Deng et.al.|[2410.16545v1](http://arxiv.org/abs/2410.16545v1)|null|
 |**2024-10-21**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268v1](http://arxiv.org/abs/2410.16268v1)|**[link](https://github.com/mark12ding/sam2long)**|
