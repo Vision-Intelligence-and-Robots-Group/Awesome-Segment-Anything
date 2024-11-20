@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602v1](http://arxiv.org/abs/2411.12602v1)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
+|**2024-11-18**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922v1](http://arxiv.org/abs/2411.11922v1)|**[link](https://github.com/yangchris11/samurai)**|
 |**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285v1](http://arxiv.org/abs/2411.11285v1)|null|
 |**2024-11-15**|**SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning**|Zewen Chen et.al.|[2411.10161v1](http://arxiv.org/abs/2411.10161v1)|**[link](https://github.com/chencn2020/seagull)**|
 |**2024-11-15**|**CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation**|Yihang Fu et.al.|[2411.10136v1](http://arxiv.org/abs/2411.10136v1)|null|
@@ -18,7 +20,7 @@
 |**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702v1](http://arxiv.org/abs/2411.06702v1)|null|
 |**2024-11-10**|**Superpixel Segmentation: A Long-Lasting Ill-Posed Problem**|Rémi Giraud et.al.|[2411.06478v1](http://arxiv.org/abs/2411.06478v1)|null|
 |**2024-11-08**|**Assessing Foundational Medical 'Segment Anything' (Med-SAM1, Med-SAM2) Deep Learning Models for Left Atrial Segmentation in 3D LGE MRI**|Mehri Mehrnia et.al.|[2411.05963v1](http://arxiv.org/abs/2411.05963v1)|null|
-|**2024-11-08**|**Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model**|Shuchang Lyu et.al.|[2411.05878v1](http://arxiv.org/abs/2411.05878v1)|**[link](https://github.com/cv-shuchanglyu/sam-joanet)**|
+|**2024-11-18**|**Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model**|Shuchang Lyu et.al.|[2411.05878v2](http://arxiv.org/abs/2411.05878v2)|**[link](https://github.com/cv-shuchanglyu/sam-joanet)**|
 |**2024-11-06**|**EAP4EMSIG -- Experiment Automation Pipeline for Event-Driven Microscopy to Smart Microfluidic Single-Cells Analysis**|Nils Friederich et.al.|[2411.05030v1](http://arxiv.org/abs/2411.05030v1)|**[link](https://github.com/NVIDIA/TensorRT)**|
 |**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348v1](http://arxiv.org/abs/2411.04348v1)|null|
 |**2024-11-06**|**SA3DIP: Segment Any 3D Instance with Potential 3D Priors**|Xi Yang et.al.|[2411.03819v1](http://arxiv.org/abs/2411.03819v1)|**[link](https://github.com/ryang41/sa3dip)**|
