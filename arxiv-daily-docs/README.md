@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction**|Kuiran Wang et.al.|[2411.13183v1](http://arxiv.org/abs/2411.13183v1)|null|
+|**2024-11-13**|**SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation**|Jiayu Huo et.al.|[2411.12755v1](http://arxiv.org/abs/2411.12755v1)|null|
 |**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602v1](http://arxiv.org/abs/2411.12602v1)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
 |**2024-11-18**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922v1](http://arxiv.org/abs/2411.11922v1)|**[link](https://github.com/yangchris11/samurai)**|
 |**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285v1](http://arxiv.org/abs/2411.11285v1)|null|
