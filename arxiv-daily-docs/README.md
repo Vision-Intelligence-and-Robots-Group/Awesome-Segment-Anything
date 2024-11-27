@@ -4,11 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646v1](http://arxiv.org/abs/2411.17646v1)|**[link](https://github.com/claudiacuttano/samwise)**|
+|**2024-11-26**|**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting**|Jie Xu et.al.|[2411.17363v1](http://arxiv.org/abs/2411.17363v1)|null|
+|**2024-11-26**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217v1](http://arxiv.org/abs/2411.17217v1)|null|
 |**2024-11-25**|**UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets**|Adrien Meyer et.al.|[2411.16222v1](http://arxiv.org/abs/2411.16222v1)|**[link](https://github.com/camma-public/ultrasam)**|
-|**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219v1](http://arxiv.org/abs/2411.16219v1)|null|
+|**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219v1](http://arxiv.org/abs/2411.16219v1)|**[link](https://github.com/manuelknott/banana-defect-segmentation)**|
 |**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196v1](http://arxiv.org/abs/2411.16196v1)|null|
-|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123v1](http://arxiv.org/abs/2411.16123v1)|null|
-|**2024-11-22**|**There is no SAMantics! Exploring SAM as a Backbone for Visual Understanding Tasks**|Miguel Espinosa et.al.|[2411.15288v1](http://arxiv.org/abs/2411.15288v1)|null|
+|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123v1](http://arxiv.org/abs/2411.16123v1)|**[link](https://github.com/facebookresearch/segment-anything)**|
+|**2024-11-22**|**There is no SAMantics! Exploring SAM as a Backbone for Visual Understanding Tasks**|Miguel Espinosa et.al.|[2411.15288v1](http://arxiv.org/abs/2411.15288v1)|**[link](https://github.com/miquel-espinosa/samantics)**|
 |**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723v1](http://arxiv.org/abs/2411.14723v1)|null|
 |**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840v1](http://arxiv.org/abs/2411.13840v1)|null|
 |**2024-11-21**|**Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals**|Hussni Mohd Zakir et.al.|[2411.13774v1](http://arxiv.org/abs/2411.13774v1)|null|
