@@ -12,7 +12,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 ## 1 Origin of the Study <span id='quick-start'></span>
 
-**Fundemental Models**
+**Fundamental Models**
 
 + **[SAM]** Segment Anything (2023)[[paper]](https://arxiv.org/pdf/2304.02643.pdf) [[Project]](https://github.com/facebookresearch/segment-anything)![GitHub stars](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?logo=github&label=Stars)
 
@@ -83,7 +83,7 @@ A collection of projects, papers, and source code for SAM and related studies.
 
 + **[Multi-Object Tracking]** CO-MOT[paper][[code]](https://github.com/BingfengYan/VISAM)![GitHub stars](https://img.shields.io/github/stars/BingfengYan/VISAM.svg?logo=github&label=Stars)
 
-### Explaning and Supporting Basic Models
+### Explaining and Supporting Basic Models
 
 + **[CLIP]** CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper]](http://arxiv.org/abs/2304.05653v1)[[code]](https://github.com/xmed-lab/clip_surgery)
 
