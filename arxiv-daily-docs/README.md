@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646v1](http://arxiv.org/abs/2411.17646v1)|**[link](https://github.com/claudiacuttano/samwise)**|
 |**2024-11-26**|**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting**|Jie Xu et.al.|[2411.17363v1](http://arxiv.org/abs/2411.17363v1)|null|
-|**2024-11-26**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217v1](http://arxiv.org/abs/2411.17217v1)|null|
+|**2024-11-27**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217v2](http://arxiv.org/abs/2411.17217v2)|null|
 |**2024-11-25**|**UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets**|Adrien Meyer et.al.|[2411.16222v1](http://arxiv.org/abs/2411.16222v1)|**[link](https://github.com/camma-public/ultrasam)**|
 |**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219v1](http://arxiv.org/abs/2411.16219v1)|**[link](https://github.com/manuelknott/banana-defect-segmentation)**|
 |**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196v1](http://arxiv.org/abs/2411.16196v1)|null|
