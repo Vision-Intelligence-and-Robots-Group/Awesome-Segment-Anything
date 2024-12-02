@@ -4,9 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
+|**2024-11-28**|**Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**|Zhiting Wang et.al.|[2411.18977v1](http://arxiv.org/abs/2411.18977v1)|**[link](https://github.com/motern88/det-sam2)**|
+|**2024-11-28**|**Efficient Track Anything**|Yunyang Xiong et.al.|[2411.18933v1](http://arxiv.org/abs/2411.18933v1)|null|
+|**2024-11-28**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858v1](http://arxiv.org/abs/2411.18858v1)|**[link](https://github.com/guobaoxiao/comprompter)**|
+|**2024-11-27**|**SimCMF: A Simple Cross-modal Fine-tuning Strategy from Vision Foundation Models to Any Imaging Modality**|Chenyang Lei et.al.|[2411.18669v1](http://arxiv.org/abs/2411.18669v1)|**[link](https://github.com/mt-cly/simcmf)**|
 |**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646v1](http://arxiv.org/abs/2411.17646v1)|**[link](https://github.com/claudiacuttano/samwise)**|
 |**2024-11-26**|**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting**|Jie Xu et.al.|[2411.17363v1](http://arxiv.org/abs/2411.17363v1)|null|
-|**2024-11-27**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217v2](http://arxiv.org/abs/2411.17217v2)|null|
+|**2024-11-29**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217v3](http://arxiv.org/abs/2411.17217v3)|null|
 |**2024-11-25**|**UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets**|Adrien Meyer et.al.|[2411.16222v1](http://arxiv.org/abs/2411.16222v1)|**[link](https://github.com/camma-public/ultrasam)**|
 |**2024-11-25**|**Weakly supervised image segmentation for defect-based grading of fresh produce**|Manuel Knott et.al.|[2411.16219v1](http://arxiv.org/abs/2411.16219v1)|**[link](https://github.com/manuelknott/banana-defect-segmentation)**|
 |**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196v1](http://arxiv.org/abs/2411.16196v1)|**[link](https://github.com/agroboticsresearch/sdm-d)**|
@@ -27,7 +32,7 @@
 |**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629v1](http://arxiv.org/abs/2411.08629v1)|null|
 |**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592v1](http://arxiv.org/abs/2411.08592v1)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453v1](http://arxiv.org/abs/2411.08453v1)|null|
-|**2024-11-12**|**INTRABENCH: Interactive Radiological Benchmark**|Constantin Ulrich et.al.|[2411.07885v1](http://arxiv.org/abs/2411.07885v1)|null|
+|**2024-11-29**|**RadioActive: 3D Radiological Interactive Segmentation Benchmark**|Constantin Ulrich et.al.|[2411.07885v2](http://arxiv.org/abs/2411.07885v2)|null|
 |**2024-11-14**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463v3](http://arxiv.org/abs/2411.07463v3)|**[link](https://github.com/chikap421/mseg_vcuq)**|
 |**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971v1](http://arxiv.org/abs/2411.06971v1)|null|
 |**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702v1](http://arxiv.org/abs/2411.06702v1)|null|
