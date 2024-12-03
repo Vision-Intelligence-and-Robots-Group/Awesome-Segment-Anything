@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
-|**2024-11-28**|**Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**|Zhiting Wang et.al.|[2411.18977v1](http://arxiv.org/abs/2411.18977v1)|**[link](https://github.com/motern88/det-sam2)**|
+|**2024-12-02**|**Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**|Zhiting Wang et.al.|[2411.18977v2](http://arxiv.org/abs/2411.18977v2)|**[link](https://github.com/motern88/det-sam2)**|
 |**2024-11-28**|**Efficient Track Anything**|Yunyang Xiong et.al.|[2411.18933v1](http://arxiv.org/abs/2411.18933v1)|null|
 |**2024-11-28**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858v1](http://arxiv.org/abs/2411.18858v1)|**[link](https://github.com/guobaoxiao/comprompter)**|
 |**2024-11-27**|**SimCMF: A Simple Cross-modal Fine-tuning Strategy from Vision Foundation Models to Any Imaging Modality**|Chenyang Lei et.al.|[2411.18669v1](http://arxiv.org/abs/2411.18669v1)|**[link](https://github.com/mt-cly/simcmf)**|
@@ -23,7 +23,7 @@
 |**2024-11-24**|**ClickTrack: Towards Real-time Interactive Single Object Tracking**|Kuiran Wang et.al.|[2411.13183v2](http://arxiv.org/abs/2411.13183v2)|null|
 |**2024-11-13**|**SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation**|Jiayu Huo et.al.|[2411.12755v1](http://arxiv.org/abs/2411.12755v1)|null|
 |**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602v1](http://arxiv.org/abs/2411.12602v1)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
-|**2024-11-18**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922v1](http://arxiv.org/abs/2411.11922v1)|**[link](https://github.com/yangchris11/samurai)**|
+|**2024-11-30**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922v2](http://arxiv.org/abs/2411.11922v2)|**[link](https://github.com/yangchris11/samurai)**|
 |**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285v1](http://arxiv.org/abs/2411.11285v1)|null|
 |**2024-11-15**|**SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning**|Zewen Chen et.al.|[2411.10161v1](http://arxiv.org/abs/2411.10161v1)|**[link](https://github.com/chencn2020/seagull)**|
 |**2024-11-15**|**CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation**|Yihang Fu et.al.|[2411.10136v1](http://arxiv.org/abs/2411.10136v1)|null|
