@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562v1](http://arxiv.org/abs/2412.01562v1)|**[link](https://github.com/MiraPurkrabek/BBoxMaskPose)**|
+|**2024-12-02**|**CellSeg1: Robust Cell Segmentation with One Training Image**|Peilin Zhou et.al.|[2412.01410v1](http://arxiv.org/abs/2412.01410v1)|**[link](https://github.com/Nuisal/cellseg1)**|
+|**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240v1](http://arxiv.org/abs/2412.01240v1)|null|
+|**2024-12-02**|**Referring Video Object Segmentation via Language-aligned Track Selection**|Seongchan Kim et.al.|[2412.01136v1](http://arxiv.org/abs/2412.01136v1)|null|
 |**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
 |**2024-12-02**|**Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**|Zhiting Wang et.al.|[2411.18977v2](http://arxiv.org/abs/2411.18977v2)|**[link](https://github.com/motern88/det-sam2)**|
 |**2024-11-28**|**Efficient Track Anything**|Yunyang Xiong et.al.|[2411.18933v1](http://arxiv.org/abs/2411.18933v1)|null|
