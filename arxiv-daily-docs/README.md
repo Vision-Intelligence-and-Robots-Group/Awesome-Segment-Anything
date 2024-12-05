@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472v1](http://arxiv.org/abs/2412.03472v1)|null|
+|**2024-12-04**|**MRNet: Multifaceted Resilient Networks for Medical Image-to-Image Translation**|Hyojeong Lee et.al.|[2412.03039v1](http://arxiv.org/abs/2412.03039v1)|null|
 |**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562v1](http://arxiv.org/abs/2412.01562v1)|**[link](https://github.com/MiraPurkrabek/BBoxMaskPose)**|
 |**2024-12-02**|**CellSeg1: Robust Cell Segmentation with One Training Image**|Peilin Zhou et.al.|[2412.01410v1](http://arxiv.org/abs/2412.01410v1)|**[link](https://github.com/Nuisal/cellseg1)**|
 |**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240v1](http://arxiv.org/abs/2412.01240v1)|null|
